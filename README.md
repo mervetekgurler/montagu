@@ -1,4 +1,4 @@
-# From Primary Source to Digital Text Analysis: The Letter of Lady Montagu
+# From Primary Sources to Computational Text Analysis: The Letters of Lady Montagu
 
 ## Introduction
 

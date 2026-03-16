@@ -1,0 +1,33 @@
+name: montagu-letters
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - jupyter
+  - matplotlib
+  - seaborn
+  - numpy
+  - python>=3.14
+  - ipykernel
+  - scikit-learn
+  - nltk
+  - gensim
+  - pandas
+  - python-dotenv
+  - spacy
+  - lxml
+  - requests
+  - beautifulsoup4
+  - pip  # Add pip to install packages not in conda
+  - pip:
+      - google-genai  # google-genai must be installed via pip
+      - pypdf
+      - pdf2image
+      - textblob
+      - wordcloud
+      - tqdm
+      - folium
+      - python-docx
+      - ipywidgets
+      - stanza
