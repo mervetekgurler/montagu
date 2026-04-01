@@ -1,12 +1,9 @@
-# Python Programming for Multilingual Texts
-*The Letters of Lady Montagu*
+# Python Programming for Multilingual Texts: The Letters of Lady Montagu
 
 ![img](img/montagu_national_portrait_galery_edited.jpg)
-<small>Lady Mary Wortley Montagu with her son, Edward Wortley Montagu, and attendants. Jean Baptiste Vanmour, ca. 1717. National Portrait Gallery, London, UK.</small>
+*Lady Mary Wortley Montagu with her son, Edward Wortley Montagu, and attendants. Jean Baptiste Vanmour, ca. 1717. National Portrait Gallery, London, UK.*
 
 What does it take to turn a historical text into data? How can we productively apply contemporary computational methods to historical texts? What do these methods reveal that we could not have found by reading the sources alone? And what happens when we apply the same methods to two versions of the same text in two different languages? What does working across two languages tell us about the methods themselves? This course uses one of the richest epistolary corpora of the 18th century, Lady Mary Wortley Montagu (1689-1762)’s Turkish Embassy Letters, operationalizing every stage of a digital history project: From archival sources to text extraction, from raw data to research questions, from computational analysis to visualization and interpretation, and machine translation.
-
-
 
 ## Introduction
 
