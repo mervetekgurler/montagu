@@ -1,0 +1,11 @@
+{
+  "page": 467,
+  "raw_response": "{\n  \"page\": 169,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Le terrein, quoique sabloneux, est fertile en dattes, en figues & en olives, qui viennent sans qu'on les cultive : ce sont, en général, de très-bons fruits. Les vignobles & les champs où l'on seme les melons, sont entourés de haies faites avec ce que nous appellons figuiers d'Inde : elles sont si fortes que les bêtes fauves ne peuvent passer au travers. Ces figuiers d'Inde montent fort haut & garnissent beaucoup ; ils ont des épines qui sont aussi longues & aussi pointues que des poinçons ; ils portent des fruits qui sont assez agréables au goût, & dont le Paysan fait une grande consommation. \\nC'est à présent le Ramadan ou Carême des Turcs ; comme tout le monde professe ici la Religion Mahométane, l'on ne voit manger personne pendant le jour ; mais on passe la nuit dans les festins. Nous avons\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 285,
+    "total_tokens": 6993
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 419,
+  "raw_response": "{\n  \"page\": 127,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"apporté la nuit de Constantinople : l'assassin fut très-peu recherché : on enterra le corps la nuit sans bruit. Le meurtre ici n'est jamais poursuivi par les Officiers de Justice, comme parmi nous. Ce sont les proches parens du mort qui font les poursuites ; &, s'ils veulent s'accommoder pour de l'argent, ce qui arrive souvent, le meurtrier n'est plus inquiété. On croiroit qu'un pareil vice dans le Gouvernement rendroit ce crime fréquent ; mais il est très-rare ; ce qui prouve que cette Nation n'est pas naturellement cruelle ; aussi ne mérite-t-elle pas, même à beaucoup d'autres égards, le titre de barbare que nous lui donnons. J'ai lié amitié avec une Dame Chrétienne de qualité, qui a pris un mari Turc ; c'est une femme d'esprit & de beaucoup de mérite. Son histoire est singuliere, au point que je ne puis me dispen-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 304,
+    "total_tokens": 7012
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 389,
+  "raw_response": "{\n  \"page\": 99,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"grois : j'ai le désagrément d'entendre parler dix de ces différentes Langues dans ma maison. Mes Officiers sont Arabes ; mes valets sont Anglois, François & Allemands ; la nourrice de mon enfant est Arménienne ; mes filles de chambre sont Russes ; j'ai une demi-douzaines d'autres domestiques qui sont Grecs : mon Maître-d'Hôtel est Italien, & mes Janissaires sont Turcs. Cette diversité de sons, qui frappent continuellement mon oreille, produit parmi mes gens un effet singulier. Ils apprennent toutes ces Langues à la fois, sans pouvoir cependant les lire ni les écrire. Il y a ici peu d'hommes, de femmes, même d'enfans qui ne puissent rendre les mêmes choses en cinq ou six idiomes différens. Enfin, on voit des enfans de trois ou quatre ans qui parlent Italien, François, Grec, Turc & Russe. Ils\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 290,
+    "total_tokens": 6998
+  }
+}

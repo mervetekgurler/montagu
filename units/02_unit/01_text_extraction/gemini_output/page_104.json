@@ -1,0 +1,11 @@
+{
+  "page": 104,
+  "raw_response": "{\n  \"page\": 82,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"malgré le soin que j'ai pris pour découvrir quelque chose qui soit digne de votre curiosité. J'ai examiné, avec beaucoup d'attention, tout ce qu'il y a à voir ici. On y trouve quelques belles maisons de campagne, particulierement celle du feu Prince de Lichtenstein ; mais il n'y a que des statues modernes ; les tableaux même ne sont pas des meilleurs Maîtres : il est vrai que l'Empereur en a quelques-uns de grand prix. J'allai hier voir son trésor : il paroît que, pour le garnir, on a plus songé à la quantité qu'à la qualité. J'y passai plus de cinq heures, & quoiqu'il y ait beaucoup de choses, j'y en trouvai peu qui méritassent attention. Il est dans une très-longue galerie qui est remplie des deux côtés*, & dans cinq grandes chambres qui font aussi toutes pleines. On y voit beaucoup de\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 290,
+    "total_tokens": 6998
+  }
+}

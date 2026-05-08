@@ -1,0 +1,11 @@
+{
+  "page": 339,
+  "raw_response": "{\n  \"page\": 49,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XXXVI\",\n      \"heading\": \"LETTRE XXXVI.\",\n      \"recipient\": \"A M. Pope.\",\n      \"location\": \"Du Village de Belgrade\",\n      \"date\": \"le 17 Juin 1717. Vieux style.\",\n      \"body\": \"JE compte que vous avez reçu à présent deux ou trois de mes Lettres. Celle où vous me supposez morte & enterrée ne m'est parvenue qu'hier, quoique datée du trois Février. Je vous ai déjà appris que j'étois encore de ce monde ; mais en vérité, je compare ma situation actuelle à celle des esprits séparés des corps. Les chaleurs de Constantinople sont cause que je suis dans ce lieu qui répond parfaitement à la description des Champs Elisées. C'est un bois planté d'arbres fruitiers, qui font arrosés par un grand nombre de fontaines, dont l'eau est très-claire & très-bonne ; ils ombragent plu-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 260,
+    "total_tokens": 6968
+  }
+}

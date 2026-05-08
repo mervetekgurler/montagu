@@ -1,0 +1,11 @@
+{
+  "page": 113,
+  "raw_response": "{\n  \"page\": 91,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"voyageurs dans l'Elbe ; mais, grace à Dieu, nous n'avons pas eu cette triste destinée. Après avoir passé ces affreux rochers, nous découvrîmes Dresde, dont la situation est très-agréable : elle est dans une vaste plaine sur le bord de l'Elbe. Je fus bien aise d'y passer un jour pour me reposer. De toutes les Villes que j'ai vues en Allemagne, c'est la plus propre. Les maisons y sont presque toutes bâties à neuf; le Palais de l'Electeur est très-beau ; son trésor est rempli de raretés de différentes especes ; il y a une collection de médailles fort estimée. Le Chevalier *** envoyé de notre Roi m'a rendu visite, aussi-bien que Madame de L*** que j'avois connue à Londres, lorsque son mari y étoit en qualité d'Envoyé de Pologne ; elle a fait tout ce qu'elle a pu pour me procurer de l'amusement ; elle m'a présenté plusieurs Dames de sa connoissance. Il\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 316,
+    "total_tokens": 7024
+  }
+}

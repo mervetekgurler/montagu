@@ -1,0 +1,11 @@
+{
+  "page": 223,
+  "raw_response": "{\n  \"page\": 193,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"rez recevoir de mes nouvelles plus d'une fois en six mois. C'est ce qui m'a engagée à être si prolixe ; c'est aussi ce qui vous engagera, je l'espere, à excuser votre, &c.\",\n      \"footnote\": null\n    },\n    {\n      \"number\": \"XXIX\",\n      \"heading\": \"LETTRE XXIX.\",\n      \"recipient\": \"A la Comtesse de ***.\",\n      \"location\": \"Andrinople\",\n      \"date\": \"le premier Avril 1717. Vieux style.\",\n      \"body\": \"J'Ai lieu de me plaindre de vous, ma chere Sœur : je ne manque jamais de vous faire part de tout ce qui paroît ici capable de vous amuser, & vous vous contentez de me dire & de me répéter que la Ville de Londres est bien triste. Il est possible qu'elle le soit pour vous, sur-tout quand il n'y arrive point d'évenement nouveau ; mais, pour moi, qui n'en ai reçu aucune nouvelle depuis deux mois, je trouverois très-nou-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 331,
+    "total_tokens": 7056
+  }
+}

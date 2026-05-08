@@ -1,0 +1,11 @@
+{
+  "page": 462,
+  "raw_response": "{\n  \"page\": 164,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Ce lieu m'inspira de la vénération, &\\nme rappella l'idée de ce magnifique\\nTemple de Thésée qui étoit à Athè-\\nnes, & qui subsisteroit vraisembla-\\nblement encore presque tout entier\\nsans l'accident qui lui arriva par\\nl'imprudence des Turcs : pendant la\\nderniere campagne de la Morée, ils\\nen firent leur magazin à poudre ; le\\nfeu y prit & il sauta en l'air. J'avois\\nbien envie, comme vous pouvez le\\ncroire, de mettre pied à terre dans\\nle fameux Péloponese, pour goûter le\\nplaisir de voir les rivieres d'Asopus,\\nde Percée, d'Inachus & d'Eurotas ; les\\ncampagnes d'Arcadie, enfin tous ces\\nlieux si connus dans l'ancienne My-\\nthologie ; mais on me dit, ce qui est\\nassez vraisemblable, qu'au lieu de\\nHéros & de demi-Dieux, l'on n'y trou-\\nvoit plus que des brigands, entre les\\nmains desquels je pourrois très-bien\\ntomber si j'avançois dans un pays si\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 367,
+    "total_tokens": 7075
+  }
+}

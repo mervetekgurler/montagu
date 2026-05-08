@@ -1,0 +1,11 @@
+{
+  "page": 493,
+  "raw_response": "{\n  \"page\": 195,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"vaise Auberge où nous sommes, les bouteilles d'Apothicaire dont ma chambre est remplie, me donnent de l'humeur. Je suis, &c.\",\n      \"footnote\": null\n    },\n    {\n      \"number\": \"XLVIII\",\n      \"heading\": \"LETTRE XLVIII.\",\n      \"recipient\": \"A M. Pope.\",\n      \"location\": \"Lyon\",\n      \"date\": \"le 28 Septembre 1718. Vieux style.\",\n      \"body\": \"VOTRE Lettre m'a été adressée ici, & je l'ai reçue. Vous me marquez que vous avez appris mon retour avec plaisir : je devrois vous en remercier, il est vrai ; mais je ne puis vous pardonner de vous réjouir d'une chose qui m'afflige : ce compliment doit vous paroître extraordinaire. Il est cependant certain que je reverrai mes amis avec beaucoup de satisfaction ; mais, quand je fais réflexion que je serai obligée de\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

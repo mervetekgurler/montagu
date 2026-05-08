@@ -1,0 +1,11 @@
+{
+  "page": 138,
+  "raw_response": "{\n  \"page\": 114,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"noît à Vienne qu'une demi-douzaine de ces contredanses ; & on les répete depuis environ cinquante ans. J'aurois souhaité pouvoir en enseigner quelques-unes ; mais ç'auroit été un travail de plusieurs mois.\\nOn donna hier au soir une Comédie Italienne à la Cour : les scènes furent assez jolies ; mais la Comédie en elle-même étoit une farce si triviale & si plate, que je ne conçois pas comment la Cour put s'en amuser pendant quatre heures de suite. Pour Actrices, ce font des hommes qui s'habillent en femmes, & qui affectent une contenance, & des gestes si bizarres, qu'ils enchérissent sur le ridicule même du Spectacle. Mais le froid me fatiguoit encore plus que tout cela : il étoit si violent, que je pensai périr. L'hiver est extrêmement rude ici ; le Danube est entierement gelé : il seroit impossible de soutenir le froid sans les\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 302,
+    "total_tokens": 7010
+  }
+}

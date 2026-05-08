@@ -1,0 +1,11 @@
+{
+  "page": 373,
+  "raw_response": "{\n  \"page\": 83,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Cours, où l'on guette un coup d'œil du Monarque : l'on y attend, avec impatience, un sourire de sa part ; & toutes celles qui ne l'ont pas obtenu font jalouses de celle à qui il est adressé.\\nElle ne prononçoit jamais le nom de Mustapha, sans avoir les larmes aux yeux ; & cependant elle en parloit avec plaisir. » Mon bonheur » passé, me dit-elle, me paroît un » songe ; mais je ne peux oublier » que j'étois aimée du plus grand & » du plus aimable des hommes. Je » faisois toutes les campagnes avec » lui ; il me préféroit à toutes les » autres ; & je ne lui aurois pas sur- » vécu, si je n'aimois la Princesse, » ma fille, avec la derniere tendresse: » à peine même cette tendresse a-t- » elle suffi pour me dérober à la mort. » Après l'avoir perdue, je ne pus » souffrir, pendant un an entier, la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 313,
+    "total_tokens": 7038
+  }
+}

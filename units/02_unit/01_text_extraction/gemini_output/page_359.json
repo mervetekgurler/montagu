@@ -1,0 +1,11 @@
+{
+  "page": 359,
+  "raw_response": "{\n  \"page\": 69,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"vier, vous êtes, sans doute, à vous geler auprès d'un misérable feu de charbon de terre ; & moi, dans le moment où je vous écris, j'ai fait ouvrir mes fenêtres pour profiter de la chaleur du soleil qui est extrêmement clair & pur ; ma chambre est garnie d'œillets, de roses & de jonquilles de mon jardin. Il y a plusieurs articles dans la Loi Turque qui m'enchantent : entre nous, ils font beaucoup plus sages & plus scrupuleusement exécutés que quelques-uns qui sont dans la nôtre. Les menteurs, en Angleterre, triomphent ordinairement de leur crime : ici, lorsqu'ils sont convaincus de quelqu'insigne fausseté, on les marque d'un fer chaud au front. Si cette Loi avoit lieu parmi nous, combien verrions-nous de beaux fronts défigurés ! Combien d'aimables Gentilshommes se feroient faire des perruques qui\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 291,
+    "total_tokens": 6999
+  }
+}

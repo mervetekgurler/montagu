@@ -1,0 +1,11 @@
+{
+  "page": 334,
+  "raw_response": "{\n  \"page\": 44,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"c'est tout ce que Dieu lui demande. Les femmes ne peuvent être effectivement astreintes à d'autres devoirs en Turquie, puisque tout commerce avec le Public leur est interdit. Nous sommes persuadés que les Mahométans ne croient point qu'elles ayent une ame ; mais nous nous trompons : il est vrai qu'ils prétendent que l'ame des femmes n'est pas d'une espèce si élevée que celle des hommes, & qu'elles n'entreront point dans le Paradis qui leur est destiné à eux qui doivent être seuls dans la compagnie des Béatitudes célestes ; mais ils croient qu'il y a un lieu de félicité destiné pour les femmes vertueuses, & où elles jouiront d'un bonheur éternel. Il y a beaucoup de femmes assez superstitieuses pour ne pas vouloir rester veuves dix jours, de crainte d'être réprouvées en mourant, comme des\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 282,
+    "total_tokens": 6990
+  }
+}

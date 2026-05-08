@@ -1,0 +1,11 @@
+{
+  "page": 274,
+  "raw_response": "{\n  \"page\": 232,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"pire Turc ; & ils connoissent si bien leurs priviléges qu'ils vont dans les rues sans crainte, & font ordinairement leurs nids au bas des maisons. Le peuple Turc regarde comme heureux ceux à qui appartiennent les maisons où ces oiseaux vont nicher, se persuadant qu'ils n'ont à craindre, pendant toute l'année, ni le feu ni la peste. J'ai le bonheur d'avoir un de ces nids sacrés sous les fenêtres de ma chambre. \\n A propos de chambre, je pense que la description des maisons de ce pays sera aussi agréable pour vous que celle des volatiles & des quadrupedes. Je suis persuadée que vous regardez, d'après les relations de la Turquie, toutes les maisons d'ici, comme étant de la plus pitoyable architecture. J'en ai vu un assez grand nombre pour en parler savamment, & je vous assûre que vous êtes dans\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 280,
+    "total_tokens": 7005
+  }
+}

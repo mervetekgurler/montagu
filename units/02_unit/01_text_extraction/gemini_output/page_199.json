@@ -1,0 +1,11 @@
+{
+  "page": 199,
+  "raw_response": "{\n  \"page\": 169,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XXVII\",\n      \"heading\": \"LETTRE XXVII.\",\n      \"recipient\": \"A l'Abbé ***.\",\n      \"location\": \"Andrinople\",\n      \"date\": \"le 1 Avril 1717. Vieux style.\",\n      \"body\": \"JE suis exacte, comme vous voyez, à vous tenir ma parole. Je ne sais, cependant, si votre curiosité sera satisfaite de la relation que je vais vous faire : mais je puis vous assurer que l'envie que j'ai de vous obliger en tout ce qui dépendra de moi, m'a fait faire toutes les recherches & toutes les observations possibles. Il est certain que nous n'avons qu'une connoissance imparfaite de la Religion & des Mœurs des Turcs ; leur pays n'étant visité que par des Négocians qui ne s'occupent que de leurs propres affaires, ou par des Voyageurs qui n'y font pas un assez long séjour pour en prendre une\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 261,
+    "total_tokens": 6969
+  }
+}

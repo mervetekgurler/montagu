@@ -1,0 +1,11 @@
+{
+  "page": 496,
+  "raw_response": "{\n  \"page\": 198,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"inopi. ut quæ. tali. marito. necesse. ha- buerit. succumbere. cum. domi. repellere- tur. à. gerendis. honoribus. post. quam. Romam. migravit. Regnum. adeptus. est. huic. eoque. &. filio. nepotive. ejus. nam. &. hoc. inter. auctores. discrepat. insertus. Servius. Tullius. si nostros. se- quimur. captiva. natus. ocrefia. si tus- cos cæli. quondam. vivenuæ. sodalis. fi- delissimus. omnis. que. ejus. casus. co- mes. postquam. varia. fortuna. exactus. cum. omnibus. reliquis. Cæliani. exerci- tus. Etruria. excessit. montem. Cælium. occupavit. &. à. duce. fuo. Cælio. ita appellitatus. mutatoque. nomine. nam. tusce. mastarna. ei. nomen. erat. ita. ap- pellatus. est. ut dixi. &. regnum. summa. cum. reip. utilitate. obtinuit. deinde, postquam. Tarquini. Superbi. mores. in- visi. civitati. nostræ. esse. cœperunt. qua. ipsius. qua. filiolum. ejus. nempe. per- tæsum. est. mentes. regni. &. ad. consu- les. annuos. Magistratus. administratio. reip. translata. est.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 439,
+    "total_tokens": 7147
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 475,
+  "raw_response": "{\n  \"page\": 177,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XLV\",\n      \"heading\": \"LETTRE XLV.\",\n      \"recipient\": \"A la Comtesse de ***.\",\n      \"location\": \"Gènes\",\n      \"date\": \"le 28 Août 1718. Vieux style.\",\n      \"body\": \"JE vous demande pardon, ma chere Soeur, de ne vous avoir pas écrit de Tunis ; c'est la seule occasion que j'ai eue de le faire depuis mon départ de Constantinople: mais la chaleur y étoit si excessive ; la lumiere y est si pernicieuse pour la vue, que j'ai pensé devenir aveugle en écrivant une Lettre à l'Abbé ***, & je n'ai osé en écrire d'autres ; d'ailleurs, qu'aurois-je pu vous mander de satisfaisant d'un pays barbare? Je suis à présent environnée d'objets agréables : l'Italie est un très-beau Pays ; & je me crois obligée de lui donner des éloges en reconnoissan-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6739,
+    "thought_tokens": null,
+    "output_tokens": 277,
+    "total_tokens": 7016
+  }
+}

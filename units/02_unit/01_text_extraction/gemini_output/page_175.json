@@ -1,0 +1,11 @@
+{
+  "page": 175,
+  "raw_response": "{\n  \"page\": 149,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"sterling. Nous apprîmes avec plaisir, que le peuple étoit dans de pareilles dispositions : mais lorsque nous fûmes arrivés ici, on nous a fait connoître que le Gouverneur de Peter-Waradin étoit mal informé. Le feu Bassa, au contraire, encourut l'indignation de ses Soldats, pour avoir voulu les empêcher de faire des incursions sur les Allemands : ils s'imaginerent qu'il étoit d'intelligence avec ces derniers, & en firent informer le Grand-Seigneur, qui étoit à Andrinople. Voyant qu'on ne leur donnoit pas une prompte satisfaction, ils s'assemblerent avec un grand tumulte, traînerent le Bassa devant le Cadi & le Mufti, à qui ils demanderent justice de la maniere du monde la plus insolente. L'un reprocha au Bassa de protéger les Infideles ; l'autre, de voler leur argent. Le Bassa, qui com-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7023
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 249,
+  "raw_response": "{\n  \"page\": 215,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"S T A N C E II.\\n\\n1. La possession désirée est différée de jour en jour ;\\nLe cruel Sultan Achmet me défend\\nDe voir ces joues plus vermeilles que les roses.\\n2. Je n'ose vous dérober un baiser :\\nLa douceur de vos charmes a ravi mon ame.\\n3. Vos yeux sont noirs & aimables ;\\nMais aussi vifs & aussi dédaigneux que ceux d'un Cerf.\\n\\nS T A N C E III.\\n\\n1. Ces Vers sont les interpretes des soupirs du malheureux Ibrahim.\\nUn dard sorti de vos yeux m'a percé l'ame.\\n2. Ah ! quand arrivera l'heure où je pourrai vous posséder ?\\nDois-je attendre encore long-tems ?\\nLa douceur de vos charmes a ravi mon ame.\\n3. Ah ! Sultane ! yeux de Cerf ! Ange parmi les Anges !\\nJe desire , & ce desir n'est point rempli.\\nGoûtez-vous du plaisir à me déchirer le cœur ?\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 329,
+    "total_tokens": 7037
+  }
+}

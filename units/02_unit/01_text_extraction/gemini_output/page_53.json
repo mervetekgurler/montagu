@@ -1,0 +1,11 @@
+{
+  "page": 53,
+  "raw_response": "{\n  \"page\": 35,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"VII\",\n      \"heading\": \"LETTRE VII.\",\n      \"recipient\": \"A la Comtesse de ***.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 8 Septembre 1716. Vieux style.\",\n      \"body\": \"JE suis enfin arrivée à Vienne : quoique nous ayons essuyée beaucoup de fatigues mon cher enfant & moi, nous nous portons très-bien. A Ratisbonne nous nous sommes embarqués sur le Danube, dans de petits vaisseaux qu'on appelle, avec raison, des maisons de bois : on y trouve autant de commodités que dans un Palais ; poëles, cuisines, &c. Ils ont douze rames, & vont avec tant de rapidité, que la vue est frappée d'une variété continuelle de perspectives. Rien n'est plus agréable que cette route : d'heure en heure on apperçoit une Ville bien peuplée, & ornée de Palais magnifiques : on découvre des solitudes, dont la description sembleroit romanesque : enfin les bords du fleuve sont agréablement diversifiés par des bois, des ro-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 290,
+    "total_tokens": 7015
+  }
+}

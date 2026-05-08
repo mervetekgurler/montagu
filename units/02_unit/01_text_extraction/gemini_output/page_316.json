@@ -1,0 +1,11 @@
+{
+  "page": 316,
+  "raw_response": "{\n  \"page\": 28,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"les bras ; les autres en avoient dans la tête, & le sang couloit sur leur visage. Quelques-uns se perçoient le bras avec un coûteau, & faisoient rejaillir le sang sur leurs camarades : cette barbarie étoit regardée comme une preuve de courage. On m'assura qu'il y en avoit plusieurs qui, en approchant de la fenêtre de leurs maitresses, s'enfonçoient une autre fléche dans quelque partie du corps pour leur prouver leur amour, & qu'elles ne manquoient jamais de donner un signe d'approbation à cette galanterie. Toutes les femmes sont voilées pour voir ce Spectacle. Il dura huit heures, & m'ennuya beaucoup, quoique je fusse chez la veuve du Capitan Bassa, Amiral, laquelle me fit toutes sortes de politesses : elle m'engagea à prendre du caffé, des confitures & du sorbet. Deux jours après j'allai voir la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7006
+  }
+}

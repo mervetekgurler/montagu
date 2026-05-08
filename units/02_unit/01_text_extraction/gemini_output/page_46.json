@@ -1,0 +1,11 @@
+{
+  "page": 46,
+  "raw_response": "{\n  \"page\": 28,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"de Catholiques Romains, qui est tolérée ici. Comme ceux de cette Religion ne sont pas riches à Nuremberg, ils ne peuvent mettre des ornemens de prix à leurs statues : on en voit une du Sauveur au-dessus de leur Autel, à laquelle ils ont, par vénération, mis un habit, & une perruque bien poudrée. Cela vous surprend, & vous croyez que je viens de vous raconter une fable ; mais je vous proteste que je n'ai point encore fait usage du privilége des Voyageurs, & vous pouvez me croire à ce sujet avec autant de confiance, que quand je vous assure que je suis, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 225,
+    "total_tokens": 6933
+  }
+}

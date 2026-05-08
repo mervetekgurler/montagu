@@ -1,0 +1,11 @@
+{
+  "page": 169,
+  "raw_response": "{\n  \"page\": 143,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XXIV\",\n      \"heading\": \"LETTRE XXIV.\",\n      \"recipient\": \"A Monsieur Pope.\",\n      \"location\": \"Belgrade\",\n      \"date\": \"le 12 Février 1717. Vieux style.\",\n      \"body\": \"J'AVOIS résolu de vous écrire fort au long de Peter-Waradin, où je comptois rester trois ou quatre jours : mais le Bassa de Belgrade étoit si empressé de nous voir, qu'il renvoya sur le champ le Courier que Milord M*** lui avoit dépêché, pour savoir où l'escorte Turque devoit nous prendre. Je n'eus pas un moment libre ; il fallut partir le lendemain. Nous fûmes escortés par tous les principaux Officiers de la Garnison, & par une troupe considérable de soldats Allemands & Rasciens. L'Empereur a plusieurs Régimens composés de ces derniers ; mais, pour dire la vérité, ce sont plutôt des pil-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 266,
+    "total_tokens": 6974
+  }
+}

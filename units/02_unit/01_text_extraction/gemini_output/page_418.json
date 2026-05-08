@@ -1,0 +1,11 @@
+{
+  "page": 418,
+  "raw_response": "{\n  \"page\": 126,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ont, pour le moins, autant d'esprit, de politesse, même de liberté que nous. Il est vrai que si, d'un côté, l'usage leur fournit souvent occasion de satisfaire leurs mauvaises inclinations, en cas qu'elles en ayent, de l'autre, il donne aux maris le pouvoir d'en tirer la plus cruelle vengeance, s'ils les découvrent. Il n'y a pas deux mois qu'on trouva, au point du jour, tout près de la maison que j'habite, le corps d'une jeune femme. Il étoit sanglant & seulement enveloppé d'un gros drap. Il avoit deux coups de coûteau, l'un dans le côté, l'autre dans le sein. Il n'étoit pas encore froid, & conservoit les restes d'une si grande beauté, qu'il n'y a pas un homme dans Péra qui n'ait été le regarder. Mais, comme les femmes ne font jamais vues par les hommes, on ne l'a pas reconnue. On imagina que ce corps avoit été\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 319,
+    "total_tokens": 7027
+  }
+}

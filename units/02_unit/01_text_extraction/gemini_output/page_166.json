@@ -1,0 +1,11 @@
+{
+  "page": 166,
+  "raw_response": "{\n  \"page\": 140,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"La femme du Colonel *** avoit une robe de velours écarlate, doublée & bordée de martre; elle lui prenoit très-bien la taille, & descendoit jusqu’à ses pieds. Les Dames Hongroises portent ordinairement des manches étroites; elles ont un corset qui est boutonné par-devant avec deux rangs de petits boutons d’or, de perle ou de diamant. Elles portent sur la tête un bonnet d’or, avec un pendant doublé de martre, ou de quelque autre belle fourrure. On nous donna un dîner fort honnête; & la conversation de ces Dames me plut beaucoup: elles avoient envie de faire une partie de la route avec nous. Le 29 nous arrivâmes à Peter-Waradin: le Commandant de la Garnison vint au-devant de nous avec tous les autres Officiers. Nous sommes logés dans le meilleur appartement de la maison du Gouver-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 287,
+    "total_tokens": 7012
+  }
+}

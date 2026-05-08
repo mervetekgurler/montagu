@@ -1,0 +1,11 @@
+{
+  "page": 510,
+  "raw_response": "{\n  \"page\": 212,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"de pieds elles jettent l'eau, vous pouvez consulter les Livres dont je vous ai parlé ci-dessus.\\nNous avons vu les tableaux du Roi qui font dans le bel Hôtel du Duc d'Antin, à qui la garde en est confiée jusqu'à la majorité du Monarque. Ils font en petit nombre ; mais des meilleurs Maîtres. J'ai vu avec beaucoup de plaisir l'Archange de Raphaël, où le sentiment de ces êtres supérieurs font aussi-bien exprimés que dans Milton. Pour ce qui regarde les Thuilleries, je vous dirai en général qu'elles font plus belles que notre S. James, & que le Cours est plus agréable que Hide-Park : les arbres y donnent de l'ombre dans les grandes chaleurs. J'ai vu le Roi au Louvre : il étoit accompagné du Duc Régent. Ce Monarque est grand & bien pris dans sa taille. En parlant de la Cour de Fran-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 285,
+    "total_tokens": 6993
+  }
+}

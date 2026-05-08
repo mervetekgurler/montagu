@@ -1,0 +1,11 @@
+{
+  "page": 248,
+  "raw_response": "{\n  \"page\": 214,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"lui. Il a de l'esprit & est fort savant : quand même il seroit mauvais Poëte, il ne manqueroit pas de se faire aider dans cette occasion par les meilleurs de l'Empire. Ainsi, l'on peut regarder ces Vers comme un exemple de la plus belle Poësie Turque ; & je ne doute pas que vous ne trouviez des rapports entre cette piece, & le Cantique de Salomon, qui fut aussi adressé à une Princesse nouvellement mariée.\\n\\nVers Turcs adressés à la Sultane, fille aînée du Sultan Achmet III.\\n\\nSTANCE I.\\n\\n1. Le Rossignol voltige maintenant dans les vignes ;\\nSa passion est de chercher les roses.\\n2. J'ai été admirer la beauté des vignes :\\nLa douceur de vos charmes a ravi mon cœur.\\n3. Vos yeux sont noirs & aimables ;\\nMais aussi vifs & dédaigneux que ceux d'un Cerf.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7006
+  }
+}

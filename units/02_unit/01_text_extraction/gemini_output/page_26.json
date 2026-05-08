@@ -1,0 +1,11 @@
+{
+  "page": 26,
+  "raw_response": "{\n  \"page\": 26,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"A Nuremberg, il y a des Loix somptuaires qui préviennent l'excès, ruineux à tant de personnes dans les autres Villes. Les rangs y sont désignés par l'habillement ; ce qui fait, aux yeux d'un étranger, un effet plus agréable que nos modes. J'avoue franchement que je souhaiterois, de tout mon cœur, que ces Loix fussent établies dans beaucoup d'autres endroits. Lorsque l'on voit que, dans la plupart des Villes, un habit riche fait le mérite, donne de la considération, on est forcé de convenir, qu'il faut avoir un bon sens plus qu'ordinaire, pour résister à la tentation de plaire & d'être admiré. Les jeunes gens ne cedent que trop à cette tentation, quoiqu'ils se mettent souvent par-là dans le cas de manquer d'argent, ce qui les expose à mille bassesses, & les conduit même jusqu'au\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 295,
+    "total_tokens": 7003
+  }
+}

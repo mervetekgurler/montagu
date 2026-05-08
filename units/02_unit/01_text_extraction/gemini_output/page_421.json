@@ -1,0 +1,11 @@
+{
+  "page": 421,
+  "raw_response": "{\n  \"page\": 129,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"mestiques. Ce frere, deux mois après qu'il fut arrivé en Espagne, envoya quatre mille livres sterling pour la rançon de sa soeur. Le Turc généreux prit l'argent, le lui remit entre les mains, en lui disant qu'elle étoit libre. Mais cette jeune Demoiselle réfléchit sur ce qu'elle devoit attendre dans sa patrie de la part de ses parens, & prévit qu'après ce qui lui étoit arrivé, ils se croiroient obligés de la confiner dans un Couvent pour le reste de ses jours. . . . . Son Amant, quoique Mahométan, étoit beau, tendre, passionné ; il prodiguoit à ses pieds toute la magnificence Turque. Enfin elle lui répondit que sa liberté lui paroissoit d'un prix beaucoup au-dessous de son honneur; qu'il lui avoit enlevé le dernier, & qu'il ne pouvoit le lui rendre qu'en l'épousant ; elle le pria d'accepter sa rançon pour dot, & de lui donner\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 315,
+    "total_tokens": 7023
+  }
+}

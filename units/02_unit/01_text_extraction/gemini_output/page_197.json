@@ -1,0 +1,11 @@
+{
+  "page": 197,
+  "raw_response": "{\n  \"page\": 167,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"fins, pendant que leurs Esclaves, qui sont ordinairement de jolies filles de dix-sept ou dix-huit ans, s'occupoient à tresser leurs cheveux. Enfin le bain est le caffé des femmes de Turquie: on y raconte toutes les nouvelles de la Ville. Elles prennent ce divertissement une fois la semaine, & y restent quatre ou cinq heures sans s'enrhumer, quoiqu'elles passent subitement du bain chaud dans la chambre froide; ce qui me surprit beaucoup. Celle qui me parut la plus distinguée, m'engagea à me mettre à côté d'elle, & me fit beaucoup d'instances pour que je me déshabillasse & me misse au bain; elle voulut même m'aider à le faire. Je m'en défendis quelque tems; mais voyant que toutes les autres Dames se joignoient à elle, je fus obligée d'ouvrir mon habit de cheval, & de leur montrer mon corset: elles ne m'en demande-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 297,
+    "total_tokens": 7022
+  }
+}

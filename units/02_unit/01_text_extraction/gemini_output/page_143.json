@@ -1,0 +1,11 @@
+{
+  "page": 143,
+  "raw_response": "{\n  \"page\": 119,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"cette mode, que son Nain est son premier Ministre. Je ne sais quelle peut être la cause d'un pareil attachement pour ces créatures difformes, si ce n'est la persuasion où sont tous les Princes Souverains, qu'ils s'avilissent en conversant avec d'autres hommes : ne voulant cependant pas rester seuls, ils sont obligés d'avoir pour société le rebut de la Nature humaine : les Nains seuls ont la liberté de leur parler familierement. J'ai un mal de gorge qui me force de garder la chambre : je le supporte avec patience, parce qu'il me sert de prétexte pour ne pas aller dire un éternel adieu à des personnes que j'aime. Les Autrichiens, je l'avoue, n'ont pas beaucoup de politesse ni d'agrément dans la société ; mais, comme à Vienne il y a des gens de toutes les Nations, je m'y étois fait une société de personnes fort aimables\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7004
+  }
+}

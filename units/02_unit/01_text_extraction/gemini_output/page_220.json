@@ -1,0 +1,11 @@
+{
+  "page": 220,
+  "raw_response": "{\n  \"page\": 190,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"attirail : elle n'oublie pas non plus son carrosse de Demoiselles de compagnie. Cela ne me fâche, que parce que je suis obligée d'en faire autant lorsque je vais la voir : au reste, notre interêt respectif demande que nous soyons souvent ensemble. Je fis l'autre jour le tour de la Ville avec elle, dans un chariot doré & découvert : toute notre suite étoit réunie, & nos Gardes nous précédoient. Le peuple n'avoit jamais vu, & ne verra, peut-être, jamais deux jeunes Ambassadrices Chrétiennes ensemble. Vous vous imaginez bien que nous rassemblâmes une grande foule de spectateurs : mais personne n'osa dire un seul mot. Si l'on avoit crié, comme fait notre peuple dans les spectacles extraordinaires, nos Janissaires n'auroient pas manqué de sabrer tous ceux qu'ils auroient rencontrés, sans en craindre les suites, parce qu'ils sont au-dessus de la loi.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 303,
+    "total_tokens": 7011
+  }
+}

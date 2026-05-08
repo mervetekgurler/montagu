@@ -1,0 +1,11 @@
+{
+  "page": 25,
+  "raw_response": "{\n  \"page\": 25,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"niere simple, mais honnête ; les boutiques sont garnies de marchandi- ses ; le tiers-état, en général, a l'air propre & content. Les habitans des autres Villes, au contraire, affectent un luxe au travers duquel on voit percer l'indigence. Les gens de qualité font mal-propres, & tous habillés d'une maniere ridicule : les rues sont très-étroites, sales, mal entretenues, & très-peu habitées ; plus de la moitié du peuple demande l'aumône. Une Ville libre enfin me présente à l'idée la femme d'un Citoyen de Hollande proprement, mais simplement mise ; une qui ne l'est pas, m'y présente, au contraire, une Fille de joie, dont la tête est extrêmement bien parée, le visage couvert de fard ; mais le reste de son habillement est sale & en mauvais ordre : misérable mélange de vice & de pauvreté. I. Partie.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 293,
+    "total_tokens": 7001
+  }
+}

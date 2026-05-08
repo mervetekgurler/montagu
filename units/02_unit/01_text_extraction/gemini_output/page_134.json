@@ -1,0 +1,11 @@
+{
+  "page": 134,
+  "raw_response": "{\n  \"page\": 110,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"du reste ; car ce fruit est délicieux à mon goût. Ce beau présent avoit été fait à Sa Majesté par un Gentilhomme du pays. Je crus que ces ananas étoient venus à Hanovre par miracle : vous savez que c'est un fruit du Brésil ; mais on m'a appris qu'on avoit porté, dans ce pays, les poëles à une telle perfection, qu'on y faisoit durer l'été autant qu'on le vouloit, & qu'on donnoit aux plantes étrangeres le même degré de chaleur qu'elles recevoient des rayons du soleil dans le pays d'où on les avoit enlevées. Cela est vrai, à peu de chose près, & je m'étonne qu'on ne le pratique pas en Angleterre. Pourquoi, d'un autre côté, nous obstinons-nous à trembler de froid huit mois de l'année, plutôt que de faire usage des poëles qui sont certainement une des grandes commodités de la vie? Loin de\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 306,
+    "total_tokens": 7031
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 280,
+  "raw_response": "{\n  \"page\": 238,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"maisons, qui ont ordinairement peu d'apparence : les Harams sont toujours sur le derriere, & on ne peut les voir de la rue. Ils n'ont que les jardins pour toute perspective, & ces jardins sont entourés de murs très-élevés : on n'y voit point de parterres, comme dans les nôtres ; ils sont plantés d'arbres assez hauts, qui font un agréable ombrage, & selon moi, un coup d'œil charmant. Au centre du jardin est le Chiosk ; c'est une grande chambre, au milieu de laquelle est ordinairement une fontaine. On monte à cette chambre par neuf ou dix marches ; ses murailles sont des jalousies dorées autour desquelles on voit des vignes entrelacées, du jasmin & du chevrefeuil, & le tout est environné de grands arbres. C'est dans ce lieu que le mari & la femme se livrent aux plus secrets plaisirs. Les Dames y passent\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7021
+  }
+}

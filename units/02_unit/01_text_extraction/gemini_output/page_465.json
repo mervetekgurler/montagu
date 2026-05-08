@@ -1,0 +1,11 @@
+{
+  "page": 465,
+  "raw_response": "{\n  \"page\": 167,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"on voit les flammes du Mont Etna ;\\nelles donnent lieu à mille réflexions :\\nmais je respecte trop la Philosophie,\\npour vouloir renverser le systême\\nd'Empedocles, & jamais Lucien ne\\nme fera mépriser un homme dont\\nLucrece a dit :\\n\\n.... Vix humanâ videtur stirpe creatus.\\n\\nAprès avoir passé Trinacria, au-\\njourd'hui la Sicile, sans entendre le\\nchant des Syrenes, dont parle Ho-\\nmere, & sans échouer contre Scylla\\nni contre Charybde, nous arriva-\\nmes sains & saufs à l'Isle de Malte,\\nnommée autrefois Melita, parce\\nqu'elle étoit abondante en miel. C'est\\nun rocher sur lequel il y a un peu de\\nterre. Le Grand-Maître y vit en Prin-\\nce souverain ; ses forces maritimes\\nsont aujourd'hui peu de chose. Les\\nfortifications de cette Isle passent\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 314,
+    "total_tokens": 7022
+  }
+}

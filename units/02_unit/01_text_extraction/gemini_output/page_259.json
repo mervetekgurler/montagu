@@ -1,0 +1,11 @@
+{
+  "page": 259,
+  "raw_response": "{\n  \"page\": 223,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"l'on me fit accroire qu'il avoit seulement un gros rhume. Cependant nous laissâmes notre Médecin pour en avoir soin : le malade & le Médecin arriverent hier en très-bonne santé, & je suis instruite à présent que le premier avoit eu la peste. L'air n'en est jamais infecté, & beaucoup de personnes en réchappent. Je suis persuadée qu'il seroit aussi facile de la déraciner de ce pays, que de l'Italie & de la France : mais elle est si peu dangereuse, qu'on n'y fait pas même attention ; & maladie pour maladie, l'on préfere celle-ci à quantité d'autres auxquelles nous sommes sujets dans nos climats, & qui sont inconnues en Turquie. \\n A propos de maladie, je vais vous apprendre une chose qui vous fera desirer d'être ici. La petite vérole, si générale & si cruelle parmi nous, n'est qu'une bagatelle dans ce pays,\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 300,
+    "total_tokens": 7008
+  }
+}

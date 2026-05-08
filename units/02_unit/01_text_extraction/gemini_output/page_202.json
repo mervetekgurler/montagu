@@ -1,0 +1,11 @@
+{
+  "page": 202,
+  "raw_response": "{\n  \"page\": 172,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"de ces pauvres malheureux. Quelque surprenant que ce fait vous paroisse, il n'en est pas moins vrai : tel est le vice naturel d'un Gouvernement Militaire. La Religion de Mahomet est cependant aussi contraire à cette cruauté que la nôtre. J'eus l'avantage de loger trois semaines à Belgrade chez un Effendi, c'est-à-dire un Savant. Ces hommes sont également habiles à posséder les Dignités de l'Eglise & les Charges de Judicature ; c'est la même science qui est nécessaire pour les deux états ; de maniere qu'un Jurisconsulte & un Prêtre signifient la même chose, & c'est le même mot dans la Langue Turque ; ce sont les seuls hommes importans dans cet Empire. Tous les emplois considérables & les biens de l'Eglise sont en leur possession. Quoique le Grand-Seigneur soit l'héritier né de son peuple, il n'ose toucher\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 299,
+    "total_tokens": 7007
+  }
+}

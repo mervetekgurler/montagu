@@ -1,0 +1,11 @@
+{
+  "page": 12,
+  "raw_response": "{\n  \"page\": 12,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"terre, que, malgré moi, je me persuade en être fort éloignée.\\nOn ne voit pas plus de mendians à Rotterdam que de crottes : les yeux n'y sont point choqués, comme à Londres, par le dégoûtant spectacle d'une quantité d'estropiés; on n'y est point fatigué par les importunités de paresseux & de paresseuses, qui vivent par goût dans la saleté & dans l'oisiveté. Les plus petites Marchandes, les servantes même y sont plus propres que la plûpart de nos Dames. Les femmes ne font asservies à aucune mode ; chacune se met à son goût ; ce qui cause dans les ajustemens une variété assez agréable.\\nJe ne me plains point, comme vous voyez, ma chere Soeur ; &, si je n'essuie pas plus de désagrément que je n'ai fait jusqu'ici, je ne me repentirai point d'avoir formé le projet de\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7002
+  }
+}

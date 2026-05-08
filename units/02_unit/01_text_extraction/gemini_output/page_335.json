@@ -1,0 +1,11 @@
+{
+  "page": 335,
+  "raw_response": "{\n  \"page\": 45,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"créatures inutiles : mais celles qui aiment leur liberté, & qui font moins scrupuleuses, ne se marient que lorsqu'elles craignent de mourir. Ce précepte de Religion est bien différent de celui qui enseigne qu'il n'y a rien de si agréable à Dieu qu'un vœu de chasteté perpétuelle. Je vous laisse à juger laquelle est la plus raisonnable de ces deux doctrines. J'ai une collection de médailles Grecques, qui commence déjà à être nombreuse. Il y a ici des Antiquaires de profession, toujours tout prêts à en vendre à ceux qui en veulent acheter. Vous ne sauriez croire de quel œil ils me fixent lorsque je leur en demande : je crois qu'ils s'imaginent qu'il n'est permis de chercher des médailles antiques qu'à ceux qui sont eux-mêmes des antiquités. Il y en a dans ma collection quelques-unes des Rois de Macé-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 292,
+    "total_tokens": 7000
+  }
+}

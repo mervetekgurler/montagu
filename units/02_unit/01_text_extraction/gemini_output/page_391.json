@@ -1,0 +1,11 @@
+{
+  "page": 391,
+  "raw_response": "{\n  \"page\": 161,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XLI\",\n      \"heading\": \"LETTRE XLI.\",\n      \"recipient\": \"A la Comtesse de B***.\",\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"JE viens enfin de recevoir de vos nouvelles, ma chere Milady : je suis très-persuadée que vous m'avez déjà écrit ; mais j'ai eu le malheur de ne pas recevoir vos Lettres. Depuis ma derniere, je suis toujours restée à Constantinople, & je vous dois en conscience une description un peu detaillée de cette Ville. Ce qu'en ont dit jusqu'à présent les voyageurs, est faux ou partial. Il est certain que bien des gens ont passé plusieurs années à Pera, sans l'avoir jamais vû, & cependant ils ont la hardiesse d'en donner la description. Les fauxbourgs de Pera, de Tophana, & de Galata, qui ne sont habités que par des Chrétiens\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 259,
+    "total_tokens": 6967
+  }
+}

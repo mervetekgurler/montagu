@@ -1,0 +1,11 @@
+{
+  "page": 357,
+  "raw_response": "{\n  \"page\": 67,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"vrées : au bout de quinze jours elles se parent de toutes leurs pierreries, & prennent des habits neufs pour rendre des visites. Je souhaite que le climat influe sur moi, uniquement dans cette conjoncture: mais je crains de m’y trouver autant Angloise, que je le suis à l’égard du feu & de la peste, deux fléaux que l’on redoute très-peu ici. Plusieurs familles ont vu brûler leur maison, une ou deux fois, par la maniere extraordinaire avec laquelle on se chauffe. Au lieu de poële ou de cheminée, les Turcs ont une machine nommée Tendour. C’est une espece de coffre de bois élevé de deux pieds, où l’on met des cendres chaudes : on le couvre ensuite d’un beau tapis, ou d’une belle étoffe brodée ; pour se chauffer, on s’assied auprès, & l’on passe les jambes sous le tapis ; dans cette attitude on travaille ou on lit : si l’on\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 303,
+    "total_tokens": 7028
+  }
+}

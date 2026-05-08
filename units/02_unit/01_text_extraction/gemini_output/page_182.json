@@ -1,0 +1,11 @@
+{
+  "page": 182,
+  "raw_response": "{\n  \"page\": 156,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"étoit gelé, & le zèle de Milord M*** pour le service de Sa Majesté, ne lui a pas permis d'attendre qu'il fût navigable. Nous avons traversé les déserts de la Servie : quoique ce soit un pays très-fertile, ils font presque tout couverts de bois. Les habitans y font industrieux ; mais le dégât que les Janissaires font chez eux, les engage à abandonner leurs maisons, & ils ne songent point à cultiver la terre. Nous avions cinq cents Janissaires pour notre escorte : ils faisoient tant de ravages dans tous les villages par où nous passions, que j'en versois des larmes. Après sept jours de marche au travers de bois fort épais, nous arrivâmes à Nissa, autrefois la Capitale de la Servie. Elle est située dans une belle plaine, sur la riviere de Nissara : l'air y est très-sain, & le terrein très-fertile. On m'a\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 301,
+    "total_tokens": 7009
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 293,
+  "raw_response": "{\n  \"page\": 7,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"tirée tout de suite chez moi ; mais la Dame Grecque qui m'accompagnoit me sollicita , avec empressement , d'aller rendre visite à la femme du Kahia , qu'elle me dit être le second Officier de l'Empire , & qu'on doit regarder comme le premier , puisqu'il exerce les fonctions de Grand-Visir , & que celui de chez qui nous sortions n'en a que le nom . J'avois trouvé si peu d'amusement dans le Haram du Grand-Visir , que je n'avois point envie d'aller dans un autre; mais je cédai aux instances de ma compagne , & je m'en fais très-bon gré . Il y régnoit un air tout-à-fait différent de celui que j'avois trouvé chez le Grand-Visir. La maison même annonçoit la différence qu'il y a entre une vieille dévote & une jeune Beauté : elle étoit magnifique , & d'une propreté étonnante . Je fus reçue à la porte par deux Eunuques noirs qui\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 314,
+    "total_tokens": 7039
+  }
+}

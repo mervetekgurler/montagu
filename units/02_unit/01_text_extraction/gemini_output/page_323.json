@@ -1,0 +1,11 @@
+{
+  "page": 323,
+  "raw_response": "{\n  \"page\": 35,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XXXV\",\n      \"heading\": \"LETTRE XXXV.\",\n      \"recipient\": \"A l'Abbé ***.\",\n      \"location\": \"Constantinople\",\n      \"date\": \"le 29 Mai 1717. Vieux style.\",\n      \"body\": \"J'AI fait un voyage très agréable : le tems étoit extrêmement beau ; &, comme nous sommes à présent dans la plus belle saison de l'année, les prairies offroient le plus riant spectacle du monde. Elles étoient toutes couvertes de ces fleurs dont nous décorons nos parterres, & d'herbes odoriférantes ; ma berline, en les foulant, parfumoit l'air. Le Grand-Seigneur nous a fourni trente chariots couverts pour nos bagages, & cinq carrosses Turcs pour mes femmes. Tous les chemins étoient occupés par les Grands-Spahis, qui venoient de l'Asie avec leurs équipages pour joindre l'armée. Ils ne voya-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 268,
+    "total_tokens": 6993
+  }
+}

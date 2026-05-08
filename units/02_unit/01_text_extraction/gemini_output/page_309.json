@@ -1,0 +1,11 @@
+{
+  "page": 309,
+  "raw_response": "{\n  \"page\": 21,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"emparée de tout le commerce de l'Empire, parce qu'il regne une grande union parmi ceux qui la composent, & que les Turcs sont très-nonchalans & peu industrieux. Chaque Bassa a pour homme d'affaires un Juif, auquel il confie généralement tous ses secrets, & le laisse conduire ses affaires à sa volonté, sans s'en mêler en aucune maniere quelconque. C'est ce Juif qui, dans le district de son Bassa, regle les marchés, reçoit les présens qu'on a coutume de faire, qui examine les marchandises qui arrivent ou qui sortent; enfin son pouvoir est presque sans bornes. Le Médecin, l'Intendant, l'Interprete d'un grand Seigneur, est toujours un Juif. Jugez quel avantage peut tirer de-là une Nation toujours attentive à ses intérêts. Les Juifs enfin ont trouvé le secret de se rendre si nécessaires en Turquie, qu'ils font toujours\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 290,
+    "total_tokens": 7015
+  }
+}

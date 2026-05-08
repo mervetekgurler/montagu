@@ -1,0 +1,11 @@
+{
+  "page": 336,
+  "raw_response": "{\n  \"page\": 46,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"doine, qui sont fort rares, principalement un Persée : il est si bien gravé, que ses traits semblent annoncer ses vices. J'ai une tête de porphyre qui est une véritable sculpture Grecque. Les Savans à qui je la ferai voir à mon retour, n'auront pas la satisfaction de savoir qui elle représente ; car les Antiquaires de qui on achete ces raretés, sont tous Grecs, & d'une ignorance extrême ; ils ne savent que vendre. Ils ont des correspondances à Alep, au Grand-Caire, en Arabie & en Palestine, qui leur envoyent tout ce qu'ils peuvent trouver, & souvent de gros morceaux de cuivre qui ne sont propres qu'à faire des casseroles & des chaudrons. Ils vendent tout le plus cher qu'ils peuvent, sans distinguer ce qui est précieux, d'avec ce qui ne l'est pas. Ceux qui croient avoir un peu de connois-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 285,
+    "total_tokens": 7010
+  }
+}

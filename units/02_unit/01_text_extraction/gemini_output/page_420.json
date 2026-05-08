@@ -1,0 +1,11 @@
+{
+  "page": 420,
+  "raw_response": "{\n  \"page\": 128,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ser de vous la raconter : je le ferai avec le plus de précision qu'il me sera possible.\\nCette Dame est Espagnole; elle demeuroit à Naples, avec sa famille, lorsque ce Royaume étoit sous la domination des Espagnols. En traversant la mer dans une felouque, avec son frere, pour retourner dans son Pays, ils furent attaqués, abordés & pris par l'Amiral Turc...... Comment pourrai-je, sans choquer la pudeur, continuer le récit de son aventure ? Elle essuya le même malheur qu'avoit essuyé la belle Lucrece tant d'années auparavant : mais elle étoit trop bonne Chrétienne pour se punir, comme le fit cette Payenne, d'un crime involontaire. L'Amiral fut si touché de la beauté & de la douleur de sa belle captive, que, pour premier présent, il lui accorda la liberté de son frere & de tous ses do-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7002
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 382,
+  "raw_response": "{\n  \"page\": 92,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Ma Lettre est devenue, insensiblement, si longue, que j'en ai honte. Je crains de devenir une vraie conteuse d'histoires. Le Proverbe qui dit, qu'on n'en fait jamais trop, peut être véritable ; mais il arrive souvent aussi que ceux qui sont fort instruits deviennent ennuyeux. Je suis, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 160,
+    "total_tokens": 6868
+  }
+}

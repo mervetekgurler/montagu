@@ -1,0 +1,11 @@
+{
+  "page": 428,
+  "raw_response": "{\n  \"page\": 134,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"qu'ils peuplent beaucoup, ils font répandus dans toutes les parties de cet Empire. Ils prétendent que ce fut S. Gregoire qui leur fit embrasser la Religion Chrétienne : ce font les Chrétiens, peut-être, les plus dévots qu'il y ait dans le monde. Leurs Prêtres leur enseignent principalement à observer scrupuleusement le Carême, qui dure au moins sept mois de l'année ; & ils ne le romproient pas pour le plus pressant besoin. Ce seroit chez eux un péché irrémissible de manger pendant un Carême autre chose que des légumes & des racines sans huile, & du pain sec. L'Interprete de Milord M*** étoit Arménien : ce pauvre misérable s'étoit tellement exténué par le jeûne, qu'on désespéroit de sa vie : néanmoins ni les ordres de son Maître, ni les persécutions des Médecins n'ont pu le déterminer à prendre\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 301,
+    "total_tokens": 7009
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 10,
+  "raw_response": "{\n  \"page\": 10,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"calme, croyant qu'il étoit facile de faire le trajet à la faveur de la marée ; mais deux jours étoient à peine écoulés qu'il s'éleva un vent si violent, qu'aucun matelot ne pouvoit se tenir debout ; & nous fumes cruellement agités toute la nuit du Dimanche au Lundi. Je n'ai jamais vu un homme plus effrayé que le Capitaine. Pour moi, je n'ai eu ni crainte, ni maladie de mer. J'avouerai cependant que j'avois fort envie de me voir encore une fois sur la terre ferme, & que je n'eus pas la patience d'attendre l'arrivée du Yacht à Rotterdam : je me fis transporter dans la grande chaloupe à Helvoetfluys, où nous primes des voitures pour le Briel. Je fus enchantée de la propreté de cette petite Ville ; mais celle de Rotterdam me ravit : toutes les rues y sont pavées de grandes pierres ; on voit devant les por-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 301,
+    "total_tokens": 7009
+  }
+}

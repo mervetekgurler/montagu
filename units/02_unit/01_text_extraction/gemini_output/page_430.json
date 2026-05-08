@@ -1,0 +1,11 @@
+{
+  "page": 430,
+  "raw_response": "{\n  \"page\": 136,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Ils se promettent réciproquement de s'épouser très-jeunes ; mais ils ne se voient que trois jours après la célébration du mariage. La nouvelle Mariée est conduite à l'Eglise, ayant sur la tête un bonnet qui a une forme platte & ronde ; sur ce bonnet est un voile de soie rouge, qui lui pend jusqu'aux pieds. Le Prêtre demande au Prétendu s'il consent d'épouser cette personne, fût-elle sourde, fût-elle aveugle ; ce sont ses propres termes. Si-tôt qu'il a répondu, oui, les parens & amis des deux côtés la conduisent chez lui en dansant & chantant. Lorsqu'elle y est arrivée, on la fait placer sur un coussin, dans le coin du Sopha : mais personne ne leve son voile ; son mari même n'en a pas la liberté. Il y a quelque chose de si extraordinaire dans un tel usage, que je n'y ajouterois pas foi, si cette vérité ne m'avoit été attestée.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 308,
+    "total_tokens": 7016
+  }
+}

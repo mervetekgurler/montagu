@@ -1,0 +1,11 @@
+{
+  "page": 427,
+  "raw_response": "{\n  \"page\": 133,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"perpétuer notre nom, nous laissons souvent tout ce que nous possédons à un parent éloigné, que nous ne connoissons que par quelques Lettres que l'intérêt l'a forcé de nous écrire : il est bien plus raisonnable, selon moi, de rendre heureux un enfant que nous élevons suivant notre goût, ce que les Turcs appellent nourri sur ses genoux. Puisque j'ai cité les Arméniens, je vais vous dire quelque chose de cette Nation, qui, je crois, vous est tout-à-fait inconnue. Je ne vous ennuierai point par une description Géographique de leur Pays : les Cartes peuvent vous satisfaire à ce sujet : je ne vous fatiguerai point encore par un tableau de leur ancienne grandeur ; vous le trouverez dans l'Histoire Romaine. Ils sont à présent sous la domination des Turcs : comme ils entendent très-bien le commerce &\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 277,
+    "total_tokens": 6985
+  }
+}

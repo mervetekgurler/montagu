@@ -1,0 +1,11 @@
+{
+  "page": 278,
+  "raw_response": "{\n  \"page\": 236,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"coussins sont ordinairement de brocard, ou de satin blanc, brodé en or: enfin rien n'est si brillant, ni si agréable à la vue. Ces siéges sont, en outre, si commodes, que je ne crois pas pouvoir reprendre l'habitude des chaises. Les chambres sont basses; &, ce que je ne regarde pas comme un défaut, le plancher d'en haut est de bois, sur lequel il y a des fleurs incrustées ou peintes. Il y a plusieurs armoires dans les murs, lesquelles me semblent plus commodes que les nôtres. Dans l'entre-deux des fenêtres sont de petits arsenaux où l'on met des parfums ou des corbeilles de fleurs. Mais ce qui me plaît le plus de tous les ameublemens d'un Haram, ce sont les fontaines de marbre, qui sont dans le fond de la chambre. Elles jettent l'eau par plusieurs tuyaux, procurent une agréable fraîcheur, & font un doux murmure en tombant\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 300,
+    "total_tokens": 7025
+  }
+}

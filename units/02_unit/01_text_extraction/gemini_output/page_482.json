@@ -1,0 +1,11 @@
+{
+  "page": 482,
+  "raw_response": "{\n  \"page\": 184,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Le Guide & le Corrége présentent toujours la Nature dans son beau, & l'imitent parfaitement. J'ai été frappée d'étonnement à la vue d'une Lucrece qui est dans le Palais Balbi. La beauté de son visage, l'expression qui y est, son sein, en un mot, tout inspire dans ce Tableau les mêmes sentimens de pitié & d'admiration, qu'on sentiroit à la lecture d'un beau Poëme sur cette matiere. On y voit encore une Cléopâtre de la même main ; elle mérite aussi beaucoup d'éloges, & je lui en donnerois, si Lucrece n'avoit d'abord captivé mon admiration. Il y a en outre quelques Bustes anciens qui sont d'une beauté surprenante. L'Eglise de Saint Laurent est bâtie de marbre blanc & noir. On y garde cette fameuse assiette, qui est d'une émeraude. On ne permet à personne d'y toucher depuis qu'on\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 308,
+    "total_tokens": 7016
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 122,
+  "raw_response": "{\n  \"page\": 100,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"d'aller à la Cour, me laissent peu de tems libre.\\nJe suis charmée de pouvoir vous dire, sans flatterie ni partialité, que notre jeune Prince a toutes les perfections que l'on peut désirer à son âge. Il a un air vif & plein d'intelligence ; des manieres si aisées & si prévenantes, qu'il n'a pas besoin des avantages de la naissance pour être charmant. J'eus l'honneur de converser avec lui hier au soir, avant l'arrivée du Roi. Son Gouverneur se retira pour le laisser parler sans gêne, comme il me l'a dit depuis, afin que je pusse juger de son génie. Je fus étonnée de sa politesse, & de la sagacité de son esprit. Je ne vous parlerai ni des agrémens, ni des beaux cheveux blonds de la Princesse. La Ville de Hanovre n'est ni grande, ni belle ; mais le Palais pourroit contenir une Cour plus\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 297,
+    "total_tokens": 7005
+  }
+}

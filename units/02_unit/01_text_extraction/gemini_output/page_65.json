@@ -1,0 +1,11 @@
+{
+  "page": 65,
+  "raw_response": "{\n  \"page\": 47,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"IX\",\n      \"heading\": \"LETTRE IX.\",\n      \"recipient\": \"A la Comtesse de ***.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 14 Septembre ; Vieux style.\",\n      \"body\": \"VOus écrire encore, après la longue & ennuyeuse Lettre que vous venez de recevoir de moi, c'est me rendre importune, ma chere Sœur, je l'avoue. Mais je vous ai promis de vous faire part de ma premiere entrée à la Cour, & je veux vous tenir parole. Pour me préparer à cette cérémonie, il a fallu me mettre à la torture dans une robe fort étroite, m'armer d'une gorgette, & du reste de l'équipage, qui fait, en général, un habillement fort incommode, quoiqu'il soit avantageux pour la taille & le cou. Je veux vous donner une idée des modes de Vienne, qui sont plus ridicules, & plus\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 260,
+    "total_tokens": 6985
+  }
+}

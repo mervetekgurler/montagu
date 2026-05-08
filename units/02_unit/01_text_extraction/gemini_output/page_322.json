@@ -1,0 +1,11 @@
+{
+  "page": 322,
+  "raw_response": "{\n  \"page\": 34,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"beaucoup de fontaines & d'arbres c'est tout ce que j'en puis dire : car je n'y ai point été.\\nJe crois qu'il est inutile que je vous fasse un détail des cérémonies qui se font observées à l'entrée & à l'audience de Milord M*** : ce sont toujours les mêmes ; je ne répéterai point ce qui a été tant de fois écrit. Le fils du Sultan peut avoir onze ans : aux audiences d'Ambassadeur il est assis à côté de son pere. C'est un beau jeune homme ; mais il n'y a pas d'apparence qu'il succéde immédiatement à l'Empereur régnant. Mustapha a laissé deux fils, dont le plus âgé a vingt ans : le peuple a fondé de grandes espérances sur lui ; & il paroît qu'il ne regrettera pas celui qui le gouverne aujourd'hui : il passe pour être avare & cruel. Je suis, &c.\\nJe vous écrirai encore de Constantinople.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 303,
+    "total_tokens": 7011
+  }
+}

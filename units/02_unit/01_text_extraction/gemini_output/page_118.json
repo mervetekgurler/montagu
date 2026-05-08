@@ -1,0 +1,11 @@
+{
+  "page": 118,
+  "raw_response": "{\n  \"page\": 96,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"pour moi, &c. &c. elles coûtent ici moitié moins qu'à Vienne, soit parce qu'on en fait un usage excessif dans cette derniere Ville, soit parce que le peuple n'a ni industrie ni activité ; il est certain que les Dames de Vienne sont obligées de faire venir de Saxe jusqu'à leurs souliers. La Foire de Leipsick est une des plus considérables d'Allemagne ; c'est le rendez-vous de la Noblesse & des Commerçans. Cette Ville est bien fortifiée ; mais je ne fais jamais la description des Fortifications, parce que je n'y entends rien. Convaincue que vous me pardonnerez cette omission, je suis tranquille sur mon ignorance. D'ailleurs, si je vous faisois une exacte description de tous les ravelins, de tous les bastions que je vois dans mes voyages, vous me demanderiez ce que c'est qu'un ravelin, qu'un bastion. Adieu, ma chere Soeur.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7006
+  }
+}

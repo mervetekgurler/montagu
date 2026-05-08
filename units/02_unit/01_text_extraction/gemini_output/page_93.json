@@ -1,0 +1,11 @@
+{
+  "page": 93,
+  "raw_response": "{\n  \"page\": 73,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XII\",\n      \"heading\": \"LETTRE XII.\",\n      \"recipient\": \"A Milady de ***.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 1. Octobre 1716. Vieux style.\",\n      \"body\": \"VOus me demandez un détail sur les modes de Vienne ; vous voulez même que je vous fasse une description de cette Ville : je suis toujours prête à vous obéir ; mais vous aurez la bonté de prendre ma volonté pour le fait. Si j'entreprenois de vous marquer toute la différence qu'il y a entre les modes de ce pays & les nôtres, il me faudroit une rame entiere de papier, encore ne vous marquerois-je que des choses très-insipides. Les femmes de Vienne ne ressemblent aux Françoises ou aux Angloises, qu'en ce qu'elles ont, comme elles, des jupes ; mais les premieres ont des\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 257,
+    "total_tokens": 6965
+  }
+}

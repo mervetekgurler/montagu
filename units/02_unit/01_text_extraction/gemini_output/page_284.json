@@ -1,0 +1,11 @@
+{
+  "page": 284,
+  "raw_response": "{\n  \"page\": null,\n  \"language\": \"fr\",\n  \"letters\": []\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": 736,
+    "output_tokens": 24,
+    "total_tokens": 7468
+  }
+}

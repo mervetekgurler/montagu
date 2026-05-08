@@ -1,0 +1,11 @@
+{
+  "page": 100,
+  "raw_response": "{\n  \"page\": 78,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"confitures. La grille de ce Couvent n'est pas serrée ; on pourroit facilement y passer la tête ; je crois même qu'un homme un peu moins gros qu'à l'ordinaire y passeroit facilement tout le corps. Le jeune Comte de Salamis y vint pendant que j'y étois ; l'Abbesse lui donna sa main à baiser. Je fus surprise de trouver dans ce Couvent la seule jeune & belle personne qui soit à Vienne. Elle est belle & jolie en même tems ; mais elle est encore plus agréable par la vivacité de son esprit, & la douceur de son caractère, que par sa charmante figure ; elle a fait enfin l'admiration de la Ville. Je ne pus cacher l'étonnement où j'étois de voir qu'une telle personne fût Religieuse. Elle me dit des choses fort obligeantes, & me pria de la venir voir souvent. Ce sera pour moi, ajoûta-t-elle en soupirant, un plai-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 299,
+    "total_tokens": 7007
+  }
+}

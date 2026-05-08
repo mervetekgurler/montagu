@@ -1,0 +1,11 @@
+{
+  "page": 341,
+  "raw_response": "{\n  \"page\": 51,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"serve cependant toujours du penchant pour mes amis & mes connoissances que j'ai laissés dans le monde, selon ce que dit un admirable Auteur : „ Les esprits des morts con- >> servent toujours de la tendresse >> pour les amis & les parens qu'ils >> ont laissés derriere eux. « Personne ne peut nier cette vérité : j'en suis moi-même un exemple. Virgile dit aussi :\\n\\n... Curæ non ipsæ in morte relinquunt.\\n\\nPour que le lieu que j'habite fût de véritables Champs Elisées, il faudroit qu'il y eût un fleuve Léthé : mais je ne suis pas assez heureuse pour y en trouver. En vérité, la danse, le chant, & la clarté du soleil m'ennuient, & je soupire après la fumée & les impertinences qui vous fatiguent. Je fais cependant ce que je peux pour me persuader que je vis\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 290,
+    "total_tokens": 6998
+  }
+}

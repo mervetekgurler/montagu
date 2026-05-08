@@ -1,0 +1,11 @@
+{
+  "page": 217,
+  "raw_response": "{\n  \"page\": 187,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"dans tout son jour, & je les défierois de décider lequel est le plus malheureux, du Prince, du peuple, ou du Ministre Ici une foule de réflexions se présentent à mon esprit : mais le vôtre, Madame, vous en dira toujours au-delà du mien.\\nHier nous vîmes, l'Ambassadrice de France & moi, passer le Grand-Seigneur qui alloit à la Mosquée. Il étoit précédé d'un nombre prodigieux de Janissaires, qui avoient de grands plumets blancs ; de Spahis & de Bostangis, qui font un corps considérable. Leurs habits sont tous de différentes couleurs, toutes très-vives & très-belles, de sorte, qu'à une certaine distance, ils ressembloient à un parterre de tulippes. L'Aga des Janissaires suivoit : il avoit une robe de velours pourpre, doublée d'une étoffe en argent ; deux esclaves, richement vétus, condui-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

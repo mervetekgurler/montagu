@@ -1,0 +1,11 @@
+{
+  "page": 347,
+  "raw_response": "{\n  \"page\": 57,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"quelle idée la conversation de ceux du commun peut donner du génie de la Nation en général.\\nJe vous enverrai certainement du baume de la Mecque ; mais il est beaucoup plus difficile d'en avoir que vous ne pensez. D'ailleurs, je ne vous conseille pas d'en faire usage. Je ne sais pourquoi on le vante tant. Toutes les Dames que je connois à Londres & à Vienne, m'ont priée, avec beaucoup d'instances, de leur en envoyer des pots. On m'en a donné une certaine quantité de la meilleure espéce; ce qui fait un présent fort honnête. Je me suis hâtée d'en mettre sur mon visage, parce que j'en attendois quel-qu'effet surprenant ; il est vrai qu'il l'a été beaucoup. Dès le lendemain, mon visage a extraordinairement enflé, & est devenu aussi rouge que celui de Milady ***. J'ai été trois\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 289,
+    "total_tokens": 7014
+  }
+}

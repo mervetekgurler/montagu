@@ -1,0 +1,11 @@
+{
+  "page": 351,
+  "raw_response": "{\n  \"page\": 61,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"scrupule d'user d'enchantemens ; mais qu'elle le pourroit, si elle le jugeoit à propos. Ensuite, en me regardant fixement, elle me dit, d'un ton dogmatique, qu'aucun enchantement ne pouvoit avoir d'effet sur moi ; qu'il y avoit quelques personnes dans le même cas, mais en très-petit nombre. Jugez combien ce discours me fit rire. Toutes les Dames Turques pensent cependant comme celle-là, & prétendent qu'elles ne font aucun pacte avec le Diable : il y a, disent-elles, des compositions qui peuvent inspirer de l'amour. Je crois que quelqu'un qui pourroit envoyer en Angleterre un vaisseau chargé de ces compositions, auroit bientôt fait sa fortune. Combien de femmes de notre connoissance donneroient tout ce qu'on leur demanderoit pour avoir de cette marchandise ! Adieu, ma chere Lady : je crois ne pouvoir finir\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7002
+  }
+}

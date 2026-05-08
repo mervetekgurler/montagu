@@ -1,0 +1,11 @@
+{
+  "page": 108,
+  "raw_response": "{\n  \"page\": 86,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"l'état de fatigue où je suis, après avoir couru la poste trois jours & trois nuits. Le Royaume de Bohème est le Pays le plus désert que j'aye vu en Allemagne. Les Villages y sont si misérables, qu'à peine les voyageurs trouvent-ils, même dans les Auberges où l'on prend la poste, de l'eau & de la paille fraîche. J'avois mon lit avec moi, mais je ne savois où le placer; & j'aimois mieux voyager toute la nuit enveloppée de ma fourrure, que d'aller dans les poëles respirer toutes sortes de mauvaises odeurs. Prague étoit autrefois la résidence des Rois de Bohème, & l'on y voit encore quelques restes de son ancienne splendeur: c'est une des plus grandes de l'Allemagne; mais elle est bâtie à l'antique, & il y a très-peu d'habitans: ce qui est cause que les logemens y font à très-bon marché. Les gens de\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

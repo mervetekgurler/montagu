@@ -1,0 +1,11 @@
+{
+  "page": 503,
+  "raw_response": "{\n  \"page\": 205,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Quand vous verrez Milady, dites-lui, je vous prie, que j'ai reçu sa Lettre & que je lui ferai réponse de Paris, d'où elle recevra des nouvelles avec plus de plaisir, que de partout ailleurs. Je suis, &c.\",\n      \"footnote\": null\n    },\n    {\n      \"number\": \"XLIX\",\n      \"heading\": \"LETTRE XLIX.\",\n      \"recipient\": \"A Milady ***.\",\n      \"location\": \"Paris\",\n      \"date\": \"le 10 Octobre 1718. Vieux style.\",\n      \"body\": \"VOus écrire du sein des plaisirs, c'est vous prouver, ma chere Milady, combien je vous suis attachée. Je suis accablée de visites: on me fait tant de complimens, que je n'ai pas même le tems d'y répondre. L'Ambassadeur de France à Constantinople a beaucoup de parens ici; ils viennent tous me voir, & m'importunent par leurs questions éternelles. L'air de Paris m'est favorable: je n'ai\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 327,
+    "total_tokens": 7035
+  }
+}

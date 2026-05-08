@@ -1,0 +1,11 @@
+{
+  "page": 338,
+  "raw_response": "{\n  \"page\": 48,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"pire dépendoit mystiquement de celle de ce corps : ils rappellerent à cette occasion quelques anciennes prophéties, & finirent par mettre la Momie dans les sept tours, où elle est restée prisonniere depuis ce tems. Je n'ose employer mon crédit pour la délivrer ; mais j'espere que la mienne passera sans être examinée. Je ne puis à présent vous dire autre chose de Constantinople. Vous recevrez de mes nouvelles lorsque j'aurai eu le tems de me reconnoître. Je suis, Monsieur, Votre, &c. LETTRE\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 206,
+    "total_tokens": 6914
+  }
+}

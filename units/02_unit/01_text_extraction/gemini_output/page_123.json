@@ -1,0 +1,11 @@
+{
+  "page": 123,
+  "raw_response": "{\n  \"page\": 101,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"nombreuse que celui de Saint James. Le Roi a eu la bonté de nous y donner un logement ; ce qui nous a tirés d'un très-grand embarras : car il y a ici une si prodigieuse quantité d'Anglois, qu'on a beaucoup de peine à trouver même une misérable chambre dans une taverne. J'ai dîné aujourd'hui avec l'Ambassadeur de Portugal, qui se trouve fort heureux d'avoir trouvé deux assez vilaines salles dans une Auberge. A présent que j'ai parcouru l'Allemagne, je fais une remarque ; c'est qu'on n'y trouve point, comme en Angleterre, ces belles maisons de plaisance des grands Seigneurs ; on n'y en trouve pas même qui approchent de celles de nos Gentilshommes de campagne, quoiqu'il y ait des situations extrêmement belles. Tout étant partagé en souverainetés absolues, les richesses & la magnificence ne\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 289,
+    "total_tokens": 6997
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 273,
+  "raw_response": "{\n  \"page\": 231,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"beaucoup, & que je ne donnerois pour rien au monde. Il se cabre sous moi avec tant de feu, que l'on s'imagineroit qu'il faut beaucoup de hardiesse pour oser le monter: cependant, je vous proteste que de ma vie je n'ai vu cheval si obéissant. Ma selle de femme avec laquelle je suis de côté sur le cheval, est la premiere qu'on ait vue dans cette partie du Monde: on la regarde avec autant de surprise, qu'on regardoit en Amérique le vaisseau de Christophe Colomb, lorsqu'il fit la découverte de ce pays. On a ici un respect religieux pour les tourterelles, à cause de leur innocence; ce qui fait qu'elles multiplient beaucoup: les cicognes y font en vénération, parce qu'on est persuadé qu'elles vont tous les hivers en pélerinage à la Mecque. Ce font, en vérité, les plus heureux Sujets de l'Em-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 293,
+    "total_tokens": 7001
+  }
+}

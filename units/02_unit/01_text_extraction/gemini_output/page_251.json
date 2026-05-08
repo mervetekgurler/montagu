@@ -1,0 +1,11 @@
+{
+  "page": 251,
+  "raw_response": "{\n  \"page\": 217,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"pièce n'a reçu de sa part aucun embellissement. Il me semble qu'en excusant les fautes inévitables dans une traduction en prose, & dans un langage si différent, on trouvera de grandes beautés dans ces Vers. Quoique cette expression, yeux de Cerf, soit basse dans notre Langue, elle me plaît beaucoup, & je la regarde comme une vive image du feu & de l'indifférence qui sont en même tems dans les yeux de sa Maitresse. Monsieur Boileau a très-judicieusement observé qu'il ne falloit jamais juger de la noblesse d'une expression employée dans un ancien Auteur, par celle qui la rend dans notre Langue, puisqu'elle peut être très-élevée chez lui, & devenir très-basse chez nous. Vous counoissez si bien Homere, qu'il n'est pas possible que vous n'ayez fait cette remarque à son sujet : on ne doit pas manquer\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 292,
+    "total_tokens": 7017
+  }
+}

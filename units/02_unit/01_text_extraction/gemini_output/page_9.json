@@ -1,0 +1,11 @@
+{
+  "page": 9,
+  "raw_response": "{\n  \"page\": 9,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"PREMIERE\",\n      \"heading\": \"LETTRE PREMIERE.\",\n      \"recipient\": \"A la Comtesse de ***.\",\n      \"location\": \"Rotterdam\",\n      \"date\": \"le 3 Août 1716. Vieux style.\",\n      \"body\": \"Vous apprendrez avec plaisir, sans doute, ma chere Sœur, que j'ai passé la mer sans accident, quoique nous ayons essuyé une tempête. Le Capitaine du Yacht nous fit partir dans un tems\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 159,
+    "total_tokens": 6867
+  }
+}

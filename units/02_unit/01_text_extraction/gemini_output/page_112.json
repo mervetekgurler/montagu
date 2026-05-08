@@ -1,0 +1,11 @@
+{
+  "page": 112,
+  "raw_response": "{\n  \"page\": 90,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"avant d'arriver au bas de ces rochers. Le chemin est si étroit en quelques endroits, que je ne voyois pas un pouce de distance entre les roues & le précipice. J'ai cependant eu assez de bonté pour ne pas éveiller Mylord M***, qui dormoit d'un profond sommeil à côté de moi, & lui faire partager ma crainte dans un si pressant danger. Cependant la clarté de la lune m'ayant fait appercevoir que nos postillons sommeilloient, pendant que nos chevaux alloient au grand galop, je ne pus m'empêcher de les appeller & de leur dire de faire attention au lieu où nous étions. Ma voix éveilla Mylord, qui fut encore plus effrayé que moi de la situation où nous nous trouvions : il m'assura qu'il avoit passé cinq fois les Alpes en différens endroits, & que jamais il n'y avoit trouvé des chemins aussi dangereux. J'ai appris depuis qu'on voyoit assez souvent des corps de\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 302,
+    "total_tokens": 7010
+  }
+}

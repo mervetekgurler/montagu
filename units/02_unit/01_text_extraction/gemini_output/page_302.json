@@ -1,0 +1,11 @@
+{
+  "page": 302,
+  "raw_response": "{\n  \"page\": 14,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"fit signe de jouer & de danser : dans l'instant, quatre d'entr'elles commencerent à jouer des airs tendres sur des instrumens qui tiennent du Luth & de la Guittare, & s'accompagnoient avec la voix, pendant que les autres dansoient tour à tour. Je n'avois jamais vu de danse semblable : elle étoit extrêmement légere, & voluptueuse en même tems : les airs étoient touchans, les mouvemens des danseuses étoient languissans; elles s'arrêtoient dans un attitude tendre, & leurs yeux prenoient un air de langueur; elles se renversoient encore en arriere, & se relevoient ensuite avec tant d'art, que je suis persuadée que la prude la moins sensible, & la dévote la plus scrupuleuse n'auroient pu les regarder sans étre émue. Vous avez lu, sans doute, que la Musique des Turcs en général choque l'oreille :\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7006
+  }
+}

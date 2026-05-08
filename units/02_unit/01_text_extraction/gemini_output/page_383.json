@@ -1,0 +1,11 @@
+{
+  "page": 383,
+  "raw_response": "{\n  \"page\": 93,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XL\",\n      \"heading\": \"LETTRE XL.\",\n      \"recipient\": \"A Milady ***.\",\n      \"location\": \"Pera\",\n      \"date\": \"le 16 Mars 1718. Vieux style.\",\n      \"body\": \"JE suis flattée, ma chere Milady, que vous m'ayez, à la fin, chargée d'une commission dont je peux m'acquitter selon votre desir : cela n'est cependant pas si facile que vous l'imaginez. Si je n'avois pas été plus active dans mes recherches, que ne le font ici la plûpart des étrangers, je n'aurois pû vous envoyer que des excuses ; ce qui est arrivé lorsque vous m'avez priée de vous acheter une esclave Grecque. Mais vous serez contente ; j'ai trouvé une Lettre d'amour à la Turque. Je l'ai mise dans une petite boëte que j'ai confiée au Capitaine du Smyrniote, qui vous la remettra avec celle que je\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 277,
+    "total_tokens": 6985
+  }
+}

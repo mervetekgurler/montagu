@@ -1,0 +1,11 @@
+{
+  "page": 208,
+  "raw_response": "{\n  \"page\": 178,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"J'ai trouvé à Philippopolis une Secte de Chrétiens qui s'appellent Paulins : ils font voir une vieille Eglise où ils assûrent que S. Paul a prêché ; ils ont pour lui la même vénération qu'on a pour S. Pierre à Rome, & lui donnent la même préférence sur les autres Apôtres. Mais de toutes les Religions que j'ai vues, la plus singuliere, à mon avis, est celle des Arnounts. Ils font originaires d'Arnuntlich, qui est l'ancienne Macédoine : quoiqu'ils ayent perdu le nom de Macédoniens, ils en ont conservé le courage & la fermeté. Ce sont les meilleures troupes de l'Empire Turc, & les seules qui se fassent craindre des Janissaires. Ils font à pied : nous en avons eu une Garde qui a été relevée dans chaque Ville par où nous avons passé. Ils s'habillent & s'arment à leurs dépens. Leur uniforme est de gros drap blanc, mais assez propre ; leurs\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 313,
+    "total_tokens": 7021
+  }
+}

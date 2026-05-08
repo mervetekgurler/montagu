@@ -1,0 +1,11 @@
+{
+  "page": 141,
+  "raw_response": "{\n  \"page\": 117,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XXI\",\n      \"heading\": \"LETTRE XXI.\",\n      \"recipient\": \"A la Comtesse de ***.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 16 Janvier 1717. Vieux style.\",\n      \"body\": \"JE vais m’éloigner de vous pour long-tems, ma chere Sœur, & de Vienne pour toujours : je pars demain pour la Hongrie. Le froid est si violent, les neiges sont si épaisses, qu’il n’y a qu’une obéissance aussi aveugle que la mienne, qui puisse me faire continuer la route ; le courage me manque. L’Impératrice m’a donné mon audience de congé en présence de l’Empereur ; & Leurs Majestés, après m’avoir dit des choses obligeantes, m’ont fait l’honneur de m’inviter à reprendre la route de Vienne à mon retour ; mais tant de fatigue m’effraye. J’ai remis à l’Impératrice une Lettre de\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 280,
+    "total_tokens": 6988
+  }
+}

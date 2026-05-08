@@ -1,0 +1,11 @@
+{
+  "page": 436,
+  "raw_response": "{\n  \"page\": 142,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"truit pour recevoir sa Royale Epouse, fille du Sultan régnant ; mais il ne vécut pas assez pour avoir cet honneur. J'ai envie de vous en faire la description ; mais je n'ose, parce que je crains de ne pouvoir, malgré mes efforts, vous en donner une juste idée. Il est sur le bord du canal, & dans une des plus agréables situations qu'on puisse trouver. Une montagne couverte d'un bois, le domine : son étendue est immense ; le Concierge m'a dit qu'il y avoit plus de huit cents chambres ; je ne puis assurer que cette quantité y soit ; je ne les ai pas comptées : tout ce que je peux dire, c'est que le nombre en est prodigieux : elles sont toutes décorées avec la plus grande magnificence. Le marbre, la dorure, & les peintures les plus fines y sont prodigués. Le vitrage des fenêtres est du plus beau crystal d'Angleterre. On y voit enfin\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 295,
+    "total_tokens": 7003
+  }
+}

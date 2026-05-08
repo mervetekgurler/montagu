@@ -1,0 +1,11 @@
+{
+  "page": 305,
+  "raw_response": "{\n  \"page\": 17,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"bre. En sortant, je reçus les mêmes politesses qu'en entrant. J'étois si enchantée de ce que je venois de voir, que je m'imaginois avoir passé quelque tems dans le paradis de Mahomet. Je ne sais ce que vous penserez de cette relation ; je voudrois seulement qu'elle vous causât une partie du plaisir que j'ai senti. Je serois bien contente, ma chere Sœur, si vous pouviez partager les amusemens de votre, &c.\",\n      \"footnote\": null\n    },\n    {\n      \"number\": \"XXXIV\",\n      \"heading\": \"LETTRE XXXIV.\",\n      \"recipient\": \"A l'Abbé***.\",\n      \"location\": \"Andrinople\",\n      \"date\": \"le 17 Mai 1717. Vieux style.\",\n      \"body\": \"JE suis sur le point de quitter Andrinople ; & je voudrois, avant mon départ, vous faire connoître ce que j'y ai trouvé de plus curieux. Je ne vous ferai aucune dissertation,\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 321,
+    "total_tokens": 7029
+  }
+}

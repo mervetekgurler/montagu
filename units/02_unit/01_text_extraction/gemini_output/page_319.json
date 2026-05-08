@@ -1,0 +1,11 @@
+{
+  "page": 319,
+  "raw_response": "{\n  \"page\": 31,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ques de Tabletiers. Il y a sur les murailles des fleurs dont la couleur est si vive, qu’au premier coup d’œil je ne pus jamais imaginer de quelle matière elles étoient ; mais, en approchant, je vis que c’étoit de la porcelaine du Japon : cela fait un très-bel effet. On voit au milieu de cette Mosquée une très-grande quantité de lampes de vermeil, parmi lesquelles il s’en trouve une qui est d’une grandeur prodigieuse. Elles doivent faire un beau coup d’œil lorsqu’elles font toutes allumées : mais les femmes ne peuvent voir ce spectacles, parce qu’on ne les allume que la nuit. Sous la grosse lampe est une chaire de bois, dont la sculpture est dorée ; & tout auprès, une fontaine où l’on se lave ; ce qui fait, comme vous le savez, un article essentiel de la Religion des Turcs. Dans un coin de cette Mosquée est\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 288,
+    "total_tokens": 6996
+  }
+}

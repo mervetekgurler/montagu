@@ -1,0 +1,11 @@
+{
+  "page": 295,
+  "raw_response": "{\n  \"page\": 9,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"de fleurs, qui sortoient de corbeilles dorées, & paroissoient prêtes à tomber. On voyoit la femme du Kahia sur un sopha élevé de trois marches, & couvert de beaux tapis de Perse : elle étoit appuyée sur des coussins de satin blanc brodé : à ses pieds étoient assises deux jeunes filles âgées de douze ans ou environ ; leurs habits étoient presque tout couverts de pierreries. Elles étoient très-aimables ; mais à peine y faisoit-on attention auprès de la belle Fatime, (c'est le nom de la femme du Kahia). Elle est d'une si grande beauté, que je n'ai rien vu de pareil, ni en Angleterre, ni en Allemagne : non, je ne me rappelle aucun visage qui mérite d'être regardé auprès du sien. Elle se leva pour me recevoir, & me salua à la façon de son pays, en mettant la main sur le cœur ; mais elle le fit d'une maniere noble & ma-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7006
+  }
+}

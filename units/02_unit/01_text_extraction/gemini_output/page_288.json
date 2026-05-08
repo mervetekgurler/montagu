@@ -1,0 +1,11 @@
+{
+  "page": 288,
+  "raw_response": "{\n  \"page\": 2,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ver une autre occasion pour vous faire tenir de mes nouvelles : je ne puis cependant m'empêcher de vous écrire encore ; car je suis si remplie de ce que je vis hier, qu'il faut, même pour mon repos, que je me hâte de vous en faire part. Je commence donc mon histoire sans avant-propos. Je fus invitée à dîner chez la femme du Grand-Visir, & ce fut avec un plaisir infini que je me préparai à un repas qu'on n'avoit jamais donné à une Chrétienne. Je crus que je satisferois peu sa curiosité, qui avoit, sans doute, beaucoup de part dans son invitation, en allant chez elle avec un habillement auquel ses yeux seroient accoutumés : dans cette idée je pris l'habit en usage à la Cour de Vienne ; il est beaucoup plus riche que le nôtre. Mais, pour éviter tout le cérémonial, j'y allai incognito dans un carrosse Turc, accompagnée seu-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7021
+  }
+}

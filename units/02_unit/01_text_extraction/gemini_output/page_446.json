@@ -1,0 +1,11 @@
+{
+  "page": 446,
+  "raw_response": "{\n  \"page\": 148,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"de tout mon cœur, de partager avec quelqu'un le plaisir que j'ai goûté dans ma route. J'ai parcouru la plus agréable partie du Monde ; l'idée de ce qui s'est offert à ma vue, porte, malgré moi, mon esprit à la Poësie.\\n* » Mon imagination, échauffée\\n» par un enthousiasme poëtique, par-\\n» court les Mers & les Isles immor-\\n» telles, où les Muses ont tant de\\n» fois chanté que les Montagnes ré-\\n» petent leurs Vers \\\".\\nPardonnez cet écart ; je tâcherai, s'il est possible, d'écrire le reste de ma Lettre en Prose. Un jour après que nous eûmes mis à la voile, nous cotoyâmes Gallipolis ; c'est une belle Ville ; elle est située dans la baye du Chersonese. Comme c'est la premiere\",\n      \"footnote\": \"* Traduction de quatre Vers Anglois\"\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7004
+  }
+}

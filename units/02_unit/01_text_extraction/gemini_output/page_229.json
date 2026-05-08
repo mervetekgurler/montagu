@@ -1,0 +1,11 @@
+{
+  "page": 229,
+  "raw_response": "{\n  \"page\": 199,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"jour , & de près, cette couleur noire est trop sensible. Les Dames Turques donnent à leurs ongles une couleur de rose ; mais cela ne m'a pas plu ; sans doute, parce que je n'y suis pas accoutumée. \\nPour ce qui regarde leurs moeurs ou leur conduite, je dirai avec Arlequin : c'est comme parmi nous. Les Dames Turques ne péchent pas moins que les Chrétiennes. A présent que je suis instruite de leur conduite, je ne puis m'empêcher d'admirer la discrétion ou la simplicité des Ecrivains qui en ont parlé. Elles ont certainement plus de liberté que nous ; vous allez en voir la preuve : il n'est permis à aucune femme, de quelque condition qu'elle soit, d'aller dans les rues sans deux Murlins : l'un couvre tout le visage à la réserve des yeux; l'autre cache toute la coëffure, & pend par derriere jusqu'à la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 297,
+    "total_tokens": 7022
+  }
+}

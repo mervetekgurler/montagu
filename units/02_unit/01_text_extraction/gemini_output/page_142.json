@@ -1,0 +1,11 @@
+{
+  "page": 142,
+  "raw_response": "{\n  \"page\": 118,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"la Duchesse de Blankenbourg, à la Cour de laquelle je n'ai pas fait un long séjour, malgré les instances de Son Altesse, qui m'a recommandé, en la quittant, de lui écrire. Vous ne me parlez point d'une longue Lettre que je vous ai envoyée, & que vous avez, sans doute, reçue. Mais je ne vous ai pas fait part d'une singularité qui m'a frappée : c'est que tous les Princes d'Allemagne ont des Nains pour Favoris. On voit deux de ces petits monstres à la Cour Impériale ; ils font laids comme des diables, principalement la Naine. Leurs habits font tout couverts de diamans ; & ils se tiennent à côté de l'Impératrice dans toutes les Places publiques. Le Duc de Wolfenbuttel en a un : la Duchesse de Blankenbourg a une Naine ; c'est la mieux faite que j'aye vue. On dit que le Roi de Dannemarck a tellement enchéri sur\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

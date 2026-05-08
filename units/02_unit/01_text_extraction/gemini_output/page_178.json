@@ -1,0 +1,11 @@
+{
+  "page": 178,
+  "raw_response": "{\n  \"page\": 152,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"gereux de la Porte. Il soupe avec nous tous les soirs, & boit du vin sans scrupule. Vous n'imaginerez jamais combien la liberté qu'il a de converser avec moi lui fait de plaisir. Il m'a interprété plusieurs pièces de Poésie Arabe : il y en a une grande quantité dans cette Langue ; & elles approchent beaucoup des nôtres : les vers sont très-harmonieux, & très-susceptibles de musique : l'amour y est peint d'une maniere assez vive & assez passionnée. J'en suis si contente, que j'apprendrois l'Arabe si je restois ici quelques mois. Achmet-Beg a une Bibliothéque remplie de toutes sortes de livres à l'usage du Pays : ils font sa principale occupation. Je passe pour savante auprès de lui, en lui racontant quelques Contes Arabes, que je trouve assez ingénieux : il croyoit d'abord que j'entendois le Persan. J'ai\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 308,
+    "total_tokens": 7016
+  }
+}

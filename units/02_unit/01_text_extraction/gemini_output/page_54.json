@@ -1,0 +1,11 @@
+{
+  "page": 54,
+  "raw_response": "{\n  \"page\": 36,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"chers, & des coteaux couverts de vignes, des champs remplis de bled; par de grandes Villes, & des ruines d'anciens Châteaux. J'ai vu Passau & Lintz. Cette derniere Ville est fameuse pour avoir été la retraite de la Cour Impériale, lorsque Vienne fut assiégée. Quoiqu'elle soit aujourd'hui honorée de la résidence de l'Empereur, elle n'a pas rempli mon attente ; je l'ai trouvée bien plus petite que je ne le pensois : ses rues sont si étroites, qu'il est impossible de voir les beaux frontispices des Palais. Ils sont presque tous bâtis de belles pierres blanches, & prodigieusement élevés. Comme Lintz ne peut contenir tous ceux qui veulent y demeurer, on a entassé Ville sur Ville; la plûpart des maisons ont cinq étages, & beaucoup en ont six. Il est aisé de comprendre que les rues étant si étroites, les chambres font fort obscures; &, ce qui me paroit encore plus insup-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 308,
+    "total_tokens": 7016
+  }
+}

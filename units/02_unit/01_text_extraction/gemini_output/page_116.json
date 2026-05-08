@@ -1,0 +1,11 @@
+{
+  "page": 116,
+  "raw_response": "{\n  \"page\": 94,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"blesse de passer un contrat de mariage avec sa nouvelle Maitresse : quoique ce contrat fût nul, puisque la Reine vivoit encore, la Comtesse en fut si flattée, qu'elle le fit voir à tous ceux qu'elle connoissoit, & qu'elle prit même le ton de Reine. Les hommes souffrent tout dans l'excès de leur amour ; mais la réflexion leur vient toujours, quand une longue jouissance a calmé leur passion. Le Roi sentit combien il étoit imprudent de laisser un tel acte entre les mains de cette femme : il la pria de le lui rendre ; mais ce fut en vain ; elle a plutôt souffert les plus cruels effets de la colere du Prince, que de le satisfaire. Malgré son avarice, elle a refusé une pension considérable, avec une garantie des sommes immenses qu'elle a amassées : elle a, enfin, porté le Roi à la renfermer dans un Château, où, mal-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 286,
+    "total_tokens": 6994
+  }
+}

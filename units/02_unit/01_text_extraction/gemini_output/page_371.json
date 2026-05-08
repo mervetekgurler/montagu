@@ -1,0 +1,11 @@
+{
+  "page": 371,
+  "raw_response": "{\n  \"page\": 81,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"vercles & les soucoupes étoient d'or massif. Après le dîner, on apporta de l'eau dans des bassins d'or, & des serviettes semblables à celles dont on avoit fait usage pendant le repas : je m'essuyai les mains avec; mais ce fut encore avec regret. On servit ensuite le caffé dans de la porcelaine, avec des soucoupes d'or. La Sultane me parut d'assez bonne humeur : elle me tint toujours un langage plein de politesse : je profitai de cette occasion, pour tirer d'elle quelque détail sur le Serrail, dont nous n'avons aucune notion. Elle m'assura qu'il étoit entieremenr faux que le Sultan jettât un mouchoir à celle qu'il desire de posséder, comme on le débite. Il charge le Kislir Aga de lui annoncer l'honneur qu'il a dessein de lui faire. Sur le champ elle est complimentée par toutes les autres Sultanes, qui la conduisent au bain,\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 308,
+    "total_tokens": 7016
+  }
+}

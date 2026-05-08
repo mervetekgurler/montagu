@@ -1,0 +1,11 @@
+{
+  "page": 222,
+  "raw_response": "{\n  \"page\": 192,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"lontés méritoit la mort ; mais que par respect pour moi , il ne le puniroit que par mon ordre. En conséquence, il vint gravement me trouver , & me demander ce que je voulois qu'il lui fît ; il ajoûta même par politesse , que , si je voulois , il m'apporteroit sa tête. Ceci peut vous donner une idée du pouvoir énorme qu'ont les Janissaires. Ils font liés tous ensemble par serment, & sont obligés de venger les injures les uns des autres , soit au Caire , à Alep , enfin , dans toutes les parties du monde. Cette ligue les rend si puissans , que les plus Grands de la Cour n'osent leur parler que d'un ton d'amitié. Tout homme riche en Asie s'enrôle dans les Janissaires , pour que son bien soit en sûreté. Mais je crois que j'en ai dit assez ; & vous apprendrez , sans doute , avec plaisir , Madame , que vous ne pour-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7032
+  }
+}

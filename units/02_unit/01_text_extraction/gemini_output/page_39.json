@@ -1,0 +1,11 @@
+{
+  "page": 39,
+  "raw_response": "{\n  \"page\": 37,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"portable, c'est qu'il ny a point de maison qui ne contienne cinq ou six familles. Les appartemens des plus grandes Dames, même des Ministres d'Etat, ne sont séparés de ceux des Tailleurs & des Cordonniers que par des cloisons ; personne n'occupe plus de deux étages dans une maison : les maîtres logent au premier, & les domestiques habitent celui de dessus. Les Propriétaires n'occupent de leurs maisons que ce qui leur est absolument nécessaire ; ils louent le reste ; ainsi les escaliers sont aussi communs & aussi sales que les rues. Je conviens que les appartemens sont magnifiques : ce sont ordinairement des enfilades de huit ou dix grandes pièces toutes parquetées : les portes & les fenêtres sont ornées de sculpture & de dorure ; les ameublemens sont si riches, qu'on en voit peu de semblables, même chez les Princes Souverains des autres pays. Ils con-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 286,
+    "total_tokens": 6994
+  }
+}

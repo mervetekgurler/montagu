@@ -1,0 +1,11 @@
+{
+  "page": 66,
+  "raw_response": "{\n  \"page\": 48,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"opposées au sens commun, que vous ne pouvez vous l'imaginer. Les femmes bâtissent sur leur tête un édifice de gaze, qui a environ une verge (a) de hauteur. Elles prennent d'abord un bourrelet, qui ne differe de celui dont les laitieres se servent pour porter leur pot au lait sur la tête, qu'en ce qu'il est trois fois plus gros ; élevent dessus trois ou quatre étages qu'elles fortifient avec une quantité prodigieuse de gros rubans; cette masse est ensuite couverte de leurs cheveux, auxquels elles en ajoûtent beaucoup de postiches : car c'est pour elles une beauté singuliere d'avoir la tête trop grosse pour qu'elle puisse entrer dans un tonneau de moyenne grandeur. Elles se poudrent beaucoup, afin qu'on n'apper-\",\n      \"footnote\": \"(a) C. à d. trois pieds, mesure de France.\"\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 273,
+    "total_tokens": 6981
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 384,
+  "raw_response": "{\n  \"page\": 94,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"vous écris, & où je vous mets une traduction littérale de cette Lettre d'amour : la premiere piéce que vous tirerez de la bourse, est une petite perle qui'en Turc s'appelle Ingi. Elle a la signification suivante :\\n\\nIngi. Perle,\\n\\nSensin Uzellerin gingi.\\nLa plus belle des jeunes.\\n\\nCaremfil, Clou de Girofle.\\n\\nCaremfilsen cararen yok.\\nCongé gulfum timarin yok.\\nBenseny chok than severim,\\nSenin benden, haberin yok.\\nVous êtes aussi mince que ce Girofle.\\nVous êtes une Rose qui n'est pas épanouie.\\nJe vous ai aimée long-tems, & vous ne l'avez pas sû.\\n\\nPul, Jonquille.\\n\\nDerdime derman bul.\\nSoyez sensible à mon amour.\\n\\nKihát, Papier.\\n\\nBirlerum sahát sahát.\\nMes sens s'égarent à chaque instant.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 320,
+    "total_tokens": 7028
+  }
+}

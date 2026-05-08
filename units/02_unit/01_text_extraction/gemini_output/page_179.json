@@ -1,0 +1,11 @@
+{
+  "page": 179,
+  "raw_response": "{\n  \"page\": 153,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"de fréquentes disputes avec lui sur la différence de nos coûtumes, principalement sur la gêne dans laquelle celle de son Pays tient les femmes. Il m'assûre qu'elles sont aussi libres que nous : toute la différence, m'a-t-il dit, c'est que, quand elles nous trompent, personne ne le sait. Il a de l'esprit, & plus de politesse que bien des gens de qualité parmi les Chrétiens : enfin, je m'amuse beaucoup avec lui. Il s'est fait faire un Alphabet de nos caractères par un de mes domestiques, & il sait déjà écrire en lettres Romaines. Tous ces amusemens n'empêchent cependant pas que je ne desire ardemment d'être hors de cette Ville, quoiqu'il fasse dans ce Pays plus froid que par-tout ailleurs, excepté dans le Groenland. Nous avons un très-grand poële où l'on entretient toujours le feu; cependant les fenêtres de notre\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 293,
+    "total_tokens": 7018
+  }
+}

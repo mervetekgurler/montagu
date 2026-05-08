@@ -1,0 +1,11 @@
+{
+  "page": 94,
+  "raw_response": "{\n  \"page\": 74,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"usages qui leur font tout particuliers. Les veuves ne peuvent jamais, sans indécence, porter du verd, ni du couleur de rose; toutes les autres couleurs, même les plus éclatantes, leur font permises. Les assemblées font l'amusement ordinaire. Il n'y a jamais Opéra qu'à la Cour, & l'on n'y en donne que dans des cas particuliers. Madame Rabutin tient assemblée à son Hôtel régulierement tous les soirs. Les autres Dames en tiennent toutes les fois qu'il leur plaît de faire voir la magnificence de leurs appartemens, ou qu'elles veulent donner à quelqu'un des marques de considération le jour de sa fête. Dans ce dernier cas, elles font annoncer que l'assemblée se tiendra chez elles en l'honneur du Comte, ou de la Comtesse de .... Cela s'appelle jour de Gala. Tous les parens & amis de la Dame dont\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 281,
+    "total_tokens": 6989
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 57,
+  "raw_response": "{\n  \"page\": 39,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"nante de vins exquis. C'est un usage de mettre sur l'assiette des convives une liste de ceux qu'on doit servir , & j'en ai compté plusieurs fois jusqu'à dix-huit sortes des plus excellens. J'allai hier à la maison de campagne du Comte de Schoonbourn , Vice-Chancelier , où j'étois invitée à dîner. Je n'ai jamais rien vu de si beau que le fauxbourg de Vienne : il est fort grand , & ses maisons font presque toutes des Palais magnifiques. Vienne feroit une Ville & des plus grandes & des mieux bâties de l'Europe , si l'Empereur vouloit qu'on en abattît les portes , & qu'on y joignît le fauxbourg. Pour revenir à la maison de campagne du Comte de Schoonbourn , elle est extrêmement belle. Les ameublemens font de brocart d'un si beau goût , & si brillant , que l'oeil en est satisfait. Il y a une galerie pavée de pierres très-rares ; &\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 314,
+    "total_tokens": 7039
+  }
+}

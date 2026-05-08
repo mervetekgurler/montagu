@@ -1,0 +1,11 @@
+{
+  "page": 340,
+  "raw_response": "{\n  \"page\": 50,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"sieurs belles allées : la terre est couverte d'une si agréable verdure, qu'elle me semble être l'ouvrage de l'Art : mais on m'assûre que c'est celui de la Nature. Nous découvrons la Mer Noire, qui nous rafraîchit par ses brises, & calme les excessives chaleurs de l'été. Ce Village n'est habité que par des Chrétiens qui font fort riches : ils vont tous les soirs chanter & danser sur le bord d'une fontaine qui n'est qu'à quarante pas de la maison que j'habite. La beauté & l'habillement des femmes me rappellent à l'idée les tableaux que les Poëtes & les Peintres font des Nymphes. L'état dans lequel est mon esprit, me persuade presque que je suis malade : j'ignore entierement ce qui se passe parmi les vivans ; & si le hazard m'en donne quelques nouvelles, je les reçois avec une extrême indifférence. Je con-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 311,
+    "total_tokens": 7019
+  }
+}

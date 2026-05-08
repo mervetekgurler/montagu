@@ -1,0 +1,11 @@
+{
+  "page": 388,
+  "raw_response": "{\n  \"page\": 98,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"fois il y a un an : les expressions ne me sont plus si familieres. Je prendrai le parti de laisser toutes les autres Langues pour reprendre la mienne. Il faut convenir que les talens de l'homme sont aussi bornés que sa force & son pouvoir. La mémoire ne peut retenir qu'un certain nombre d'images ; & il est aussi impossible à l'esprit humain de posséder parfaitement dix différentes Langues, qu'il l'est à un seul homme d'en battre dix en même tems, ou à un Prince de contenir dix Royaumes dans une parfaite obéissance.\\nJe pourrai finir par ne savoir bien aucune Langue. Le lieu où je suis représente assez ce qui arriva à la Tour de Babel. A Pera on parle Turc, Grec, Hébreu, Arménien, Arabe, Persan, Russe, Sclavon, Valachien, Allemand, Hollandois, François, Anglois, Italien, Hon-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 291,
+    "total_tokens": 6999
+  }
+}

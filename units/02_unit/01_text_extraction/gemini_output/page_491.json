@@ -1,0 +1,11 @@
+{
+  "page": 491,
+  "raw_response": "{\n  \"page\": 193,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"un froid excessif. Un brouillard épais qui regne continuellement sur cette Montagne, pénétra l'épaisse fourrure qui m'enveloppoit, & me causa un froid si violent, que j'étois à demi-morte avant de parvenir au bas de cette Montagne ; nous n'y arrivâmes cependant que deux heures après le Soleil couché. Sur le sommet du Mont Cénis, on trouve une vaste plaine, au milieu de laquelle est un Lac.\\nLa descente de cette Montagne est si rapide & si glissante, que j'étois étonnée de voir nos porteurs marcher d'un pas aussi ferme que s'ils avoient été sur un terrein plat. Je craignois, cependant, moins de me casser le cou que de tomber malade, & l'événement a prouvé que j'avois raison.\\nOn peut passer toutes les autres Montagnes en chaise : elles sont\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 284,
+    "total_tokens": 6992
+  }
+}

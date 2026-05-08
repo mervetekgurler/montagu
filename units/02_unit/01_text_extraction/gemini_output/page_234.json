@@ -1,0 +1,11 @@
+{
+  "page": 234,
+  "raw_response": "{\n  \"page\": 204,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"différentes entr'elles, que nos faiseurs de voyages voudroient nous le persuader : je vous aurois, peut-être, plus amusée, si je vous avois fait une fiction surprenante ; mais je crois que rien n'est plus agréable que la vérité, & en même tems plus digne de vous : c'est dans cette idée que je vous en présente encore une, qui est que je suis, ma chere Sœur, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 184,
+    "total_tokens": 6892
+  }
+}

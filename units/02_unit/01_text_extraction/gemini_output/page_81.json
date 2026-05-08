@@ -1,0 +1,11 @@
+{
+  "page": 81,
+  "raw_response": "{\n  \"page\": 63,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"se place entr'eux avec beaucoup de gravité. Les sous-mariages durent ordinairement vingt ans de suite, & souvent la Maitresse ruine totalement son Amant. Ces liaisons sont plus souvent formées par l'usage que par l'amour. Un homme est peu consideré, lorsqu'il n'est attaché à personne ; & sitôt qu'une femme est mariée, elle cherche un Amant, pour faire partie d'un équipage sans lequel elle ne peut être agréable. L'Amant commence par assûrer à sa Maîtresse une pension, qu'il seroit toujours forcé de lui payer, quand même il cesseroit de la voir : j'imagine que c'est la veritable cause de ces exemples étonnans de constance qu'on voit ici. Je pourrois vous nommer plusieurs femmes de la premiere qualité, dont les pensions sont aussi connues que leur patrimoine, sans qu'elles en soient moins estimées = \",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 285,
+    "total_tokens": 7010
+  }
+}

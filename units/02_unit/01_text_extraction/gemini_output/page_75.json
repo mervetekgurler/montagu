@@ -1,0 +1,11 @@
+{
+  "page": 75,
+  "raw_response": "{\n  \"page\": 57,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"crochets, d'où pendoient des mouchoirs de Turquie, des palatines, des rubans, des dentelles, &c. pour les moindres prix. L'Impératrice donna de sa propre main le premier, qui étoit une tabatiere d'or, dans laquelle il y avoit une bague où étoit monté un très-beau rubis, entouré de diamans. Le second prix consistoit en un petit Cupidon enrichi de diamans, un service de très-belle porcelaine pour le thé, une table à bords d'or pour le même usage, en coffres de vernis du Japon, en éventails ; & autres meubles aussi galans. Tous les hommes de qualité de Vienne furent spectateurs ; mais il n'y eut que les Dames qui tirerent : l'Archiduchesse Amélie remporta le premier prix. Ce divertissement m'amusa beaucoup, & peut-être le détail en seroit-il aussi intéressant, que celui que nous donne Virgile dans l'E-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

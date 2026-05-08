@@ -1,0 +1,11 @@
+{
+  "page": 136,
+  "raw_response": "{\n  \"page\": 112,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XX\",\n      \"heading\": \"LETTRE XX.\",\n      \"recipient\": \"A Milady ***.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 1 Janvier 1717. Vieux style.\",\n      \"body\": \"JE viens de recevoir une Lettre que vous m'aviez adressée à Hanovre : vous m'y faites compliment sur mon retour en Angleterre. Convenez que l'on ne doit pas toujours croire ce qui passe dans le Public pour une vérité constante, & que vous avez été un peu trop précipitée en vous plaignant que je vous laissois ignorer mon retour, qui est si certain, dites-vous, que tout le monde en est instruit. Vous pouvez dire à tout le monde, de ma part, que personne ne fait si bien mes affaires que moi ; que je suis sûre d'être actuellement à Vienne, où le carnaval est commencé, & où les divertissemens de toute\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 257,
+    "total_tokens": 6965
+  }
+}

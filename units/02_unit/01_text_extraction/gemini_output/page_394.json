@@ -1,0 +1,11 @@
+{
+  "page": 394,
+  "raw_response": "{\n  \"page\": 104,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"mélange de jardins, de pins, de cyprès, de Palais, de Mosquées, enfin d'édifices publics élevés les uns au-dessus des autres avec une symétrie semblable à celle d'un buffet, où les différens vases, les porcelaines, les chandeliers, & autres ustensiles font rangés avec ordre. Cette comparaison, quoique bizarre, est assez juste. J'ai vu du Serrail tout ce qu'il est possible d'en voir : il est bâti sur une langue de terre qui s'avance dans la mer : le Palais est irrégulier ; mais d'une très-grande étendue. Les jardins sont immenses, & tout plantés de cyprès d'une hauteur prodigieuse. Voilà tout ce que j'en ai pu découvrir. Les bâtimens font de pierres blanches ; on voit s'élever au-dessus de petites tours & des pyramides dorées ; ce qui produit un effet assez agréable. Je doute qu'on trouve, dans toute la Chré-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7004
+  }
+}

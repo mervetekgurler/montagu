@@ -1,0 +1,11 @@
+{
+  "page": 468,
+  "raw_response": "{\n  \"page\": 170,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"vû plusieurs troupes de Paysans sous des arbres : une partie s'occupoit à manger, pendant que l'autre dansoit & chantoit. Ce sont des mulâtres, & je vous jure que je n'ai point vu de figures humaines aussi hideuses. Ils sont presque tout nuds, n'ayant pour vêtement qu'un morceau de serge dans laquelle ils s'enveloppent ; mais les femmes ont un ornement singulier : elles s'impriment avec de la poudre à canon, des fleurs, des étoiles, enfin toutes fortes de figures sur le visage, sur le cou, sur les épaules & sur les bras ; ce qui n'augmente pas leur difformité naturelle. Je ne crois pas qu'elles puissent se procurer ces agrémens sans souffrir beaucoup.\\nNous vîmes, environ à six milles de Tunis, les restes de ce fameux aqueduc qui conduisoit l'eau à Carthage par dessus plusieurs hautes\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 291,
+    "total_tokens": 6999
+  }
+}

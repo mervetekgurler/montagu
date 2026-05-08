@@ -1,0 +1,11 @@
+{
+  "page": 82,
+  "raw_response": "{\n  \"page\": 64,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"leur conduite, au contraire, seroit suspecte, si on les soupçonnoit de ne rien recevoir de leur Amant, & elles mettent de la rivalité à se faire donner la plus forte pension : en un mot, c'est un deshonneur parmi elles, d'être sans intrigue. Une de ces Dames, avec qui je suis fort liée, me dit hier que je lui avois beaucoup d'obligation, d'avoir pris ma défense dans une conversation qu'on avoit tenue à mon sujet. On y soutenoit que je n'avois pas le sens commun, puisque depuis quinze jours que j'étois à Vienne, je n'avois fait aucune démarche pour lier une intrigue. Elle répondit, selon ce qu'elle m'a rapporté, qu'il étoit injuste d'attribuer à la stupidité, ce qui ne devoit l'être qu'à l'incertitude de mon départ ; & voilà tout ce qu'elle put trouver pour ma justification. Il m'arriva hier au soir une aventure bien singuliere : je vais vous la raconter, afin de vous\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 321,
+    "total_tokens": 7029
+  }
+}

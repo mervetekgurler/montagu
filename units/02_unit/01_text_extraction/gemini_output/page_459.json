@@ -1,0 +1,11 @@
+{
+  "page": 459,
+  "raw_response": "{\n  \"page\": 161,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"biens, lorsqu'il faisoit sa cour à Daphne. Elle n'a que dix milles de circuit ; mais outre qu'elle est bien peuplée, que ses habitans sont riches, elle est encore célebre par la bonté de ses vins. Je ne vous parlerai point de Tenes d'où elle tire son nom ; nous passâmes ensuite à Mytylene : je ne puis m'empêcher de vous dire quelque chose de Lesbos, où regna Pittacus, & où Sapho composa ses premiers Vers. Cette Isle est encore célebre pour avoir donné la naissance à Alcée, à Théophraste & à Arion ; ces grands Maîtres, en Poësie, en Philosophie & en Musique. Ce fut une des Isles que les Chrétiens conserverent le plus long-tems après la prise de Constantinople par les Turcs. Il est inutile que je vous parle de Constantinople, &c. Vous savez aussi-bien que moi l'histoire des Empereurs Grecs. Je fus fâchée de voir qu'en\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 311,
+    "total_tokens": 7019
+  }
+}

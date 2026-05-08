@@ -1,0 +1,11 @@
+{
+  "page": 372,
+  "raw_response": "{\n  \"page\": 82,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"où elles la parfument & l'habillent magnifiquement, &, en même tems d'une maniere convenable à l'objet pour lequel elle est destinée. L'Empereur se fait précéder par un présent, & passe après dans l'appartement où elle est : il est encore faux qu'elle rampe jusqu'au pied du lit. La Sultane Hafiten m'assura que la premiere femme que l'Empereur choisissoit avoit toujours le pas sur les autres, & que ce n'étoit point la mere du fils aîné, comme les Voyageurs ont voulu nous le persuader. Le Sultan s'amuse quelquefois avec toutes les Sultanes, qui forment un cercle autour de lui. Hafiten me dit qu'aussitôt qu'il donnoit quelque marque de préférence à une d'en-tr'elles, les autres étoient en proie à la plus vive jalousie. Mais je trouvai que cela avoit beaucoup de rapport à ce qui se passe dans presque toutes les\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 299,
+    "total_tokens": 7007
+  }
+}

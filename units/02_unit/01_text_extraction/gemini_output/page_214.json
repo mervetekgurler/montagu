@@ -1,0 +1,11 @@
+{
+  "page": 214,
+  "raw_response": "{\n  \"page\": 184,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"La Fille aînée du Grand-Seigneur se maria quelques jours avant mon arrivée en cette Ville, & les Dames Turques étalerent à cette occasion toute leur magnificence. La nouvelle mariée fut conduite au Palais de son mari avec beaucoup de pompe. Elle étoit veuve du feu Vizir, qui fut tué à Peter-Waradin : on pourroit plutôt appeller sa premiere alliance un contrat, qu'un mariage ; car elle n'a jamais habité avec le Vizir ; cependant elle a hérité de la plus grande partie de sa fortune. Il avoit eu la permission de la voir dans le Serrail ; & comme c'étoit un des plus beaux hommes de l'Empire, la Princesse avoit conçu beaucoup d'amour pour lui. En voyant le mari qu'elle a aujourd'hui, lequel est âgé de cinquante ans, elle ne put retenir ses larmes : c'est cependant un homme de mérite, &\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 284,
+    "total_tokens": 6992
+  }
+}

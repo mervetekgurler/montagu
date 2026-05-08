@@ -1,0 +1,11 @@
+{
+  "page": 518,
+  "raw_response": "{\n  \"page\": 220,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Je ne puis m'empêcher d'applaudir à vos généreux sentimens de supposer que vos Amans de village, appellés vulgairement Faneurs, auroient passé leur vie dans l'union & les plaisirs, si la foudre n'en eût arrêté le cours, Car pourquoi s'imaginer que Jean Hughes & Sara-Drew eussent été plus sages & plus vertueux que leurs voisins ? Il n'est pas étonnant qu'un homme de vingt-cinq ans ait eu envie d'épouser une brune de dix-huit ; & je ne doute point que s'ils se fussent unis par les liens du mariage, ils n'eussent vécu ensemble comme les autres paysans. La précaution que prit Jean Hughes de mettre sa maitresse à l'abri de l'orage est si naturelle, qu'il y a lieu de croire qu'en pareil cas il en eût fait autant pour son cheval. Je ne crois point que leur amour réciproque ait été la cause de leur mort. Vous sa-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

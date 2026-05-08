@@ -1,0 +1,11 @@
+{
+  "page": 402,
+  "raw_response": "{\n  \"page\": 110,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"surprenante, toute bâtie en marbre. La mère de Mahomet IV. la fonda en l'honneur de notre Sexe. Entre nous, l'Eglise de S. Paul de Londres ne lui est pas comparable, & nos plus belles Places ne peuvent être mises en comparaison avec l'Atler-dam, ou Marché aux Chevaux. Le Lieu où se tient ce Marché est ce qu'on appelloit l'Hippodrome sous les Empereurs Grecs. Au milieu de cette Place, on voit une colonne de bronze qui est formée par trois serpens entrelacés, lesquels ouvrent la gueule. On ne sait point au juste le motif pour lequel cette colonne extraordinaire a été érigée. Lors-qu'on interroge les Grecs à ce sujet, ils racontent des fables, font des histoires, toutes peu satisfaisantes : il est vrai qu'il n'y a jamais eu d'ins-cription. Au haut de la Place est un obélisque de porphyre, qui paroît\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 304,
+    "total_tokens": 7012
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 233,
+  "raw_response": "{\n  \"page\": 203,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"mes de qualité n'usent point de cette liberté; d'ailleurs, une femme ne le souffriroit pas. S'il arrive qu'un mari soit infidele, ce qui n'a rien d'étonnant, il met sa maitresse dans une maison à l'écart, & va la voir le plus secrettement qu'il peut; c'est comme en Angleterre. Parmi tous les Grands, je ne connois ici que le Tefterdar ou trésorier, qui entretienne plusieurs esclaves; elles habitent la partie de la maison où est son appartement; car lorsqu'une esclave a été donnée à une femme pour la servir, elle est entierement sous sa domination. Le trésorier dont je viens de parler est regardé comme un libertin, & généralement méprisé. Sa femme reste toujours dans sa maison; mais elle ne veut pas le voir. \\nVous voyez, ma chere Sœur, que les mœurs des hommes ne sont pas si\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 293,
+    "total_tokens": 7001
+  }
+}

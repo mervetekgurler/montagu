@@ -1,0 +1,11 @@
+{
+  "page": 33,
+  "raw_response": "{\n  \"page\": 33,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"complaisance qu'on n'avoit pas eue dans les autres Villes où j'ai passé. En les voyant de si près, j'ai eu occasion de faire une remarque que j'aurois, sans doute, pu faire par-tout ailleurs ; c'est que les diamans, les émeraudes, les rubis, &c. qui servent à les orner, sont, pour la plûpart, des pierres fausses, quoi-qu'on assure qu'une grande partie des croix, des statues, qui sont garnies de ces pierreries, ayent été données par des Empereurs & d'autres grands Princes. Je ne doute pas qu'elles ne fussent d'abord des pierres fines ; mais les bons Peres ont, sans doute, jugé à propos de les employer à d'autres usages, ne doutant pas que des morceaux de verre ne fissent autant d'effet aux yeux du peuple.\\nOn m'a fait voir la griffe d'un Griffon enchâssée dans de l'or : elle\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 309,
+    "total_tokens": 7017
+  }
+}

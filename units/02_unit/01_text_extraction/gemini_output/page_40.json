@@ -1,0 +1,11 @@
+{
+  "page": 40,
+  "raw_response": "{\n  \"page\": 38,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"sistent en tapisseries de haute-lisse ; en très-grandes glaces, dont les cadres sont d'argent ; on y voit des tables en vernis du Japon. Les lits, les chaises, les canapés & les rideaux des fenêtres sont de damas ou de velours de Gênes, enrichis de galons ou de broderie en or. Il y a, en outre, de grands vases en vernis de la Chine, de très-beaux tableaux, & de grands lustres de crystal de roche. J'ai eu l'honneur de dîner chez plusieurs personnes de la premiere qualité, & je puis dire, avec vérité, que le bon goût & la magnificence de leur table répond à celle de leurs ameublemens. J'ai vû, plus d'une fois, servir cinquante plats, tous d'argent, & remplis d'excellents mets ; le dessert, qui répondoit au reste du repas, étoit sur la plus belle porcelaine de la Chine. Il y a toujours dans leurs repas une variété surpre-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 312,
+    "total_tokens": 7020
+  }
+}

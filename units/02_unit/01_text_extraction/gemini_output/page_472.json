@@ -1,0 +1,11 @@
+{
+  "page": 472,
+  "raw_response": "{\n  \"page\": 174,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"d'autres de porphire : je ne crois pas qu'on eût mis de si belles colonnes dans ces lieux, s'ils avoient été uniquement destinés pour l'usage des Eléphans. Je suis persuadée, au contraire, qu'ils servoient d'appartemens d'été, & qu'on les avoit construits sous quelques Palais, pour y être à l'abri des chaleurs excessives qu'on endure dans ce Pays : ils servent aujourd'hui de greniers aux Paysans. Je venois de la Ville de Tents qui, à la vérité, n'en est pas fort éloignée ; mais j'étois lasse, & je m'y arrêtai quelque tems pour me reposer. Je ne tardai pas à être environnée d'une quantité assez considérable de femmes qui étoient venues pour me voir. Il est certain que nous étions, les unes pour les autres, un spectacle assez divertissant. Leur façon de s'asseoir, la couleur de leur peau, leurs cheveux noirs & plats,\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 306,
+    "total_tokens": 7014
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 429,
+  "raw_response": "{\n  \"page\": 135,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"deux ou trois cuillerées de bouillon: on lui assuroit, cependant, que c'étoit le seul moyen d'échapper à la mort. A cet usage près, leur Religion a du rapport avec la nôtre. Il est cependant vrai qu'ils approchent de la Doctrine de M. Whiston, & je ne crois pas qu'ils different beaucoup de celle des Grecs. Ils prétendent que si le Saint-Esprit ne procede que du Pere, le Fils lui est subordonné. Ils n'ont aucune idée de transsubstantiation, quoi qu'en dise le Chevalier Paul Ricaut, qui leur avoit prêté cette croyance en 1679, pour gagner, sans doute, les bonnes graces de la Cour d'Angleterre. Ils ont en horreur ceux d'entr'eux qui embrassent la Religion Romaine. Le mariage est ce qu'il y a de plus extraordinaire parmi eux; je crois qu'on ne trouve rien de semblable dans le monde entier.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6739,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7033
+  }
+}

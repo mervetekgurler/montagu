@@ -1,0 +1,11 @@
+{
+  "page": 215,
+  "raw_response": "{\n  \"page\": 185,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"il est le favori de l'Empereur ; mais cela ne suffit pas pour le rendre aimable aux yeux d'une fille de treize ans. Le Gouvernement Turc est entierement à la disposition de l'armée ; & le Grand-Seigneur, tout absolu qu'il paroît, n'est pas moins esclave que le dernier de ses Sujets : il tremble, s'il voit un Janissaire le regarder de mauvais œil. Cependant il y a ici une plus grande apparence de subordination que parmi nous : on ne parle qu'à genoux à un Ministre d'Etat : s'il échappoit un mot dans un caffé contre sa conduite, comme il y a des espions par-tout, la maison seroit sur le champ rasée, & peut-être que tous ceux qui auroient été présents, seroient mis à la torture. On n'entend point ici la populace faire des acclamations ; l'on n'y voit point de libelles diffamatoires ; l'on n'y dispute point sur\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 309,
+    "total_tokens": 7034
+  }
+}

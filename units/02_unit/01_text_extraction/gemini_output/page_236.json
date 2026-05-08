@@ -1,0 +1,11 @@
+{
+  "page": 236,
+  "raw_response": "{\n  \"page\": 206,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Volverat, Euridicen vox ipsa, & frigida lingua\\nAh ! miseram Euridicen ! animâ fugiente, vocabat :\\nEuridicen toto referebant flumine ripæ .\\n\\nQuelqu'un de nos beaux esprits d'Angleterre n'auroit pas manqué de faire un Elégie sur ma mort, & de dire à l'univers que notre sort étant le même, nos ames se sont réunies : mais je ne dois pas m'attendre qu'on mette sur ma tombe les belles choses qu'un accident si extraordinaire m'auroit attirées. Je suis, au moment où je vous écris, dans une maison située sur l'Hebre ; il coule sur les fenêtres de ma chambre. Mon jardin est rempli de Cyprès fort hauts, sur lesquels il y a une infinité de tourterelles qui se disent mille douceurs, depuis le matin jusqu'au soir. Mon esprit, dans cet instant, est tout rempli\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7004
+  }
+}

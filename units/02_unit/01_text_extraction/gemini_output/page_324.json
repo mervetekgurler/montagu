@@ -1,0 +1,11 @@
+{
+  "page": 324,
+  "raw_response": "{\n  \"page\": 36,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"gent jamais sans leurs tentes ; je n'ai point voulu en accepter, préférant de loger dans des maisons. Je ne vous ferai point ici une liste ennuyeuse des noms des Villages par où nous avons passé ; je me contenterai de vous parler du Conac, ou petit Serrail qu'on a bâti à Ciorlci pour le Grand-Seigneur, lorsqu'il passe par-là. J'eus la curiosité de visiter tous les appartemens destinés pour les Dames de la Cour. Ils sont situés au milieu d'un bouquet d'arbres touffus, & rafraîchis par des fontaines. Je fus assez surprise de trouver les murailles toutes couvertes de Vers Turcs, écrits avec le pinceau. Je me les fis expliquer par mon Interprete, & j'en trouvai plusieurs qui étoient assez bien tournés ; cependant je crois, comme il en convint lui-même, qu'ils perdent beaucoup dans la traduction. En voici un traduit littéra-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7023
+  }
+}

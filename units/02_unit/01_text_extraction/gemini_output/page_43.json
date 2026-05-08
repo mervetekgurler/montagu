@@ -1,0 +1,11 @@
+{
+  "page": 43,
+  "raw_response": "{\n  \"page\": 41,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"VIII\",\n      \"heading\": \"ETTRE VIII.\",\n      \"recipient\": \"A Monsieur P***.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 14 Septembre ; Vieux style.\",\n      \"body\": \"VOus rirez, peut-être, de voir que je vous remercie sérieusement de l'intérêt que vous dites prendre à ce qui me regarde. Je pourrois croire que votre Lettre n'est qu'une plaisanterie, & peut-être ne me tromperois-je pas : mais je ne pense point, comme le commun des hommes, que l'éloignement diminue l'amitié ; je suis, au contraire, persuadée qu'il augmente celle que vous avez pour moi. Quoique j'affecte l'esprit-fort, je conviendrai cependant que j'ai, comme les autres femmes, une grande disposition à croire aux miracles. Ne pensez pas, au reste, que je sois infectée\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 256,
+    "total_tokens": 6964
+  }
+}

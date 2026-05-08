@@ -1,0 +1,11 @@
+{
+  "page": 505,
+  "raw_response": "{\n  \"page\": 207,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"que la dévotion étoit alors fort à la mode dans cette Cour ; mais on n'en voit plus aucuns restes à Paris ; on n'y respire que les plaisirs. \\nLa foire Saint Laurent est à présent ouverte : vous imaginez bien que j'y ai été : les boutiques y font rangées avec tant de régularité, & sont si bien illuminées, qu'elles font un agréable Spectacle. La grossiereté du Harlequin m'a déplu, & la musique Françoise a choqué mes oreilles qui sont accoutumées à celle d'Italie. La salle de l'Opéra n'est qu'une loge en comparaison de la nôtre du Hai-Market ; & celle de la Comédie n'est pas comparable à celle de Lincols-Junfields ; mais j'avouerai, à la louange des François, que leurs Acteurs tragiques sont beaucoup meilleurs que les nôtres : à peine Mademoiselle O-D pourroit servir de confidente à la ***. J'ai vu re-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 312,
+    "total_tokens": 7020
+  }
+}

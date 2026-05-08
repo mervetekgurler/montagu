@@ -1,0 +1,11 @@
+{
+  "page": 314,
+  "raw_response": "{\n  \"page\": 26,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Paroissoit une petite machine traînée par des bœufs ; il y avoit dessus un moulin à vent, & des enfans occupés à moudre du bled : cette machine étoit suivie d'une autre traînée par des buffles; on voyoit un four & deux enfans, dont l'un pétrissoit le pain, l'autre le tiroit du four : ils jettoient, par intervalles, des gâteaux au peuple. Marchoit ensuite la compagnie des Boulangers, rangés deux à deux, & habillés proprement. Ils portoient sur leur tête des gâteaux, des pains de toute grandeur & des pâtés de toute espece. Suivoient deux bouffons, dont le visage étoit couvert de farine ; ils amusoient le peuple par leurs gestes & leurs grimaces. Suivoient, dans le même ordre que les Boulangers, tous les plus riches Corps des Marchands de l'Empire, comme Jouailliers, Merciers, &c. tous fort bien montés. Au\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 304,
+    "total_tokens": 7012
+  }
+}

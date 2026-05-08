@@ -1,0 +1,11 @@
+{
+  "page": 124,
+  "raw_response": "{\n  \"page\": 102,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"font qu'à la Cour, ou chez les Négocians, qui, pour la commodité de leur commerce, sont toujours dans les Villes, comme à Nuremberg & à Francfort. Les Comédiens François du Roi jouent ici tous les soirs ; ils sont fort bien habillés : & il y a parmi eux quelques Acteurs assez bons. Sa Majesté dîne & soupe ordinairement en public. La Cour est fort nombreuse. L'affabilité, & la bonté du Prince, rendent cette Ville une des plus agréables du monde. Je suis votre, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 205,
+    "total_tokens": 6930
+  }
+}

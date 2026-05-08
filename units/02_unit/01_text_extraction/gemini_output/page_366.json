@@ -1,0 +1,11 @@
+{
+  "page": 366,
+  "raw_response": "{\n  \"page\": 76,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"son appartement. Lorsque je lui rendis visite, je fus introduite dans une grande chambre, le long de laquelle régnoit un sopha orné de colonnes de marbre blanc, couvert de velours fond d'argent, & à fleurs d'un bleu pâle: les coussins étoient de la même étoffe. On me pria de m'asseoir jus-qu'à ce que la Sultane arrivât. Elle avoit imaginé cette réception, afin d'éviter de se lever quand je paroîtrois devant elle. Lorsque je me levai, elle me fit cependant une inclination de tête. Je sentois du plaisir en examinant une femme qui avoit captivé le coeur d'un Empereur auquel on présentoit chaque jour des Beautés de toutes les parties du Monde. Il me parut qu'elle n'avoit jamais été si belle, à beaucoup près, que la charmante Fatime que j'avois vue à Andri-nople, quoiqu'elle eût encore les restes d'une belle femme : il parois-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 308,
+    "total_tokens": 7016
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 201,
+  "raw_response": "{\n  \"page\": 171,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"égard à la pauvreté du peuple : ils enlevoient tout ce qu'ils trouvoient, volailles, moutons ; & ceux à qui ils appartenoient, n'osoient encore les réclamer, de crainte d'être maltraités ; les agneaux à peine nés, les oies, les poules d'Inde sur leurs œufs, tout étoit enlevé & massacré, sans distinction. La douleur que je voyois peinte sur le visage de ces Païsans, me rappelloit les complaintes de Mélibée au sujet de son troupeau. Il se commet encore bien d'autres cruautés lorsque les Bassas voyagent : ces oppresseurs ne se contentent pas de manger tout ce qui leur convient chez les Païsans ; après s'être bien remplis, eux & leur nombreuse suite, ils ont l'impudence d'éxiger une contribution qu'ils appellent argent de dents, pour les dédommager du tort qu'ils ont fait à leurs dents en dévorant les provisions\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 311,
+    "total_tokens": 7019
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 246,
+  "raw_response": "{\n  \"page\": 212,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"rable, se chauffer au soleil, je me rappelle le bon Roi Priam & ses Conseillers. Les tableaux où Diane est représentée dansant sur les bords de l'Eurotas, donnent une juste idée des danses qui sont en usage ici. La Dame la plus distinguée commence la danse ; elle est suivie d'une troupe de jeunes filles qui imitent exactement ses pas, & qui répondent en Chœur, lorsqu'elle chante. Leur chant est très-gai & très-vif : les pas sont variés au gré de celle qui mene la danse ; mais ils sont toujours en mesure ; enfin je trouve leurs danses beaucoup plus agréables qu'aucune des nôtres. Je me mets quelquefois de la partie ; mais je ne suis pas assez habile pour mener les danses: je ne vous parle que de celles qui sont en usage parmi les Dames Grecques; celles des Turques sont bien différentes. J'aurois dû vous dire d'abord que les mœurs & le langage des Orien-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 297,
+    "total_tokens": 7005
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 152,
+  "raw_response": "{\n  \"page\": 128,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"de me faire passer tout l'hiver avec eux. Vous ne serez peut-être pas fâchée que je vous fasse le tableau du Pays par où nous avons passé : il vous est entierement inconnu ; il est même très-peu fréquenté par les Hongrois, qui voyagent ordinairement sur le Danube. Nous avons été assez heureux pour avoir, pendant notre route, un plus beau tems qu'il n'est permis de l'espérer dans cette saison ; mais la neige étoit si épaisse, que nous étions obligés de faire attacher nos carosses sur des traîneaux, dont le mouvement est si vif, & en même tems si doux, que c'est la maniere la plus agréable que je connoisse pour aller en poste. Nous allâmes de Vienne à Raab : le 17 de ce mois, Milord M*** avoit fait annoncer notre arrivée au Gouverneur, qui eut soin de nous faire préparer la meilleure maison de la Ville. La Garni-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 293,
+    "total_tokens": 7001
+  }
+}

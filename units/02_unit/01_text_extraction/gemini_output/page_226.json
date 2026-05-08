@@ -1,0 +1,11 @@
+{
+  "page": 226,
+  "raw_response": "{\n  \"page\": 196,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"sont riches, ont des ceintures couvertes de diamans ou d'autres pierres précieuses. Celles qui ne veulent pas en faire la dépense, en ont de satin brodé ; on ne peut se dispenser de l'attacher par-devant avec une agraffe de diamant. La Curdée est une robe de chambre que les Dames Turques mettent dans de certains tems, & qu'elles quittent dans d'autres : elle est d'un riche brocard, doublée d'hermine ou de martre ; les manches ne descendent guères plus bas que les épaules : la mienne est verte à fleurs d'or. La coëffure est un bonnet appellé Talpock. En hiver il est de velours brodé avec des perles ou des diamans ; en été il est d'une étoffe d'argent légere & très-brillante. Il est placé sur un côté de la tête & penche un peu : on y attache un gland d'or, soit avec\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 302,
+    "total_tokens": 7027
+  }
+}

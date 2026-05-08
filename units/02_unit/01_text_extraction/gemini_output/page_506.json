@@ -1,0 +1,11 @@
+{
+  "page": 506,
+  "raw_response": "{\n  \"page\": 208,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"présenter Bajazet sur le théâtre François : elle fut si bien jouée, que je puis vous assurer que nos Acteurs ne savent que parler, & que ceux-ci savent sentir. L'ame est certainement plus émue en voyant un homme dont le malheur est peint sur sa figure, que lorsqu'il le raconte avec un air tranquille. A propos d'air, je vous dirai que j'ai vu celles qui passent pour des Beautés parmi les Dames Françoises : elles sont en vérité dégoûtantes, ( pardonnez-moi l'expression, ) par leur façon de se mettre, & par le fard dont elles couvrent leur visage : leurs cheveux courts & frisés ressemblent à de la laine blanche ; & avec leur visage couleur de feu, elles n'ont même pas la figure humaine ; on les prendroit volontiers pour des moutons nouvellement écorchés. Je me rappelle avec plaisir mes jolies Compatriotes ; &\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 286,
+    "total_tokens": 6994
+  }
+}

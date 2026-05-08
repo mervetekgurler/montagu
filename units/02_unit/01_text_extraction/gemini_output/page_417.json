@@ -1,0 +1,11 @@
+{
+  "page": 417,
+  "raw_response": "{\n  \"page\": 125,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"étoient à côté de la nouvelle Mariée qui marchoit les yeux baissés avec un air de modestie qui me charmoit. Elles firent de cette maniere le tour des trois grandes salles du bain. Il est difficile de vous peindre la beauté de ce spectacle. Presque toutes les filles étoient extrêmement bien proportionnées ; leur peau étoit d'une blancheur éblouissante, & adoucie par le fréquent usage du bain. Lorsque cette espèce de procession fut finie, la nouvelle Mariée fut présentée à chaque Dame en particulier, qui lui fit un compliment accompagné d'un présent consistant en bijoux, pièces d'étoffes, mouchoirs, ou autres choses semblables. Elle l'acceptoit en baisant la main de celle qui le lui présentoit. Je suis très-satisfaite d'avoir vû cette cérémonie. Vous pouvez croire, sur ma parole, que les Dames Turques\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 279,
+    "total_tokens": 6987
+  }
+}

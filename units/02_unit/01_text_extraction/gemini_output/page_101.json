@@ -1,0 +1,11 @@
+{
+  "page": 101,
+  "raw_response": "{\n  \"page\": 79,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"sir infini : j'évite, avec grand soin, de voir mes anciennes connoissances, & toutes les fois qu'il en vient quelqu'une ici, je me renferme dans ma cellule. Les larmes lui vinrent aux yeux; j'en fus attendrie, au point que je lui parlai d'un ton de compassion. Elle ne voulut pas convenir qu'elle étoit malheureuse. J'ai fait bien des recherches pour connoître la véritable cause de sa retraite, & j'ai seulement appris que tout le monde en étoit étonné comme moi, sans en savoir davantage. Je lui ai rendu plusieurs visites ; mais je ressens du chagrin toutes les fois que je vois une si belle personne enterrée toute vive. Je ne suis pas étonnée que des Religieuses ayent si souvent inspiré de violentes passions ; la pitié qu'on sent naturellement pour ces filles, sur-tout lorsqu'elles paroissent mériter une\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 282,
+    "total_tokens": 6990
+  }
+}

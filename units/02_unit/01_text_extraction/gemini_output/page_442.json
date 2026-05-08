@@ -1,0 +1,11 @@
+{
+  "page": 442,
+  "raw_response": "{\n  \"page\": 144,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"railles sont en forme de treillis, au-tour desquelles sont plantés en-dehors, des chevre-feuilles & des vignes qui forment une tapisserie de verdure, & donnent de l'ombrage à ces délicieux appartemens. Je pourrois vous conduire dans les autres, qui seroient tous dignes de votre curiosité: mais il est plus difficile de donner la description des palais Turcs que de tous les autres, parce qu'ils font, en général, très-irrégulièrement bâtis. Il n'y a ni façade, ni ailes ; & quoique cette irrégularité soit agréable à la vûe, elle est in-intelligible dans la narration. J'ajouterai seulement que la Chambre destinée au Grand-Seigneur, quand il vient voir sa fille, est toute lambrissée de nacre de perle, & parsemée d'émeraudes en forme de clous, On y trouve plusieurs autres appar-temens dont les murailles sont marquetées\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 302,
+    "total_tokens": 7010
+  }
+}

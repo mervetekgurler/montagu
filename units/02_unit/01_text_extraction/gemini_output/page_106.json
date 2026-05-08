@@ -1,0 +1,11 @@
+{
+  "page": 106,
+  "raw_response": "{\n  \"page\": 81,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ai été surprise ; je n'y en ai vu aucune de prix, & en général il est en mauvais ordre. Parmi les antiques, il s'en trouve très-peu qui en méritent le nom. En les voyant, je dis naturellement qu'elles étoient modernes ; & je ne pus m'empêcher de rire en entendant le savant Antiquaire répondre qu'elles étoient assez anciennes : car il y avoit quarante ans qu'il les voyoit dans ce lieu. Le cabinet suivant m'a encore plus amusée que la réponse de l'Antiquaire. On n'y voit que des petits enfans de cire, & des joujous garnis de pierreries : deux chambres sont toutes remplies de ces bagatelles. On m'a fait observer un Crucifix, qu'on m'a assuré avoir parlé très-sagement à l'Empereur Léopold. Je veux vous épargner l'ennui de lire le catalogue du reste. Je ne peux cependant oublier un petit morceau\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 301,
+    "total_tokens": 7009
+  }
+}

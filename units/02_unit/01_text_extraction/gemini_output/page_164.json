@@ -1,0 +1,11 @@
+{
+  "page": 164,
+  "raw_response": "{\n  \"page\": 138,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"dit. Les bois sont si remplis de loups, qu'ils sont presqu'impraticables. Nous arrivâmes cependant à Essek, quoi-qu'il fût tard. Nous nous y arrêtâ-mes un jour, pour envoyer un cou-rier au Bassa de Belgrade : je profitai de l'occasion pour voir la Ville, qui est petite, mais bien bâtie & bien fortifiée : elle étoit peuplée, com-merçante & riche, lorsqu'elle étoit sous la domination des Turcs. Elle est située sur la Drave, qui se jette dans le Danube. Il y avoit un pont qu'on regardoit comme une des mer-veilles du monde : il étoit tout bâti en chêne, & avoit huit mille pas de long ; mais le Comte de Lesli le fit brûler, & réduisit la Ville en cen-dres en 1685. Les Turcs la répare-rent, la fortifierent & l'abandonne-rent en 1687. Le Général Dunne-walt en prit alors possession au nom de l'Empereur, sous la domination\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 330,
+    "total_tokens": 7055
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 444,
+  "raw_response": "{\n  \"page\": 146,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"dans les jardins, dans le vin & la bonne chere, tandis que nous nous cassons la tête pour découvrir quelque systême de politique, ou à étudier quelque science que nous n'approfondirons jamais, ou que nous ne pourrons jamais persuader à personne d'estimer, quand même nous y réussirions. Il est certain qu'il n'y a de plaisirs réels que ceux des sens : la réputation & les éloges sont au-dessous de leur prix ; pour les obtenir, il en coûte le tems & la santé : il arrive souvent même que la mort ou la vieillesse surprennent avant qu'on ait recueilli le fruit de ses travaux. La vie de l'homme est si courte, qu'il ne doit songer qu'à rendre le présent agréable. Je n'ose pousser mes réflexions plus loin ; je crains même qu'elles ne l'ayent été trop ; mais mon cœur vous est si connu, que je crois devoir me\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 291,
+    "total_tokens": 7016
+  }
+}

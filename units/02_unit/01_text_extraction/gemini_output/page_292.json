@@ -1,0 +1,11 @@
+{
+  "page": 292,
+  "raw_response": "{\n  \"page\": 6,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ployent beaucoup d'épiceries fines ; la soupe est le dernier plat ; mais leurs ragoûts font au moins aussi variés que les nôtres. La femme du Grand-Visir me servit de tout, & avec beaucoup d'empressement : j'étois très-fâchée que mon appétit ne pût répondre à sa politesse. Après le repas, on servit le caffé & les parfums ; ce qui est une grande marque de considération. Deux esclaves, à genoux, encenserent mes cheveux, mes habits & mon mouchoir ; après quoi, leur Maitresse leur ordonna de jouer de la Guittare, & de danser : elles obéirent sur le champ : la Dame fit excuse de leur ignorance, en me disant, quelle ne prenoit pas soin de les exercer dans cet art.\\nJe lui fis mes remerciemens, & pris congé d'elle bientôt après. Je fus reconduite de la même maniere que j'avois été reçue. Je me serois re-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 306,
+    "total_tokens": 7014
+  }
+}

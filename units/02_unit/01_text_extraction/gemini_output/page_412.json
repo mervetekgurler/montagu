@@ -1,0 +1,11 @@
+{
+  "page": 412,
+  "raw_response": "{\n  \"page\": 120,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"trouvée pendant ma vie ; c'est-à-dire, que je tâcherai d'en tirer tout le parti possible, pour satisfaire ma curiosité. C'est dant cette idée que je parcours tous les jours les rues de Constantinople, avec mon voile : je veux voir tout ce qu'il y a de curieux. Vous espérez, sans doute, que cet aveu sera suivi du détail de ce que j'ai vu. Je ne répéterai point ce qui a déjà été dit tant de fois, que Constantinople est l'ancienne Bizance ; qu'elle est à présent sous la domination d'un peuple qu'on croit être les Scythes ; qu'il y a cinq ou six mille Mosquées ; que l'Eglise de Sainte Sophie a été fondée par l'Empereur Justinien, &c. Si je passe ces choses sous silence, ce n'est pas, en vérité, faute d'érudition. Pour vous donner aussi la liste des Empereurs Turcs, je pourrois lire Knolles & Paul Ricaut ; mais je crois qu'il est\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 316,
+    "total_tokens": 7024
+  }
+}

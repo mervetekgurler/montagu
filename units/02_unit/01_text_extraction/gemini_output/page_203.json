@@ -1,0 +1,11 @@
+{
+  "page": 203,
+  "raw_response": "{\n  \"page\": 173,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ni aux revenus ni à l'argent d'un Effendi ; tout ce que celui-ci laisse en mourant, passe à ses enfans. Il est vrai qu'il perd ce privilége lorsqu'il accepte une place à la Cour, ou le titre de Bassa ; mais il y a peu d'exemples d'une pareille imprudence parmi eux. Vous pouvez juger quel peut être le pouvoir de ces hommes, qui se sont emparés de toutes les sciences & de tout le bien de l'Empire. Ils sont les véritables auteurs des révolutions, & les soldats n'en font que les acteurs. Il est important pour l'Empereur de les ménager : leur pouvoir est très-connu : ce furent eux qui déposerent le Sultan Mustapha. Voilà une longue digression. Je voulois vous dire que les fréquentes & familieres conversations que j'ai eues avec Effendi Achmet-Beg m'ont donné, sur la Religion & les Moeurs des Turcs, une connois-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7006
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 308,
+  "raw_response": "{\n  \"page\": 20,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"j'avois été habillée à l'Angloise. La Bourse a un demi-mille de long; elle est voûtée & entretenue, avec beaucoup de propreté. Il y a trois cents soixante boutiques remplies de toutes fortes de riches marchandises exposées en vente, comme elles le font à la nouvelle Bourse de Londres ; mais le pavé de celle d'Andrinople est entretenu plus proprement, & les boutiques font aussi brillantes que si elles venoient d'être peintes. Les personnes désœuvrées vont s'y promener, ou y prendre du caffé ou du sorbet, qu'on y crie, comme on fait les oranges à nos Spectacles. J'observai que la plûpart des riches Marchands étoient Juifs : cette Nation a un pouvoir incroyable dans ce pays : elle a plus de priviléges que les Turcs mêmes : elle forme ici une République, & est jugée par ses propres Loix. Elle s'est\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7002
+  }
+}

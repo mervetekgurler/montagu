@@ -1,0 +1,11 @@
+{
+  "page": 103,
+  "raw_response": "{\n  \"page\": 81,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XIII\",\n      \"heading\": \"LETTRE XIII.\",\n      \"recipient\": \"A Mr. ***.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 10 Octobre 1716. Vieux style.\",\n      \"body\": \"JE ne mérite nullement les reproches que vous me faites. Si j'ai différé quelque tems à vous répondre, ce n'est point que j'ignore combien je vous dois de remercîmens. Soyez persuadé qu'il n'y a aucun plaisir que je ne sacrifie à celui de vous donner de mes nouvelles, & d'en recevoir des vôtres. Malgré les protestations d'estime que vous me faites, je differerai, autant que je pourrai, de vous prouver que vous êtes dans l'erreur, si vous croyez sérieusement que mes Lettres vous amuseront. Je suis mortifiée, d'avance, de l'étonnement que vous causera votre méprise,\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 262,
+    "total_tokens": 6970
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 22,
+  "raw_response": "{\n  \"page\": 22,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"la complaisance de me la montrer. Comme il ne me connoissoit pas, il a pris la liberté de me faire des complimens, d'un ton aisé, même un peu railleur ; ce qui m'a beaucoup divertie. Je fus frappée de la magnificence des Autels, de la richesse des statues, qui sont toutes d'argent massif, & de celle des châsses. Je n'ai, cependant, pu m'empêcher de murmurer intérieurement de la profusion des perles, des diamans, des rubis qui font atttachés aux ornemens de ces Reliques. J'ai même été assez méchante, je l'avoue, pour convoiter le collier de perles de sainte Ursule. Au reste, étoit-ce bien une méchanceté ? Une statue n'est point mon prochain. Pendant que j'y étois, j'ai souhaité que la statue même de cette fille fût convertie en vaisselle de toilette. Je voudrois bien\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 302,
+    "total_tokens": 7010
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 24,
+  "raw_response": "{\n  \"page\": 24,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"V\",\n      \"heading\": \"LETTRE V.\",\n      \"recipient\": \"A la Comtesse de B***.\",\n      \"location\": \"Nuremberg\",\n      \"date\": \"le 22 Août 1716. Vieux style.\",\n      \"body\": \"LA fatigue que j'ai essuyée pendant cinq jours de poste, ne m'empêchera pas d'exécuter l'ordre flatteur que m'a donné ma chere Comtesse de lui rendre compte de mes voyages. J'ai traversé une grande partie de l'Allemagne, & j'ai vu tout ce qui mérite de l'attention à Cologne, à Francfort, à Wurts-bourg, enfin, à Nuremberg. Il est impossible de ne pas sentir la différence qu'il y a entre les Villes libres & celles qui ne le sont pas. Dans les premieres on voit regner l'abondance que produit le commerce ; les rues sont belles, remplies de monde vétu d'une maniere\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 266,
+    "total_tokens": 6974
+  }
+}

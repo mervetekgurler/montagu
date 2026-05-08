@@ -1,0 +1,11 @@
+{
+  "page": 424,
+  "raw_response": "{\n  \"page\": 130,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"la satisfaction de se voir dans le cas qu'aucun autre homme, que son mari, ne pût se vanter d'avoir joui d'elle. L'Amiral accepta son offre avec les plus grands transports de joie ; il renvoya sa rançon à ses parens, & leur fit dire qu'il étoit trop heureux de la posséder. Il l'épousa, & n'eut jamais d'autre femme qu'elle: de son côté, elle dit qu'elle n'a jamais eu le moindre sujet de se repentir du parti qu'elle prit. Quelques années après, il la laissa une des plus riches veuves de Constantinople : mais, comme une femme ne peut honnêtement rester seule, elle s'est remariée au Capitan Bassa ; c'est-à-dire, Amiral. Il avoit succédé à son premier mari. Vous ne manquerez pas de croire que mon amie aimoit son ravisseur, & que c'est le principal motif qui l'a fait rester ici ; pour moi, je m'en rapporte là-dessus-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 322,
+    "total_tokens": 7030
+  }
+}

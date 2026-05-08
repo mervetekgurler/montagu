@@ -1,0 +1,11 @@
+{
+  "page": 13,
+  "raw_response": "{\n  \"page\": 13,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"voyager ; je m'en féliciterai, au contraire, toutes les fois que je trouverai occasion de vous amuser par quelque récit agréable. Mais on est intéressé en Hollande, & j'ai assez pris le style de Rotterdam, pour vous demander en échange toutes les nouvelles de Londres. Vous voyez que je fais déjà bien faire un marché. Je suis votre affectionnée Sœur, &c.\",\n      \"footnote\": null\n    },\n    {\n      \"number\": \"II\",\n      \"heading\": \"LETTRE II.\",\n      \"recipient\": \"A Madame S....\",\n      \"location\": \"la Haye\",\n      \"date\": \"le 5 Août 1716. Vieux style.\",\n      \"body\": \"JE me hâte de vous apprendre, ma chere Dame, que je n'ai point encore essuyé les fatigues insupportables dont vous m'aviez menacée. Je suis, au contraire, très-satisfaite de mon voyage. Nous faisons de si petites journées, qu'il me semble\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 310,
+    "total_tokens": 7018
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 365,
+  "raw_response": "{\n  \"page\": 75,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Elle vouloit par-là convaincre le Public qu'elle étoit absolument résolue de remplir le vœu qu'elle avoit fait de ne jamais laisser entrer un second mari dans son lit ; & que, se trouvant obligée d'honorer un Sujet au point d'être appellée sa femme, elle choisissoit celui-là, comme une marque de reconnoissance de ce qu'il l'avoit présentée, à l'âge de dix ans, à son premier Seigneur. Elle n'a jamais voulu recevoir aucune visite de sa part, quoiqu'elle soit chez lui depuis quinze ans. Elle est dans un deuil perpétuel, avec une constance peu commune dans la Chrétienté, & sur-tout parmi les veuves de vingt-un ans : la Sultane Hafiten n'en a à présent que trente-six. Elle n'a point d'Eunuques noirs pour sa garde ; son mari est obligé de la respecter comme une Reine, & n'a aucun droit de s'informer de ce qui se passe dans\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 312,
+    "total_tokens": 7020
+  }
+}

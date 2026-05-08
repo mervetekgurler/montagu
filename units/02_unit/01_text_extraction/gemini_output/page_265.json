@@ -1,0 +1,11 @@
+{
+  "page": 265,
+  "raw_response": "{\n  \"page\": 227,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"culier au bien du genre humain, & pour perdre une partie si considérable de leur revenu : mais je craindrois, au contraire, de m'exposer à tout leur ressentiment, qui est dangereux, si j'entreprenois de leur faire un tort si considérable. Peut-être qu'à mon retour en Angleterre j'aurai assez de courage pour leur déclarer la guerre. Admirez le zèle héroïque de votre amie, &c.\",\n      \"footnote\": null\n    },\n    {\n      \"number\": \"XXXII\",\n      \"heading\": \"LETTRE XXXII.\",\n      \"recipient\": \"A Madame T.\",\n      \"location\": \"D'Andrinople\",\n      \"date\": \"le premier Août 1717. Vieux style.\",\n      \"body\": \"JE puis maintenant vous annoncer, ma chere T., que je suis à la fin d'un long voyage : je ne vous serai point le récit ennuyeux des fatigues que j'ai essuyées ; le détail des choses extraordinaires que l'on\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 317,
+    "total_tokens": 7025
+  }
+}

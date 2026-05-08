@@ -1,0 +1,11 @@
+{
+  "page": 150,
+  "raw_response": "{\n  \"page\": 126,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"je la satisfaction de voir une nouvelle scène, en me trouvant au milieu d'une bataille. J'abandonne mon fort à la Providence. S'il m'arrive quelqu'aventure plaisante, je vous en ferai part. Je vous prie de dire à M*** que j'ai reçu sa Lettre ; je lui répondrai, si je ne péris pas: faites-lui mes adieux, aussi-bien qu'à Milady R***.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 179,
+    "total_tokens": 6887
+  }
+}

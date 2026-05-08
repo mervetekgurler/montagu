@@ -1,0 +1,11 @@
+{
+  "page": 279,
+  "raw_response": "{\n  \"page\": 237,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"d'un bassin dans l'autre : quelques-unes de ces fontaines sont magnifiques. Dans chaque maison il y a un bain qui consiste ordinairement en deux ou trois petites chambres couvertes de plomb & parées de marbre, avec des bassins & des robinets : enfin, on y trouve toutes les commodités propres pour les bains chauds & pour les froids. \\nVous serez, sans doute, surprise de voir une relation si différente de celles des voyageurs ordinaires, qui ont tous une démangeaison insupportable de parler de ce qu'ils ne savent pas. Un Chrétien, sans un caractère très-distingué, ou une occasion tout-à-fait extraordinaire, ne peut entrer dans la maison d'un homme de marque en Turquie : le Haram, sur-tout, est absolument défendu. Ainsi, ces voyageurs ne peuvent parler que de l'extérieur des\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 269,
+    "total_tokens": 6994
+  }
+}

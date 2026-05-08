@@ -1,0 +1,11 @@
+{
+  "page": 311,
+  "raw_response": "{\n  \"page\": 23,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"ve toutes fortes de belles marchandises ; mais elles sont extrêmement cheres, parce qu'il n'y a point ici de manufacture. Elle est couverte de planches, pour mettre les marchandises à l'abri de la pluie en tout tems. A peu de distance de-là on trouve le Besiten ; c'est une autre Bourse bâtie sur des piliers. On y vend toutes fortes de harnois pour les chevaux : ils sont tous garnis d'or & de pierreries : on est ébloui en entrant dans cette Bourse. De-là, je me fis conduire dans mon carrosse Turc au camp qu'on doit transporter dans peu sur les frontieres. Le Sultan a déjà visité ses tentes avec toute la Cour. Ce camp fait, en vérité, un beau coup d'œil. On prendroit les tentes des Grands pour des Palais : elles couvrent une vaste étendue de terrein, & sont distribuées en plusieurs appartemens tous\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 284,
+    "total_tokens": 7009
+  }
+}

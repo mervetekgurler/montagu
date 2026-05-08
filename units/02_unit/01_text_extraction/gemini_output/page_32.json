@@ -1,0 +1,11 @@
+{
+  "page": 32,
+  "raw_response": "{\n  \"page\": 32,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"seillé, pour le bien public, de le donner à tout le monde, afin que chacun l'obtienne de tout le monde : mais on m'a écoutée avec indignation, comme quelqu'un qui proposoit une paix deshonorante. Je m'apperçois que ces querelles font un amusement pour les habitans de Ratisbonne, & je me blâme moi-même d'avoir voulu les en priver. Mon inclination pacifique commence déjà à me faire regarder de mauvais œil : chacun se dit à l'oreille que je suis bien fiere d'avoir, jusqu'à présent, fait honnêteté à tout le monde, & qu'il faut que je n'aye trouvé personne digne de prendre querelle avec moi. Je changerois de conduite si je n'avois dessein, de continuer mon voyage dans peu de jours. J'ai visité les Eglises de cette Ville, & l'on m'a permis de toucher les Reliques;\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 292,
+    "total_tokens": 7000
+  }
+}

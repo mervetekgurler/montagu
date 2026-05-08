@@ -1,0 +1,11 @@
+{
+  "page": 80,
+  "raw_response": "{\n  \"page\": 62,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"n'oseroit paroître assez coquette pour écouter deux Amans à la fois , & l'on n'en voit point qui soient assez prudes pour prétendre être fidelles à leurs Maris. Ces derniers sont ici d'une douceur admirable ; ils ont autant d'attentions pour les Amans de leurs femmes , que pour un commis qui les décharge de la partie la plus embar-rassante de leurs affaires: ils n'en sont pas moins occupés pour cela ; chacun d'eux va faire ailleurs la fonc-tion de commis ; en un mot , c'est la coutume à Vienne que chaque fem-me ait deux Maris , l'un qui en porte le nom , l'autre qui en fait les fonc-tions ; & les engagemens sont si con-nus , que ce seroit faire un affront à une femme de qualité , de l'inviter à dîner , sans inviter en même tems ses deux suivans , son Amant & son Mari : elle ne manqueroit pas même d'en marquer son ressentiment. Elle\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 312,
+    "total_tokens": 7020
+  }
+}

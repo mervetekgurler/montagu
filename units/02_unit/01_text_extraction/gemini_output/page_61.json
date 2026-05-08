@@ -1,0 +1,11 @@
+{
+  "page": 61,
+  "raw_response": "{\n  \"page\": 43,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"j'étois capable. Tout le reste étoit très-beau dans son genre. Le sujet de l'Opéra étoit l'Enchantement d'Alcine. On y change souvent de décorations, ce qui demande une prodigieuse quantité de machines : tout fut exécuté avec beaucoup d'art. Le Théâtre est si vaste, que l'œil peut à peine le parcourir; on y compte jusqu'à cent huit habits, tous de la derniere magnificence. Comme il n'y a point de Salle capable de contenir les décorations & les machines qui y sont nécessaires, on est obligé de le construire en plein air, & les Dames sont exposées aux injures du tems, parce qu'il n'y a qu'un seul Pavillon, destiné pour la Famille Impériale. La premiere fois que cet Opéra fut représenté, il survint une pluie qui obligea les Spectateurs de s'enfuir ; & je pensai être étouffée dans la foule. Durant les Opéra sont\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 300,
+    "total_tokens": 7025
+  }
+}

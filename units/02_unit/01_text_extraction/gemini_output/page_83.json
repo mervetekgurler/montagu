@@ -1,0 +1,11 @@
+{
+  "page": 83,
+  "raw_response": "{\n  \"page\": 65,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"donner une idée de la maniere dont les hommes déclarent ici leur passion. J'étois chez la Comtesse de ***, qui tenoit assemblée : le jeune Comte de *** me donna la main pour descendre l'escalier ; il profita de cette occasion, pour me demander si je comptois rester longtems à Vienne. Je lui répondis que je ne pouvois rien décider à ce sujet ; que cela dépendoit uniquement de la volonté de l'Empereur. Hé bien ! reprit-il, que votre séjour y soit long ou non, vous devriez au moins y passer le tems agréablement, & y engager une petite affaire de cœur. Mon cœur, répondis-je d'un ton assez sérieux, ne s'engage pas facilement ; d'ailleurs, j'ai dessein de le garder. Cette réponse, reprit-il encore en soupirant, m'annonce que je ne dois pas y prétendre ; ce qui m'afflige d'autant plus que je vous aimois sincerement. Je veux, cependant, vous obliger ;\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 312,
+    "total_tokens": 7020
+  }
+}

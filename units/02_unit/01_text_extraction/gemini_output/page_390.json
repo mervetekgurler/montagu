@@ -1,0 +1,11 @@
+{
+  "page": 390,
+  "raw_response": "{\n  \"page\": 100,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"apprennenr cette derniere Langue de leurs nourrices, qui sont presque toutes Moscovites. Ceci vous paroît, sans doute, incroyable ; mais je vous assûre que c'est la vérité, & même la chose la plus surprenante, selon moi, qu'on trouve dans ce Pays-ci. Cela doit bien humilier l'amour-propre de nos Dames Angloises, qui se regardent comme ayant un génie supérieur, lorsqu'elles savent superficiellement le François & l'Italien.\\nComme je donne à la Langue Angloise la préférence sur toutes les autres, je suis très-fâchée de voir que je l'oublie tous les jours ; & je vous avoue, avec chagrin, que je suis à présent réduite à un si petit nombre de mots, que j'ai peine à trouver une phrase passable pour finir ma Lettre; il faut que je vous dise brusquement que je suis, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 285,
+    "total_tokens": 6993
+  }
+}

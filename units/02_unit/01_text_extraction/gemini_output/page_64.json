@@ -1,0 +1,11 @@
+{
+  "page": 64,
+  "raw_response": "{\n  \"page\": 46,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Loges remplies de Gens de la premiere qualité, qui furent satisfaits du j u de ces deux impertinens Acteurs, & m'affûrerent que cette Pièce étoit célèbre. Je finis ma Lettre par cette relation, qui n'est pas indigne de l'attention de M. Collier. Je ne vous ennuierai point par de longs complimens d'adieu ; je les crois, en général, aussi fatigans que les révérences que l'on fait en sortant d'un appartement, lorsque la visite n'a déja été que trop longue.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 210,
+    "total_tokens": 6918
+  }
+}

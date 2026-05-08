@@ -1,0 +1,11 @@
+{
+  "page": 509,
+  "raw_response": "{\n  \"page\": 211,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"tions des bâtimens Italiens. Le cabinet du Roi contient une très-belle collection d'antiques & de médailles. L'apothéose de Germanicus, qui est sur une grande agathe, est la plus belle chose que j'aye jamais vue dans ce genre. On trouve en outre d'anciennes statues qui font d'une rare beauté : la grande galerie est un monument du rare mérite de le Brun. Je ne vous ferai point la description du grand appartement, des fontaines qui font en grand nombre, du théâtre d'eau, des bosquets, & des fables d'Esope ; assez de François l'ont faite. Trianon dans sa petitesse m'a paru préférable à Versailles ; Marli, à Trianon ; & S. Cloud, à tous les trois. Il a l'avantage d'être situé sur le bord de la Seine qui coule au pied des jardins & de la grande cascade. Si vous voulez savoir le nombre des statues, & à combien\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7004
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 393,
+  "raw_response": "{\n  \"page\": 103,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"j'y ai été très-souvent : le voile des Dame Turques me plaît assez ; quand même il me déplairoit, je le souffrirois pour satisfaire ma curiosité, qui est ma passion dominante. En vérité, le trajet que l'on fait sur la Tamise pour aller à Chelsea, n'est point comparable à celui qu'on fait sur le canal pour aller à Constantinople. Le point de vue, pendant l'espace de vingt milles, en descendant le Bosphore, est le plus agréable & le plus varié du monde. Le côté de l'Asie, qui est tout couvert d'arbres fruitiers, offre aux yeux une multitude de Villages qui font un Paysage très-agréable : du côté de l'Europe, on voit Constantinople, située sur sept collines. C'est une très-grande Ville, & l'inégalité du lieu où elle est bâtie la fait paroître encore une fois plus grande qu'elle n'est. On y découvre un agréable\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7021
+  }
+}

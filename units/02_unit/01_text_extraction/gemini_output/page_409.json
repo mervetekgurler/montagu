@@ -1,0 +1,11 @@
+{
+  "page": 409,
+  "raw_response": "{\n  \"page\": 117,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"& toujours en mesure ; c'est-à-dire plus ou moins rapidement, suivant les tems. Ils continuent à tourner ainsi pendant plus d'une heure, sans qu'aucun d'eux sente le moindre étourdissement ; ce qui n'est pas surprenant, parce qu'ils y sont accoumés depuis leur plus tendre jeunesse. La plupart d'entr'eux ont été destinés à ce genre de vie dès leur naissance. J'ai remarqué de petits Dervis de six à sept ans qui tournoient comme les autres, & n'étoient pas plus incommodés qu'eux. Lorsque cette cérémonie est finie, ils crient tous à haute voix : Il n'y a point d'autre Dieu que Dieu, & Mahomet est son Prophete. Ils baisent ensuite, tour à tour, la main de leur Supérieur avec beaucoup de gravité, & se retirent, Ils ont toujours les yeux baissés, & paroissent continuellement ensevelis dans les plus\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7019
+  }
+}

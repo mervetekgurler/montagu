@@ -1,0 +1,11 @@
+{
+  "page": 298,
+  "raw_response": "{\n  \"page\": 12,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"gorge qui étoit couverte, sans être cachée, par une chemise de fine gaze : ses caleçons étoient couleur d'œillet pâle ; sa camisole étoit d'un verd argent : elle avoit des pantoufles de satin blanc magnifiquement brodé ; ses charmans bras étoient ornés de brasselets de diamans ; sa ceinture en étoit bordée. Un riche mouchoir de Turquie, fond œillet, relevé en argent, couvroit sa tête : de beaux cheveux noirs, partagés en tresses, pendoient fort bas derriere elle. Plusieurs épingles à tête de diamant étoient artistement rangées sur un des côtés de sa tête. Vous m'accuserez, sans doute, d'extravagance, & vous ne pourrez jamais croire qu'il n'y a point d'exagération dans le tableau que je vous fais. Il me semble avoir lu quelque part que les femmes ne parlent jamais de la beauté qu'avec ravisse-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7006
+  }
+}

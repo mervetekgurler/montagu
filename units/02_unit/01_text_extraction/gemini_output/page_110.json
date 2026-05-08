@@ -1,0 +1,11 @@
+{
+  "page": 110,
+  "raw_response": "{\n  \"page\": 88,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"peindre. Je ne manquerai pas de vous écrire de Dresde & de Leipsick ; car je suis décidée à ne me jamais livrer au repos, qu'après avoir satisfait votre curiosité. Je suis, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 131,
+    "total_tokens": 6839
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 181,
+  "raw_response": "{\n  \"page\": 155,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XXV\",\n      \"heading\": \"LETTRE XXV.\",\n      \"recipient\": \"A Son Altesse Royale, la Princesse de Galles (a).\",\n      \"location\": \"D'Andrinople\",\n      \"date\": \"le premier Avril 1717. Vieux flyle.\",\n      \"body\": \"J'AI fait un voyage qu'aucun Chrétien n'avoit entrepris depuis les Empereurs Grecs. Je serai bien dédommagée de mes fatigues, si je suis assez heureuse pour amuser Votre Altesse Royale, par la description d'un pays qui est entierement inconnu à Londres, parce que les Ambassadeurs de l'Empereur & le peu d'Anglois qui y sont venus, ont toujours pris la route de Nicopolis par le Danube : mais ce fleuve\",\n      \"footnote\": \"(a) La feue Reine Caroline.\"\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 241,
+    "total_tokens": 6966
+  }
+}

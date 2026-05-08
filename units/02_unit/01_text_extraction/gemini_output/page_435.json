@@ -1,0 +1,11 @@
+{
+  "page": 435,
+  "raw_response": "{\n  \"page\": 141,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"erreur vient de son guide, & que son peu de séjour dans ce pays l'a empêché de la rectifier ; car j'ai plusieurs preuves de son exactitude. Rien n'est plus agréable que le canal qui est entre Constantinople & Calcédoine : les Turcs ont fait bâtir des maisons de campagne sur les bords, où ils ont de très-beaux points de vue, tant en Asie qu'en Europe. On y voit plus de cent palais magnifiques, qui sont tous à côté les uns des autres. Comme la Fortune est encore plus inconstante ici qu'ailleurs, il arrive très-souvent que les héritiers d'un Bacha à trois queues ne sont pas en état d'entretenir la maison qu'il leur a laissée ; voilà pourquoi l'on n'est pas long-tems sans voir tomber les plus beaux Palais de Turquie en ruine. J'allai voir celui du dernier Grand-Vizir qui fut tué à Peter-Waradin : il avoit été conf-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 298,
+    "total_tokens": 7023
+  }
+}

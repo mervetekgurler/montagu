@@ -1,0 +1,11 @@
+{
+  "page": 149,
+  "raw_response": "{\n  \"page\": 125,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XXII\",\n      \"heading\": \"LETTRE XXII.\",\n      \"recipient\": \"A Monsieur Pope.\",\n      \"location\": \"Vienne\",\n      \"date\": \"le 16 Janvier 1717. Vieux style.\",\n      \"body\": \"JE suis si occupée à faire les préparatifs de mon départ, que je n'ai pas même le tems de répondre à votre Lettre. Si j'écoutois tout ce qu'on me dit ici, il faudroit que je dise adieu à tous mes amis, comme si j'allois monter à la breche : il est vrai qu'il y a peu de personnes qui voulussent se mettre en route par le tems qu'il fait. Les uns m'annoncent que je périrai de froid; les autres, que je serai enterrée dans la neige; d'autres, enfin, que je serai prise par les Tartares, qui ravagent la partie de la Hongrie par laquelle je dois passer : mais on nous donnera une escorte nombreuse, & peut-être aurai-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 282,
+    "total_tokens": 6990
+  }
+}

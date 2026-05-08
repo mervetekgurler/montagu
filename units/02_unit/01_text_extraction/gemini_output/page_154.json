@@ -1,0 +1,11 @@
+{
+  "page": 154,
+  "raw_response": "{\n  \"page\": 130,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"la Hongroise, & a une vénérable barbe blanche, qui lui descend jus-qu'à la ceinture. Raab est une Ville bien fortifiée : il y a une bonne Gar-nison : elle a été long-tems une Ville frontiere d'Allemagne du côté de la Turquie. Elle tire son nom de la riviere Rab, sur laquelle elle est si-tuée, à l'endroit de sa jonction avec le Danube, & dans un Pays decou-vert. Les Turcs, commandés par le Bassa Sinan, la prirent en 1594, sous le regne d'Amurat III. Le Gouver-neur ayant été accusé de trahison, fut décapité dans la fuite, par ordre de l'Empereur. Les Comtes de Swartzembourg & de Palfi reprirent cette Ville en 1598. Elle est toujours restée depuis sous la domination des Allemands. En 1642, les Turcs ten-terent inutilement de la reprendre par stratagême. Il n'y a rien de re-marquable dans cette Ville, que la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 328,
+    "total_tokens": 7036
+  }
+}

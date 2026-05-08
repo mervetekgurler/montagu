@@ -1,0 +1,11 @@
+{
+  "page": 477,
+  "raw_response": "{\n  \"page\": 179,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"la prise de Constantinople. Ils font aujourd'hui pauvres, & les François les méprisent depuis que le dernier Roi força le Doge d'aller à Paris lui faire excuse d'une iusulte qui lui avoit été faite : on avoit couvert de fumier pendant la nuit, les Armes de France qui étoient sur la porte de l'Envoyé de cette Nation. Cette insulte avoit été faite par quelqu'un de la faction Espagnole qui est encore dominante ici, quoiqu'on n'ose le dire publiquement. Les Dames s'habillent à la Françoise, & font beaucoup plus jolies que leurs modèles. Je crois que les Cizisbeys sont en partie cause de cet air agréable qu'on leur trouve. Vous n'avez, sans doute, jamais entendu parler des Cizisbeys. Ce sont des êtres si singuliers qu'il faut que je les voye, pour croire qu'ils existent. On en a vu d'abord à Gènes, ensuite ils se sont répandus\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

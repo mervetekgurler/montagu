@@ -1,0 +1,11 @@
+{
+  "page": 461,
+  "raw_response": "{\n  \"page\": 163,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"bitans jouissent, cependant, d'une honnête liberté ; & comme le climat semble les exciter à faire de l'exercice, ils passent leur vie dans les jeux, la danse & les festins. Enfin leurs chaînes, quoique nouvelles, ne sont pas pesantes : ils ne sont soumis aux Turcs que depuis l'an 1566. & peut-être n'est-il pas plus dur pour eux d'obéir au Grand-Seigneur qu'à l'état de Gènes, auquel un Empereur Grec avoit vendu leur pays. Mais je m'embarrasse toujours dans l'histoire, ce qui ne convient gueres, sur-tout lorsque je vous écris en passant le détroit qui est entre les Isles d'Andros & d'Achaïe, aujourd'hui Libiadia ; nous découvrîmes le promontoire de Lunium, connu sous le nom de Cap Colonne. On y voit encore des colonnes d'une grandeur & d'une grosseur prodigieuse, qu'on prétend avoir servi à un temple de Minerve.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 317,
+    "total_tokens": 7025
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 379,
+  "raw_response": "{\n  \"page\": 89,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"tendresse. A présent que j'entends la Langue Turque, je suis en état de juger de son esprit, & je trouve qu'elle en a autant que de beauté. Elle aime beaucoup à s'instruire des usages des autres pays, sans être prévenue pour ceux du sien : elle laisse cette partialité aux petits esprits. Une Grecque, qui ne l'avoit jamais vue, & qui n'auroit pas eu cet honneur hier, si elle n'eût été de ma suite, fut si frappée de sa beauté, & de la noblesse de ses gestes, qu'elle resta dans le silence de l'admiration, & me dit ensuite, en Italien : \\\" Ce n'est point une Dame Turque ; c'est certainement quelque Chrétienne \\\". Fatima, se doutant qu'elle parloit d'elle, me demanda ce qu'elle disoit. Je ne voulus pas le lui rendre, m'imaginant que le compliment ne lui plairoit pas plus que si l'on disoit à une\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 311,
+    "total_tokens": 7019
+  }
+}

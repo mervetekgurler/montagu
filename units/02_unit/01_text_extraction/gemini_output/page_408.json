@@ -1,0 +1,11 @@
+{
+  "page": 408,
+  "raw_response": "{\n  \"page\": 116,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Ils s'assemblent dans une grande Salle, se tiennent tous debout, les yeux baissés, & les bras croisés. Au milieu d'eux est une chaire, dans laquelle un Imaïm, ou Prédicateur, lit quelques passages de l'Alcoran. Après cette lecture, huit ou dix d'entr'eux jouent sur des espèces de flûtes, quelques airs lugubres; à la vérité: mais assez harmonieux. L'Imaïm fait ensuite un résumé de ce qu'il a lu; après quoi, tous les Dervis dansent & jouent, jusqu'à ce que leur Supérieur, qui est seul habillé de verd, se leve & commence lui même une danse assez majestueuse. Pendant ce tems, ils se rangent tous autour de lui avec ordre. Les uns jouent sur leur espèce de flûte, & les autres attachent avec une ceinture leurs robes, qui sont en général fort amples, & se mettent à tourner avec un vitesse surprenante,\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 295,
+    "total_tokens": 7003
+  }
+}

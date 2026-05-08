@@ -1,0 +1,11 @@
+{
+  "page": 250,
+  "raw_response": "{\n  \"page\": 216,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"STANCE IV.\\n\\n1. Mes cris s'élevent jusqu'aux Cieux.\\nLe sommeil ne peut plus fermer mes yeux.\\nTourne-toi vers moi, ma Sultane, afin que\\nje contemple ta beauté.\\n2. Adieu, je descends au tombeau.\\nSi vous m'appellez, je reviens.\\nMon cœur est aussi inflammable que le\\nsoufre: un seul de vos regards l'em-\\nbrafera.\\n3. Couronne de ma vie ! Brillante lumiere de\\nmes yeux !\\nMa Sultane ! ma Princesse !\\nJe frotte la terre avec ma face.\\nJe me noye dans l'amertume de mes lar-\\nmes : mes sens s'égarent.\\nNe prendrez-vous point pitié de moi ?\\nN'obtiendrai-je pas même un regard de\\nvous ?\\n\\nJ'ai eu beaucoup de peine à trouver quelqu'un qui me fît la traduction littérale de ces Vers. Si vous connoissiez mon interprete, il seroit inutile de vous avertir que cette pièce\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 332,
+    "total_tokens": 7040
+  }
+}

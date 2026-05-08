@@ -1,0 +1,11 @@
+{
+  "page": 331,
+  "raw_response": "{\n  \"page\": 41,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"montagnes éloignées de l'Asie, ce qui fait le plus beau coup d'œil du monde. Un Auteur François dit que Constantinople est deux fois aussi grande que Paris; Milord M*** prétend qu'elle n'est pas plus grande que Londres; pour moi je trouve le contraire; mais je ne la crois pas si peuplée. Les champs où l'on enterre les morts sont certainement beaucoup plus spacieux que toute la Ville, & je suis étonnée que l'on perde tant de terrein pour cet usage en Turquie. J'ai vu des cimetieres de plusieurs milles d'étendue, qui servoient à enterrer les morts d'un très-petit Village qui avoit autrefois été une grande Ville, & qui n'en conservoit plus que cette triste marque. Les Turcs ont pour maxime de ne jamais toucher à une pierre qui sert de monument : il y en a quelques-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 274,
+    "total_tokens": 6999
+  }
+}

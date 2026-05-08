@@ -1,0 +1,11 @@
+{
+  "page": 216,
+  "raw_response": "{\n  \"page\": 186,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"les affaires d'Etat, comme à Londres; ce qui est une suite fâcheuse de notre liberté. Ce n'est point par des noms diffamans, qu'on se venge ici d'un Ministre: lorsqu'il a le malheur de déplaire au peuple, on l'arrache même d'entre les bras de son maître, on lui coupe les mains, les pieds & la tête, & on le jette devant la porte du Palais. Pendant ce tems, le Sultan, pour lequel on paroît avoir la plus grande soumission, reste tout tremblant de peur dans son appartement, sans oser ni défendre ni venger son Favori. Telle est l'heureuse condition du plus absolu Monarque de la terre, qui ne reconnoît d'autre loi que sa volonté.\\nJe voudrois que notre Parlement envoyât ici un vaisseau chargé de ces gens qui prêchent continuellement l'obéissance aveugle: ils verroient le Gouvernement arbitraire\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 296,
+    "total_tokens": 7004
+  }
+}

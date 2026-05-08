@@ -1,0 +1,11 @@
+{
+  "page": 270,
+  "raw_response": "{\n  \"page\": 228,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"voit ici vous plaira, sans doute, davantage: vous seriez aussi étonnée de recevoir de Turquie une Lettre qui ne contiendroit rien de curieux, que les personnes qui viendront me voir, lorsque je ferai de retour à Londres, le seroient, si je n'avois aucune rareté à leur montrer. De quoi vous parlerai-je? Vous n'avez jamais vu de chameaux; je vous ennuierois, peut-être, en vous en faisant la description. Je vous assure que, n'ayant vû ces animaux qu'en peinture, je n'en avois pas une juste idée. Je vais vous faire à leur sujet une réflexion hardie, & peut-être fausse; personne ne l'a faite avant moi: c'est que je regarde les chameaux comme une espece de cerf: Is ont les jambes, le corps & le cou exactement semblables, & la couleur est presque la même. Il est vrai que les chameaux sont beau-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 297,
+    "total_tokens": 7005
+  }
+}

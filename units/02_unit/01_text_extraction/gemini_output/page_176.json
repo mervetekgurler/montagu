@@ -1,0 +1,11 @@
+{
+  "page": 176,
+  "raw_response": "{\n  \"page\": 150,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"prit leur intention, répondit avec tranquillité, qu'on lui faisoit trop de questions; qu'il n'avoit qu'une vie qui devoit répondre de tout : alors, sans attendre la Sentence des Chefs de la Loi, les Janissaires s'é-lancerent sur lui avec leurs sabres, & le mirent en pieces dans un instant. Le Bassa, son successeur, n'a osé pu-nir cet assassinat; il a même paru en applaudir les auteurs, comme des braves qui savoient se faire justice. A la moindre rumeur, il répand de l'argent parmi les Soldats, & les laisse faire des incursions en Hongrie où ils brûlent, de tems en tems, quel-ques maisons aux pauvres Rasciens. Vous vous imaginez bien, sans doute, que je ne suis gueres tran-quille dans une Ville ainsi livrée à l'insolence du Soldat. Nous comp-tions n'y pas faire un long séjour, & même n'y coucher qu'une nuit ;\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 310,
+    "total_tokens": 7018
+  }
+}

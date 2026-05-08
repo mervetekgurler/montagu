@@ -1,0 +1,11 @@
+{
+  "page": 63,
+  "raw_response": "{\n  \"page\": 45,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"sance d'Hercule. L'usage que Jupiter fait de sa métamorphose est très-plaisant : lorsqu'il paroît sous la figure d'Amphitrion, on croit qu'il va voler à Alcmene avec les transports que M. Dryden lui prête ; point du tout, il escroque un habit galonné au Tailleur d'Amphitrion, un sac d'argent à un Banquier, un diamant à un Juif, & commande un grand souper chez un Traiteur. Enfin, la Pièce roule sur les importunités qu'Amphitrion essuie de la part de ces créanciers, Sosie est traité de la même maniere par Mercure. Tout cela me fit beaucoup rire ; mais je ne pardonnai point au Poëte d'avoir lardé sa Pièce d'expressions indécentes, & de mots si grossiers, que le bas peuple de Londres auroit peine à les souffrir dans la bouche d'un Bateleur. Ajoûtez à cela, que les deux Sofies mirent exactement culotte bas, devant des\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 324,
+    "total_tokens": 7032
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 70,
+  "raw_response": "{\n  \"page\": 52,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Maître vient seulement l'avertir de l'arrivée de l'Empereur. Ce Prince me fit l'honneur de m'adresser la parole ; ce qui me flatta d'autant plus qu'il ne l'adresse jamais aux Dames qui sont chez l'Impératrice ; sa visite se fait avec un ton de gravité, & un air de cérémonie singulierement affecté. L'Impératrice Amélie, veuve de l'Empereur Joseph, est venue ce soir rendre visite à l'Impératrice Regnante; elle étoit accompagnée des deux Archiduchesses, ses Filles, qui sont fort aimables. Leurs Majestés Impériales se sont levées, & sont allées au-devant d'elle, jusqu'à la porte de l'appartement. L'Impératrice Amélie s'est assise dans un fauteuil, à côté de l'Impératrice Regnante ; les Archiduchesses se sont mises sur des siéges à dossier, mais sans bras. On a servi le souper où les Seigneurs ont eu la liberté d'assister.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 321,
+    "total_tokens": 7029
+  }
+}

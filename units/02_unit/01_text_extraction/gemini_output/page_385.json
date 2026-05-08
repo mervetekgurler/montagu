@@ -1,0 +1,11 @@
+{
+  "page": 385,
+  "raw_response": "{\n  \"page\": 95,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Ermus , Poire.\\nVer bizé bir umut.\\nDonnez-moi quelqu'espérance.\\n\\nJabun , Savon.\\nDerdinden oldum zabun.\\nJe suis malade d'amour.\\n\\nChemur , Charbon.\\nBen oliyim size umur.\\nJe sacrifierois volontiers ma vie , pour allonger la vôtre.\\n\\nGul , Une Rose.\\nBen aglarum sen gul.\\nQue ne puis-je me charger de toutes vos peines , & vous rendre con-tente ?\\n\\nHafir , Une paille.\\nOliim sana yazir.\\nSouffrez que je sois votre esclave.\\n\\nJó hó , Drap.\\nUstuné bulunmaz pahu.\\nVous êtes sans prix.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 258,
+    "total_tokens": 6983
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "page": 432,
+  "raw_response": "{\n  \"page\": 138,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XLIII\",\n      \"heading\": \"LETTRE XLIII.\",\n      \"recipient\": \"A l’Abbé de ***.\",\n      \"location\": \"Constantinople\",\n      \"date\": \"le 17 Mai 1718. Vieux style.\",\n      \"body\": \"J'AI reçu de vos nouvelles avec beaucoup de plaisir. Vos savantes questions ont flaté ma vanité, qui, comme vous savez, est la passion dominante des hommes. Je ne suis, cependant, pas en état de vous répondre : quand je saurois autant de Mathématiques qu'Euclides même, il me faudroit séjourner un siecle dans ce pays pour faire de justes observations sur l'air & les vapeurs. Mais je n'y ai pas encore passé un an entier, & je dois bientôt le quitter. Je suis destinée à être errante : vous en serez surpris ; mais personne ne peut l'être autant que moi. Vous ne\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 253,
+    "total_tokens": 6961
+  }
+}

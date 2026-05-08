@@ -1,0 +1,11 @@
+{
+  "page": 498,
+  "raw_response": "{\n  \"page\": 200,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"TABLE II.\\n\\n:::::::: ::::::::::::::\\nsane :::::::::::::: :::::::::\\n:: novo :: divus : Aug : : no : lus. &.\\npatruus. Ti. Cæsar. omnem. florem ubi-\\nque. coloniarum. ac. municipiorum. bo-\\nnorum. scilicet. virorum. &. locupletium.\\nin hac curia. esse voluit. quid. ergo. non.\\nitalicus. Senator. provinciali. potior. est.\\njam. vobis. cum. hanc. partem. censuræ\\napprobare. cœpero. quid. de. fa. re. sen-\\ntiam. rebus. ostendam. sed. ne. provin-\\nciales. quidem. si modo. ornare. curiam.\\npoterint. rejiciendos. puto.\\nAmatissima. ecce. colonia. valentissi-\\nmaque. Renniensium. quam. longo. jam.\\ntempore. Senatores. huic. curiæ. confert.\\nex. qua. colonia. inter. paucos. eques-\\ntris. ordinis. ornamentum. L. Restinum.\\nfamiliarissime. diligo. &. hodie. in. re-\\nbus. meis. detineo. cujus. liberi. fruan-\\ntur. quæso. primo. Sacerdotiorum. gra-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 394,
+    "total_tokens": 7102
+  }
+}

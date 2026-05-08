@@ -1,0 +1,11 @@
+{
+  "page": 174,
+  "raw_response": "{\n  \"page\": 148,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"bles. Il y a une nombreuse Garnison composée des plus braves Janissaires, commandée par un Bassa Serafkier, c'est-à-dire Général ; mais pour parler correctement, le Seraskier est commandé par les Janissaires. Ces derniers ont ici une autorité absolue, & ils tiennent plutôt la conduite de Soldats révoltés, que de Soldats disciplinés. Vous en jugerez par l'histoire que je vais vous raconter ; elle vous fera en même tems connoître la supérieure intelligence du Gouverneur de Peter-Waradin, qui est tout près de-là. Il nous dit, lorsque nous étions à Peter-Waradin, que la Garnison & les habitans de Belgrade étoient si fatigués de la guerre, qu'ils avoient tué le Bassa, il y avoit environ deux mois, pour avoir permis aux Tartares de ravager les frontieres d'Allemagne, moyennant cinq bourses, qui valent cinq cents livres\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7019
+  }
+}

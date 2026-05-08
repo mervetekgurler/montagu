@@ -1,0 +1,11 @@
+{
+  "page": 307,
+  "raw_response": "{\n  \"page\": 19,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"maisons que par la grandeur : car l'architecture des Turcs n'a nulle apparence. Cette ville est actuellement fort peuplée ; mais la plûpart de ceux qu'on y voit, sont des gens qui suivent l'Armée ; & l'on m'a assuré que, quand ils en sortent, la ville est presque déserte. On desséche tous les étés le fleuve Maritza, appellé autrefois l'Hebre, sur lequel Andrinople est située : je crois que cela contribue beaucoup à rendre l'air mal sain. Ce fleuve fait à présent un courant d'eau qui est fort agréable ; il y a deux beaux ponts dessus. J'ai eu la curiosité d'aller voir la Bourse, dans mon habit Turc, pour n'être pas reconnue ; cependant je vous avouerai que je ne fus pas trop à mon aise, lorsque j'y apperçus une foule de Janissaires ; mais ils n'osent insulter les femmes : ils me firent place avec autant de respect que si\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 311,
+    "total_tokens": 7019
+  }
+}

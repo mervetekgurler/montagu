@@ -1,0 +1,11 @@
+{
+  "page": 378,
+  "raw_response": "{\n  \"page\": 88,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"un sourire qui la rendoit belle comme un Ange : les Dames Chrétiennes passent pour être inconstantes ; & quelqu'amitié que vous m'eussiez marquée à Andrinople, je croyois que je ne vous reverrois plus : mais je suis à présent convaincue que j'ai le bonheur de vous plaire. Si vous saviez quel langage je tiens de vous à nos Dames, vous seriez persuadée que je mérite de vous le titre d'amie. Elle me plaça dans le coin du sopha. Je passai tout l'après-midi à converser avec elle, & j'y goûtai, en vérité, le plus grand plaisir du monde. La Sultane Hafiten est, comme les autres Dames Turques, naturellement obligeante ; mais elle a l'air emprunté, & ses manieres annoncent qu'elle a vécu séparée du monde. Fatime, au contraire, a toute la politesse de Cour, & son air inspire, à la fois, du respect & de la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 305,
+    "total_tokens": 7030
+  }
+}

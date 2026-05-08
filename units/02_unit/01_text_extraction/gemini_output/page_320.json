@@ -1,0 +1,11 @@
+{
+  "page": 320,
+  "raw_response": "{\n  \"page\": 32,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"une tribune fermée par des jalousies dorées : c'est-là que le Grand-Seigneur entend l'Office. Au bout on voit une grande niche, dans laquelle est un autel où l'on monte par des marches : il est couvert de brocard d'or, & il y a sur le devant deux chandeliers de vermeil, d'une grandeur assez considérable ; dans chacun d'eux on voit une chandelle de cire blanche de la grosseur d'un homme. Le dehors de la Mosquée est orné de plusieurs tours, dont le dessus est tout doré : c'est de-là que les Imaums appellent le peuple à l'Office. J'eus la curiosité de monter sur une de ces tours, dont la construction me parut surprenante. On arrive par la même porte à trois différens escaliers qui conduisent aux trois étages de la tour ; mais ces escaliers, qui font le tour de ce bâtiment, sont distribués de maniere que trois Der-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7019
+  }
+}

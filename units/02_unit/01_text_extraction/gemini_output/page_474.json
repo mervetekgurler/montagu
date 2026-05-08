@@ -1,0 +1,11 @@
+{
+  "page": 474,
+  "raw_response": "{\n  \"page\": 176,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"me je suis persuadée que vous préférez l'obéissance aux complimens, je les ai reservés pour la fin de ma Lettre, & suis entrée dans tous les détails que vous m'avez demandés. Je compte partir demain d'ici, continuer mon voyage par l'Italie & la France. J'espere vous dire de bouche dans quelqu'un de ces Pays, que je suis, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 173,
+    "total_tokens": 6881
+  }
+}

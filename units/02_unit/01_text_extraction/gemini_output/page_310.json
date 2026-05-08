@@ -1,0 +1,11 @@
+{
+  "page": 310,
+  "raw_response": "{\n  \"page\": 22,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"assurés de la protection de la Cour. Quoique les Marchands Anglois, François & Italiens connoissent toutes leurs supercheries, ils n'en font pas moins obligés de leur confier leurs affaires : enfin tout ce qui concerne le commerce passe par leurs mains. Les moins considérables d'entr'eux sont encore des hommes assez importans, pour qu'on n'ose leur manquer. Toute la Nation s'intéresse autant à eux qu'aux plus notables. Ils font presque tous riches ; mais ils ont soin de ne le pas paroître : dans l'intérieur de leur maison on trouve la plus grande magnificence, même le plus grand luxe. Me voilà bien éloignée de la description de la Bourse. Elle fut fondée par Ali-Bassa, dont elle porte le nom. Tout proche de cette Bourse est une rue qui a un mille de long ; elle est remplie de boutiques, où l'on trou-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 278,
+    "total_tokens": 7003
+  }
+}

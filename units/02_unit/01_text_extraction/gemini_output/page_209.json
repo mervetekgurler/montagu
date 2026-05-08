@@ -1,0 +1,11 @@
+{
+  "page": 209,
+  "raw_response": "{\n  \"page\": 179,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"fusils sont d'une longueur prodigieuse ; mais ils ne les empêchent pas de courir, même aussi rapidement que s'ils ne portoient rien du tout. Lorsqu'ils sont en marche, leur Commandant chante un air grossier, qui n'est cependant pas désagréable, & ils lui répondent en choeur. Ce peuple étant parmi des Chrétiens & des Mahométans, & n'entendant point la controverse, dit qu'il ne peut juger laquelle des deux Religions est la meilleure ; & afin de ne pas se trouver dans le cas de rejetter la vérité, il les pratique toutes les deux. Les Arnountes vont le Vendredi à la Mosquée, & le Dimanche à l'Eglise. Ils disent qu'ils sont certains, par-là, de la protection du vrai Prophete au jour du Jugement ; mais qu'ils ne peuvent décider dans ce monde lequel est le véritable. Je crois que c'est la seule nation qui soit\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 290,
+    "total_tokens": 6998
+  }
+}

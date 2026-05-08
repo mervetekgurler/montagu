@@ -1,0 +1,11 @@
+{
+  "page": 283,
+  "raw_response": "{\n  \"page\": null,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"LETTRES DE MILADY WORTLAY MONTAGUTE, TRADUITES DE L'ANGLOIS. SECONDE PARTIE.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 111,
+    "total_tokens": 6819
+  }
+}

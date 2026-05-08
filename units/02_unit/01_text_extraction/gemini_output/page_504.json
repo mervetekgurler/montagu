@@ -1,0 +1,11 @@
+{
+  "page": 504,
+  "raw_response": "{\n  \"page\": 206,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"jamais joui d'une si bonne santé, quoique j'aye été fort incommodée pendant la route, qui étoit assez désagréable par elle-même. Pendant que nous changions de chevaux, les Paysans venoient en foule nous demander l'aumône : leur air & leurs habits annonçoient une misere extrême. En arrivant à Fontainebleau j'examinai le Palais du Roi : les Appartemens sont vastes & bien dorés; mais l'Architecture & les Peintures n'ont rien de remarquable. La grande Galerie, que fit bâtir Henri IV, est d'un goût antique. Le Parc est charmant : on y voit de très-beaux arbres, & des étangs magnifiques, où il y a des carpes privées, dont quelques-unes ont, dit-on, plus de quatre-vingts ans. Le feu Roi avoit coutume de passer tous les ans quelques mois dans ce Palais. Les Sentences qu'on trouve sur toutes les pierres des environs, annoncent\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 303,
+    "total_tokens": 7011
+  }
+}

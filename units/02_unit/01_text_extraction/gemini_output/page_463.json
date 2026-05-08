@@ -1,0 +1,11 @@
+{
+  "page": 463,
+  "raw_response": "{\n  \"page\": 165,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"désert. Je conserve, cependant, pour lui tant de vénération, que je suis tentée de vous en faire l'histoire, depuis la fondation de Nicanie & de Corinthe, jusqu'à la derniere campagne des Turcs ; mais je résiste à cette envie, aussi-bien qu'à celle d'y mettre pied à terre. Nous fîmes voile vers le Cap Angelo, autrefois Malea : je n'y vis aucuns vestiges du fameux Temple d'Apollon. Le soir même nous découvrîmes l'Isle de Candie : c'est un Pays fort montagneux. Virgile dit qu'il y avoit cent Villes:\\n\\nCentum urbes habitant magnas.\\n\\nLa principale, qui étoit, pour ainsi dire, le séjour des plus horribles passions, fut d'abord conquise par Metellus ; son Jupiter y avoit pris naissance... Elle tomba ensuite sous la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 288,
+    "total_tokens": 6996
+  }
+}

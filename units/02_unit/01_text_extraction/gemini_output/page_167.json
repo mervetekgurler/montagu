@@ -1,0 +1,11 @@
+{
+  "page": 167,
+  "raw_response": "{\n  \"page\": 141,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"neur, où l'on nous traite magnifiquement par ordre de l'Empereur. Nous resterons ici, jusqu'à ce qu'on ait décidé de quelle maniere on doit nous recevoir sur les frontieres de Turquie. Le Courier que Mylord M*** avoit fait partir d'Essek, est revenu ce matin, avec la réponse du Bassa, dans une bourse de satin écarlate : l'Interprete l'a traduite ; elle nous annonce une réception fort honorable. J'ai engagé Mylord à fixer l'endroit où il veut que l'escorte Turque nous prenne : il a, en conséquence, renvoyé le Courier prier le Bassa que ce fût à Betsko : c'est un village situé entre Peter-Waradin & Belgrade, à égale distance de ces deux Villes : nous attendrons ici sa réponse. Je vous donne, ma chere Soeur, une relation bien circonstanciée de cette partie de mes voyages ; mais je crains qu'elle ne vous ennuye : je puis\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 304,
+    "total_tokens": 7012
+  }
+}

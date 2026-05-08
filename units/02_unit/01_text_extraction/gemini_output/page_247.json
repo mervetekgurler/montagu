@@ -1,0 +1,11 @@
+{
+  "page": 247,
+  "raw_response": "{\n  \"page\": 213,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"taux peuvent servir a entendre bien des passages de l'Ecriture, qui paroissent obscurs. Le Turc vulgaire est très-différent de celui de la Cour, ou des personnes de marque : il est toujours rempli d'Arabe & de Persan ; & il seroit aussi ridicule de s'en servir en parlant à un Grand, que de faire usage de l'Idiome des Provinces d'York ou de Sommerset dans l'antichambre du Roi d'Angleterre. Il y a encore un troisieme langage qu'on appelle sublime ; c'est-à-dire propre pour la Poësie. C'est exactement le même que celui de l'Ecriture. Vous ne serez sans doute pas fâché d'en voir un exemple ; & j'ai cru vous faire plaisir en vous envoyant une traduction fidelle des Vers qu'Ibrahim Bassa, Favori actuel de l'Empereur, a faits en l'honneur de la jeune Princesse sa femme, qu'il ne lui est pas encore permis de voir sans témoins, quoiqu'elle soit chez\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 318,
+    "total_tokens": 7043
+  }
+}

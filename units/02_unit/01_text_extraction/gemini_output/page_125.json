@@ -1,0 +1,11 @@
+{
+  "page": 125,
+  "raw_response": "{\n  \"page\": 103,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XVIII\",\n      \"heading\": \"LETTRE XVIII.\",\n      \"recipient\": \"A Myladi R***.\",\n      \"location\": \"Hanovre\",\n      \"date\": \"le premier Octobre 1716. Vieux style.\",\n      \"body\": \"JE suis bien flattée, ma chere Myladi, que la nouvelle de mon retour en Angleterre vous ait fait tant de plaisir ; mais elle n'est appuyée sur aucun fondement. Je crois que vous me connoissez assez, pour vous en rapporter plutôt à ma parole, qu'aux bruits qui se répandent à mon sujet. Quoique je sois plus près de Londres que je ne l'étois il y a quelques semaines, cependant je n'en ai jamais été si éloignée, suivant mon projet. Je vous avoue que je verrois avec plaisir approcher le moment de vous revoir, ainsi que celles qui partagent mon estime avec vous ; mais Milord M*** ayant pris la ré-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 261,
+    "total_tokens": 6986
+  }
+}

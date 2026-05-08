@@ -1,0 +1,11 @@
+{
+  "page": 144,
+  "raw_response": "{\n  \"page\": 120,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"par l'esprit & le caractère : quoique le nombre en fût petit, il me seroit cependant très-difficile d'en trouver autant ailleurs : nous nous estimions tous réciproquement au point que nous cherchions à être continuellement ensemble. Vous savez que j'ai toujours regardé une société composée d'un petit nombre de personnes qu'on estime, comme le plus grand bonheur de la vie. On trouve ici des Espagnols des deux sexes : ils ont toute la vivacité & toute la délicatesse de sentiment qu'on attribuoit autrefois à leur Nation. Si je pouvois me persuader que tout le monde leur ressemble en Espagne, je désirerois d'y passer le reste de mes jours. Toutes les Dames de ma connoissance m'aiment au point qu'elles ne me voyent jamais sans verser des larmes, depuis qu'elles savent que je suis déterminée à entreprendre un pénible\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 281,
+    "total_tokens": 7006
+  }
+}

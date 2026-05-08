@@ -1,0 +1,11 @@
+{
+  "page": 117,
+  "raw_response": "{\n  \"page\": 95,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"gré les horreurs d'une étroite prison, elle résiste toujours aux menaces & aux promesses. Le chagrin lui a causé des accès de fiévre qui la conduiront vraisemblablement bientôt au tombeau. Je ne puis refuser quelques sentimens de compassion à une femme qui souffre pour un point d'honneur, quoique mal entendu ; surtout dans un Pays où les femmes se piquent si peu d'en avoir. Je souhaiterois que les affaires de Milord M*** lui permissent de faire un plus long séjour à Dresde. Peut-être, suis-je prévenue en faveur de cette Ville, parce qu'on y professe la Religion Protestante ; mais tout m'y annonce une politesse bien différente de celle que j'ai trouvée ailleurs. Leipsick, où je suis actuellement, est une Ville très-considérable par son commerce, & je profite de l'occasion pour acheter des livrées de Pages, & des étoffes d'or\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 291,
+    "total_tokens": 6999
+  }
+}

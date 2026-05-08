@@ -1,0 +1,11 @@
+{
+  "page": 161,
+  "raw_response": "{\n  \"page\": 137,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"nous a fourni. Ces pauvres gens étoient si sensibles à cette générosité, à laquelle ils font peu accoutumés, qu'à notre départ ils nous engageoient toujours à accepter quelque présent, comme des Faisans gras, ou autres choses semblables. Leur habillement est fort ancien ; ce n'est autre chose qu'une peau de mouton : leur bonnet & leurs bottes font de la même matière. Comme cet habit leur dure long-tems, ils ont rarement besoin d'argent. Le 26, nous passâmes en voiture, & avec tous nos équipages, sur le Danube, qui étoit gelé. Le Général Veterani nous attendoit de l'autre côté : il nous invita à aller passer la nuit dans un petit Château qu'il a à quelques milles du fleuve, & nous assûra qu'il y avoit une journée de marche très-fatigante pour aller à Essek. Nous éprouvâmes la vérité de ce qu'il nous\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 297,
+    "total_tokens": 7022
+  }
+}

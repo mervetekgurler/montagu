@@ -1,0 +1,11 @@
+{
+  "page": 317,
+  "raw_response": "{\n  \"page\": 29,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Mosquée du Sultan Sélim I. Ce bâtiment est digne de la curiosité d'un voyageur. Quoique je fusse habillée à la mode du pays, j'imagine qu'on savoit qui j'étois ; cependant on ne fit aucune difficulté de me laisser entrer ; le portier même eut l'attention de me conduire par-tout. Cette Mosquée a quelque chose de majestueux : elle est située au milieu de la ville, & dans le lieu le plus élevé. La premiere cour a quatre portes ; la seconde, trois ; & toutes les deux sont environnées de portiques, dont les piliers sont de marbre & d'Ordre Ionique ; le pavé est de marbre blanc. Le haut de ces portiques forme plusieurs coupoles ou dômes, sur chacun desquels on voit un globe doré. Au milieu des deux cours il y a de belles fontaines de marbre blanc : devant la grande porte de la Mosquée est un portique soutenu par\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 291,
+    "total_tokens": 7016
+  }
+}

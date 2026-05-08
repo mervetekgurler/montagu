@@ -1,0 +1,11 @@
+{
+  "page": 387,
+  "raw_response": "{\n  \"page\": 97,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Cette Lettre, comme vous voyez, est une piece de Poésie, & je crois qu'elle vaut au moins nos meilleures dans ce genre. Les Turcs ont plus d'un million de vers semblables. Il n'y a chez eux ni couleur, ni fleur, ni herbe, ni fruit, ni caillou, ni plume qui n'ait sa signification, & son vers particulier : ainsi ils peuvent s'envoyer des Lettres remplies d'injures, de reproches, d'amour, d'amitié, même de nouvelles, sans se servir d'encre.\\nJ'imagine que vous me regardez à présent comme un miracle d'érudition : mais, ma chere Milady, je pourrai bien ressembler à ces ambitieux conquérans qui s'occupent à faire des conquêtes éloignées, tandis qu'il s'éleve une sédition dans leurs propres Etats : je crains d'oublier l'Anglois; je ne l'écris pas, à beaucoup près, si facilement que je fai-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 307,
+    "total_tokens": 7015
+  }
+}

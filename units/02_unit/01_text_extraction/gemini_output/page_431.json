@@ -1,0 +1,11 @@
+{
+  "page": 431,
+  "raw_response": "{\n  \"page\": 137,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"par plusieurs Arméniens, entr'autres par un jeune homme, qui me dit, en pleurant, que sa mere l'avoit promis à une fille qu'il devoit épouser de cette maniere. Mais il m'assura qu'il mourroit plutôt que de se soumettre à cette tyrannie, parce qu'il étoit persuadé que celle qu'on lui destinoit avoit toutes les difformités imaginables. Il me semble vous voir frémir d'horreur en lisant cette relation. Je crois que je ne peux finir ma Lettre par une histoire plus surprenante. Je puis vous assurer qu'elle est aussi véritable, qu'il l'est que je suis, ma très-chere Soeur, votre, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 247,
+    "total_tokens": 6955
+  }
+}

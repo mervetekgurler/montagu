@@ -1,0 +1,11 @@
+{
+  "page": 105,
+  "raw_response": "{\n  \"page\": 83,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"tableaux, parmi lesquels il y a de belles mignatures : les plus beaux sont du Corrége; car ceux du Titien sont à la Favorite. Le cabinet des pierreries m'a paru moins riche que je le croyois. On m'y a montré une coupe à peu près de la grandeur d'une tasse à thé; elle est d'une seule émeraude : on a tant de respect pour elle, qu'il n'est permis qu'à l'Empereur d'y toucher. Il y a un autre grand cabinet rempli de pièces de méchanique : je n'y en ai trouvé qu'une digne d'attention ; c'est une écrevisse, dont les mouvemens sont si artistement faits, qu'on la croiroit naturelle. Dans un autre cabinet est une collection d'agathes, parmi lesquelles il y en a d'extrêmement belles, & d'une grosseur peu commune. On y voit, en outre, plusieurs vases de lapis lazuli. Le cabinet de médailles est si pauvre, que j'en\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 314,
+    "total_tokens": 7022
+  }
+}

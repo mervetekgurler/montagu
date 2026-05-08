@@ -1,0 +1,11 @@
+{
+  "page": 92,
+  "raw_response": "{\n  \"page\": 72,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"monies , & je ne me suis déjà que trop étendue sur un sujet si insipide qui fixe cependant toute l'attention du peuple. Jugez à présent si je m'amuse beaucoup ici. Je suis, &c.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 131,
+    "total_tokens": 6856
+  }
+}

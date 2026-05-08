@@ -1,0 +1,11 @@
+{
+  "page": 369,
+  "raw_response": "{\n  \"page\": 79,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"seur d'une noisette. Autour de son Talpoche elle avoit quatre cordons de perles les plus éclatantes & les plus parfaites qu'on puisse voir. Il y en avoit assez pour faire au moins quatre colliers, aussi gros chacun que celui de la Duchesse de Marlborough. Ces cordons étoient attachés avec deux roses, composées chacune d'un gros rubis environné de vingt diamans. Sa coëffure étoit toute couverte d'épingles à tête d'émeraude & de diamant. Ses bracelets étoient de diamant ; elle avoit à ses doigts les plus grosses bagues que j'aye jamais vues, excepté celles de M. Pitt. Je laisse aux Jouaillers à estimer ces choses : mais, suivant le prix des pierreries en Angleterre, son ajustement devoit valoir cent mille livres sterling. Je suis certaine qu'il n'y a point de Reine en Europe qui en ait un qui vaille la moitié autant ; & les pierre-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 299,
+    "total_tokens": 7024
+  }
+}

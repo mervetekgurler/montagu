@@ -1,0 +1,11 @@
+{
+  "page": 204,
+  "raw_response": "{\n  \"page\": 174,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"sance beaucoup plus parfaite que celle qu'aucun Chrétien ait jamais euë. Je lui fis connoître la différence qu'il y a entre la Religion Anglicanne, & celle de Rome. Il fut satisfait de voir qu'il y eût des Chrétiens qui n'adoroient ni les images, ni même la Vierge Marie : la transubstantiation lui parut quelque chose de bien fort. Quand je compare la Profession de Foi des Turcs avec la nôtre, je suis convaincue que si notre ami le Docteur *** avoit la liberté de prêcher ici, il n'auroit pas beaucoup de peine à faire embraſſer la Religion Chrétienne à la plûpart des Turcs : leurs notions sont peu différentes des siennes. M. Whiston feroit un bon Apôtre ici : je suis persuadée que vous enflammerez son zèle si vous lui faites part de ma Lettre ; mais dites-lui qu'avant d'être utile dans ce pays, il faut qu'il\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 302,
+    "total_tokens": 7010
+  }
+}

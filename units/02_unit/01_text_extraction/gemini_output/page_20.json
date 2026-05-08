@@ -1,0 +1,11 @@
+{
+  "page": 20,
+  "raw_response": "{\n  \"page\": 20,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"IV\",\n      \"heading\": \"LETTRE IV.\",\n      \"recipient\": \"A Milady ***.\",\n      \"location\": \"Cologne\",\n      \"date\": \"le 16 Août 1716. Vieux style.\",\n      \"body\": \"SI vous pouviez, Milady, vous former une idée des fatigues que j'ai essuyées depuis deux jours, vous me tiendriez compte, j'en suis persuadée, du courage que j'ai de vous écrire, & vous le prendriez comme une preuve convaincante de la parfaite considération que j'ai pour vous. Nous avons pris des chevaux de louage, parce qu'il n'y a point de Poste de Nimegue à Cologne, & nous nous sommes arrêtés à Remberg, pour nous reposer ; mais nous y avons été fort mal logés. Ce n'est, cependant, rien en comparaison de ce que je souffris hier. Nous nous flattions d'ar-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 259,
+    "total_tokens": 6967
+  }
+}

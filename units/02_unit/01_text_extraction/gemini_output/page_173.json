@@ -1,0 +1,11 @@
+{
+  "page": 173,
+  "raw_response": "{\n  \"page\": 147,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"croyoient pas encore leurs forces égales à celles des Allemands, quoique leur nombre fût supérieur. J'ai été fort inquiette jusqu'au moment de leur séparation ; je craignois toujours qu'il ne s'élevât quelque querelle entr'eux, malgré la parole donnée. L'épaisseur de la neige rendoit la montagne de Belgrade très-difficile ; ce qui fut cause que nous n'arrivâmes dans cette Ville que fort tard. Elle est fortifiée à l'Est par le Danube, & au Midi par la Save ; c'étoit autrefois la barriere de Hongrie du côté des Turcs. Elle fut prise d'abord par Soliman le Magnifique, ensuite par les Troupes de l'Empereur, commandées par l'Electeur de Baviere. Elle resta deux ans sous la domination de l'Empereur, au bout desquels le Grand-Visir la reprit. Les Turcs l'ont fortifiée avec tout l'art dont ils sont capa-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 297,
+    "total_tokens": 7022
+  }
+}

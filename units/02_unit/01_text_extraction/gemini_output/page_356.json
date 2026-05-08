@@ -1,0 +1,11 @@
+{
+  "page": 356,
+  "raw_response": "{\n  \"page\": 66,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"» cette fois. » Lorsque je leur demande, comment elles pourront pourvoir à la subsistance d'une famille aussi nombreuse qu'elles le desirent, elles me répondent que la peste en détruira infailliblement la moitié. Cela arrive ordinairement, sans que les parens en prennent beaucoup de chagrin : leur tendresse est satisfaite lorsqu'ils ont produit beaucoup d'enfans, & elle n'est point allarmée lorsqu'ils les perdent. L'Ambassadrice de France & moi nous sommes obligées de nous conformer à cet usage. Il n'y a guères plus d'un an qu'elle est ici ; elle a déjà eu un enfant, & est encore enceinte. Ce qui me paroît le plus agréable pour les femmes dans ce Pays-ci, c'est qu'elles sont exemptes de la malédiction qui est attachée à notre sexe dans les autres : elles voyent toutes fortes de compagnies si-tôt qu'elles sont déli-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 294,
+    "total_tokens": 7002
+  }
+}

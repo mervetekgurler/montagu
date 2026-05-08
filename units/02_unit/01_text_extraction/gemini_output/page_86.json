@@ -1,0 +1,11 @@
+{
+  "page": 86,
+  "raw_response": "{\n  \"page\": 68,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"écrire d'insipides. Le plaisir que j'ai de recevoir des preuves de votre amitié, triomphe de mon aversion : je crains cependant que ma réponse ne vous fasse regretter la peine que vous avez prise de m'écrire. Ce n'est pas de l'Autriche qu'on reçoit des Lettres pleines de vivacité, & le flegme du pays m'a déjà gagnée ; on en met jusques dans les querelles & la galanterie ; il n'y a que le cérémonial qui en soit exempt ; c'est lui qui développe toute la vivacité dont les Autrichiens sont capables. Deux carosses se rencontrant, il y a peu de tems, dans une rue fort étroite, pendant la nuit : les Dames qui étoient dedans se disputerent entr'elles le pas ; & ne pouvant décider laquelle devoit reculer, elles resterent dans leur voiture jusqu'à deux heures du matin. Elles étoient\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 288,
+    "total_tokens": 7013
+  }
+}

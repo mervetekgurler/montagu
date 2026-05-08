@@ -1,0 +1,11 @@
+{
+  "page": 185,
+  "raw_response": "{\n  \"page\": 159,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"seroient exposés. Il y a dans cette Ville un Evêque Grec, & on y voit encore quelques anciennes Eglises Grecques. D'ici à Andrinople, la campagne est extrêmement agréable; les coteaux sont remplis de vignes, toutes couvertes de raisins; un printems éternel y rend la Nature toujours brillante. Cependant, ce pays, quelqu'agréable qu'il paroisse, n'est point préférable à l'Angleterre avec ses glaces & ses neiges, tant qu'elle sera gouvernée par un Roi qui fait consister son bonheur dans la liberté de son peuple, dont il veut plutôt être le pere que le maître: mais cette matiere me conduiroit trop loin; je sens que je n'ai déjà que trop abusé de la patience de Votre Altesse Royale. Ma Lettre est entre vos mains, & vous pouvez la jetter au\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 272,
+    "total_tokens": 6980
+  }
+}

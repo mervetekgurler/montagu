@@ -1,0 +1,11 @@
+{
+  "page": 489,
+  "raw_response": "{\n  \"page\": 191,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": \"XLVII\",\n      \"heading\": \"LETTRE XLVII.\",\n      \"recipient\": \"A Madame L. ***.\",\n      \"location\": \"Lyon\",\n      \"date\": \"le 25 Septembre 1718. Vieux style.\",\n      \"body\": \"EN arrivant ici, j'ai reçu vos deux Lettres, & celles de plusieurs de mes amis, lesquelles m'avoient été adressées à Constantinople. Notre Marchand de Marseille, sçachant que nous étions ici, nous les y a adressées. Ma sœur n'étoit point alors en Angleterre ; je crains qu'elle n'ait pas reçu la Lettre que je lui ai écrite de Turin, & comme je n'ai point reçu de ses nouvelles, je ne sçais où lui adresser les miennes. J'ai gardé le lit pendant plusieurs jours ; j'arrivai ici le 17 de ce mois : je fus prise d'une fiévre si violente, que je me crus toucher au moment où\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 270,
+    "total_tokens": 6995
+  }
+}

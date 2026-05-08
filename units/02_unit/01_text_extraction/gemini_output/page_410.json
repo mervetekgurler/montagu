@@ -1,0 +1,11 @@
+{
+  "page": 410,
+  "raw_response": "{\n  \"page\": 118,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"profondes méditations. Quelque ridicules que me parussent leurs cérémonies, je fus cependant édifiée de leurs mortifications & de leur obéissance. Cette Lettre est d'une terrible longueur ; mais vous la jetterez au feu, quand vous vous ennuierez de la lire.\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6725,
+    "thought_tokens": null,
+    "output_tokens": 146,
+    "total_tokens": 6871
+  }
+}

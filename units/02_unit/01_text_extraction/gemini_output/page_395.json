@@ -1,0 +1,11 @@
+{
+  "page": 395,
+  "raw_response": "{\n  \"page\": 105,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"tienté, un Roi qui ait un Palais aussi grand de moitié. Il y a fix grandes cours rondes, ornées d'arbres, & environnées de galeries, bâties en pierres. La premiere de ces cours est pour la Garde, la seconde pour les Esclaves, la troisieme pour les Officiers de cuisine, la quatrieme pour les écuries, la cinquieme pour le Divan, la sixieme enfin pour les Audiences. Il y en a, au moins, une fois autant dans la partie du Palais qu'occupent les femmes. Les Eunuques, les Officiers, les Cuisiniers y ont tous leur quartier séparé.\\nL'édifice le plus renommé, après le Serrail, c'est Sainte Sophie; mais un Chrétien ne parvient que très-difficilement à le voir. J'en ai fait demander trois fois la permission au Caimairam, Gouverneur de la Ville, qui, à la fin, a fait assembler les principaux Effendis, Chefs de la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 308,
+    "total_tokens": 7016
+  }
+}

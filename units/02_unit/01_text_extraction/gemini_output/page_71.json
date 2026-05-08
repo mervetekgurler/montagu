@@ -1,0 +1,11 @@
+{
+  "page": 71,
+  "raw_response": "{\n  \"page\": 53,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"Le repas étoit splendide ; les Filles d'honneur de l'Impératrice ont rangé les plats. Elles sont au nombre de douze, toutes jeunes, & de la premiere qualité. On ne leur donne aucuns gages ; elles sont seulement logées & nourries à la Cour, où elles sont fort gênées, n'ayant pas la liberté d'aller dans les assemblées, même de se montrer au dehors, si ce n'est lorsqu'il faut en complimenter quelqu'une d'entr'elles qui vient de se marier : dans cette occasion, l'Impératrice lui fait présent de son portrait. Les trois premieres sont appellées Dames de la clef, & elles portent des clefs d'or à leur côté. Lorsqu'elles sont sorties du service de l'Impératrice, l'usage veut qu'elles lui fassent, pendant le reste de leur vie, un présent tous les ans, le jour de sa Fête : cela me paroît assez singulier. L'Impératrice n'a que des Filles à son service,\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 310,
+    "total_tokens": 7018
+  }
+}

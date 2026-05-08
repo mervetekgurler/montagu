@@ -1,0 +1,11 @@
+{
+  "page": 68,
+  "raw_response": "{\n  \"page\": 50,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"une audience particuliere d'une de-mi-heure, au bout de laquelle on permit aux autres Dames de venir faire leur Cour. En voyant cette Princesse, j'ai senti le ravissement de l'admiration : ses traits ne sont cependant pas tout-à-fait réguliers; ses yeux ne font point grands; mais ils font vifs & doux; son nez est bien fait, son front bien pris; sa bouche est charmante; elle a le sourire extrême-ment agréable; son teint est le plus beau que j'aye jamais vû; sa tête est ornée d'une prodigieuse quantité de beaux cheveux : mais sa taille, son air & ses gestes !... pour les peindre, il faudroit emprunter le langage poë-tique. Ce qu'on a dit de la noblesse de Junon, des charmes de Vénus, n'est point encore assez expressif : les graces sont répandues sur toute sa personne. Non, la fameuse Vénus de Médicis n'a pas une taille plus ré-guliere. On ne peut rien ajoûter à la\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 324,
+    "total_tokens": 7032
+  }
+}

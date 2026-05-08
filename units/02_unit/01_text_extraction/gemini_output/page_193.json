@@ -1,0 +1,11 @@
+{
+  "page": 193,
+  "raw_response": "{\n  \"page\": 165,\n  \"language\": \"fr\",\n  \"letters\": [\n    {\n      \"number\": null,\n      \"heading\": null,\n      \"recipient\": null,\n      \"location\": null,\n      \"date\": null,\n      \"body\": \"répéterent plusieurs fois ces mots, Uzelle, Pek, Uzelle, c'est-à-dire, charmante, très-charmante..... Les premiers bancs étoient couverts de coussins & de riches tapis ; les Dames étoient assises dessus, & leurs Esclaves étoient sur les seconds, derriere elles : ce n'étoit pas l'habit qui les distinguoit, car elles étoient dans l'état de nature, c'est-à-dire toutes nues, sans cacher ni beauté ni défaut ; je n'apperçus cependant pas le moindre sourire, ni le moindre geste qui pût choquer la pudeur. Quelques-unes se promenoient, mais avec cet air majestueux que Milton donne à notre premiere Mere. Plusieurs d'entr'elles étoient aussi bien prises dans leur taille, qu'aucun portrait de Déesse qui soit sorti du pinceau du Guide ou du Titien : presque toutes avoient la peau d'une blancheur à éblouir : de beaux che-\",\n      \"footnote\": null\n    }\n  ]\n}",
+  "finish_reason": "STOP",
+  "usage": {
+    "prompt_tokens": 6708,
+    "thought_tokens": null,
+    "output_tokens": 306,
+    "total_tokens": 7014
+  }
+}
