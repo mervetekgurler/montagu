@@ -1442,97 +1442,6 @@
 	}
 }]]>
         </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml?person_annotation_20260522110036949",
-	"type": "oa:Annotation",
-	"dcterms:created": "2026-05-22T15:00:36.949Z",
-	"dcterms:modified": "2026-05-22T15:00:36.949Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/mervetekgurler",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Merve Tekgürler"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml?person_annotation_20260522110036949#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "4.2.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml?person_annotation_20260522110036949#Selector",
-			"@type": "oa:RangeSelector",
-			"oa:hasStartSelector": {
-				"@type": "oa:XPathSelector",
-				"rdf:value": "TEI/text/body/div/p/persName[2]"
-			},
-			"oa:hasEndSelector": {
-				"@type": "oa:XPathSelector",
-				"rdf:value": "TEI/text/body/div/p"
-			},
-			"oa:refinedBy": {
-				"@type": "oa:TextPositionSelector",
-				"oa:start": 0,
-				"oa:end": 240
-			}
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q5345996",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "4.2.0"
-	}
-}]]>
-        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -1548,8 +1457,8 @@
             </opener>
 
             <p>I DID verily intend to write you a long letter from <placeName key="Petrovaradin" ref="http://www.wikidata.org/entity/Q19429" cert="high">Peterwaradin<precision match="@ref" precision="high"/></placeName>, where I expected to
-               stay three or four days; but <persName role="Pasha of Belgrade" type="real">the bassa here</persName> was in such haste to see us, that he
-               dispatched the courier back (which <persName key="Montagu, Edward Wortley, 1713-1776" ref="http://viaf.org/viaf/13088853" cert="high">Mr W----</persName> had sent to know the time he would send
+               stay three or four days; but <persName role="Pasha of Belgrade" type="military-administration">the bassa here</persName> was in such haste to see us, that he
+               dispatched the courier back (which <persName key="Montagu, Edward Wortley, 1713-1776" ref="http://viaf.org/viaf/13088853" cert="high"><persName>Mr W----</persName></persName> had sent to know the time he would send
                the convoy to meet us) without suffering him to pull off his boots. My letters were
                not thought important enough to stop our journey; and we left <placeName key="Petrovaradin" ref="http://www.wikidata.org/entity/Q19429">Peterwaradin</placeName> the next
                day, being waited on by the chief officers of the garrison, and a considerable convoy
