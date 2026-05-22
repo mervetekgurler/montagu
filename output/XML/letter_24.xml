@@ -1443,6 +1443,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml?organization_annotation_20260522105810517",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-05-22T14:58:10.517Z",
+	"dcterms:modified": "2026-05-22T14:58:10.517Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/mervetekgurler",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Merve Tekgürler"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml?organization_annotation_20260522105810517#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/mervetekgurler/montagu/main/output/XML/letter_24.xml?organization_annotation_20260522105810517#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q130263",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -1493,7 +1572,7 @@
                travels.</p>
 
             <p>WE were met at <placeName key="Beška" ref="http://www.wikidata.org/entity/Q585973">Betsko</placeName> (a village in the midway between <placeName key="Belgrade" ref="http://www.wikidata.org/entity/Q3711" cert="high">Belgrade<precision match="@ref" precision="high"/></placeName> and <placeName key="Petrovaradin" ref="http://www.wikidata.org/entity/Q19429">Peterwaradin</placeName>) by
-               an aga of the janizaries, with a body of Turks, exceeding the Germans by one hundred
+               an aga of the <orgName key="janissary" ref="http://www.wikidata.org/entity/Q130263">janizaries</orgName>, with a body of Turks, exceeding the Germans by one hundred
                men, though the bassa had engaged to send exactly the same number. You may judge by
                this of their fears. I am really persuaded, that they hardly thought the odds of one
                hundred men set them even with the Germans; however, I was very uneasy till they were
