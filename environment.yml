@@ -19,6 +19,7 @@ dependencies:
   - requests
   - beautifulsoup4
   - conda-forge::ipywidgets
+  - conda-forge::cryptography # some issues pop up due to google-genai 
   - pip  # Add pip to install packages not in conda
   - pip:
       - google-genai  # google-genai must be installed via pip
