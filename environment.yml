@@ -1,13 +1,12 @@
 name: montagu-letters
 channels:
-  - defaults
   - conda-forge
 dependencies:
   - jupyter
   - matplotlib
   - seaborn
-  - numpy
-  - python>=3.13
+  - numpy<2.0
+  - python=3.12
   - ipykernel
   - scikit-learn
   - nltk
@@ -18,13 +17,13 @@ dependencies:
   - lxml
   - requests
   - beautifulsoup4
-  - conda-forge::ipywidgets
-  - conda-forge::cryptography # some issues pop up due to google-genai 
-  - pip  # Add pip to install packages not in conda
+  - ipywidgets
+  - cryptography
+  - pip
   - pip:
-      - google-genai  # google-genai must be installed via pip
+      - google-genai
       - pypdf
       - wordcloud
       - tqdm
-      - folium # creates interactive maps (Leaflet.js-based)
-      - stanza
+      - folium
+      - stanza>=1.8,<2.0
